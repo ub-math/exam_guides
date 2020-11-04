@@ -2,13 +2,19 @@
 layout: default
 ---
 
-# Quick Links
+
+
+
+# Quick links
 
 [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) - portal for accessing exam Zoom meeings (from phone/tablet).
 [exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
 [www.gradescope.com](https://gradescope.com) - Gradescope.
 
-#2-device proctored exams
+
+
+
+# 2-device proctored exams
 
 This guide provides instructions for taking proctored exams in courses offered by the UB Math Department. The setup of the exam requires students to use two devices:
 
@@ -17,6 +23,39 @@ This guide provides instructions for taking proctored exams in courses offered b
 
 Math Department staff members proctor the exams via your smartphone/tablet camera.
 
+
+
+# Software installation and setup
+
+## Zoom app
+
+In order to join a proctored exam meeting you will need to have the Zoom app installed on your smartphone or tablet.
+This app is available for both  Android and iOS devices.
+
+To access exam Zoom meetings you need to be signed into Zoom
+with your UB account. If you are signed in with another account, you can follow these steps to switch to your UB account:
+
+* In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the bottom).
+* Click Sign In and then choose SSO where it says "SIGN IN WITH"
+* Type ```buffalo``` where it says Enter your company domain.
+* On the next screen log in using your UB username and password (Duo will be required for this step).
+
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9) demonstrating the above steps.
+
+## Microsoft Office Lens
+
+At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
+Install the Microsoft Office Lens scanning app on your smartphone or tablet. The app is available for both  Android and iOS devices.
+If needed, refer to the online instructions on how to use Office Lens on Android and iOS.
+Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple pages.
+Here is a short video demonstrating the use of Office Lens.
+
+## Gradescope
+
+Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
+Set up your Gradescope account following the instructions in this guide to Gradescope.
+Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope. Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
+Here is a short video demonstrating the process of uploading your work to Gradescope and matching pages with questions.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
