@@ -1,13 +1,40 @@
-<footer class="p2pu-footer">
-	<div class="container">
-		<div class="col-md-12 cc-by-sa">
-			<img src="{{site.baseurl}}/img/cc-icons.png" alt="CC-BY-SA Icon">
-			<p>
-				All the materials on this site are licensed under a
-				<a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-					Creative Commons  BY-NC-SA 4.0</a> International license.
-			</p>
-		</div>
-	</div>
-</footer>
 
+<div class="py-5 border-top">
+  <div class="container">
+
+    <p class="h5 mb-3">{{ site.title | escape }}</p>
+
+    <div class="row">
+
+      <div class="col-sm">
+        <ul class="list-unstyled">
+          <li>
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+            <li>
+              <a href="mailto:{{ site.email }}">
+                {{ site.email }}
+              </a>
+            </li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+
+      <div class="col-sm text-right">
+        <p>{{- site.description | escape -}}</p>
+
+        <p>
+          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+</div>

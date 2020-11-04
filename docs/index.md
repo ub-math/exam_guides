@@ -1,255 +1,109 @@
 ---
-layout: default
+layout: page
+title: Bootstrap 4 Github Pages
 ---
 
+A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
+* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
+* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
+* Full support of Bootstrap's JavaScript plugins.
+* Supports all features of Github Pages and Jekyll.
 
+## Setup Guide
 
-# Quick links!
+### Create a repository from this template
 
-* [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) - portal for accessing exam Zoom meeings (from phone/tablet).
-* [exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
-* [www.gradescope.com](https://gradescope.com) - Gradescope.
+[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
 
+### Choose a name for your repository
 
+Here we have two possibilities:
 
-{% include due_dates.html
-mon_deadline = 'Monday 9/7'
-wed_deadline = 'Wednesday 9/9'
-%}
+* **You want a user or organization website**
 
+  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
 
+  Choose the repository name `<your username>.github.io`.
 
-# 2-device proctored exams
+* **You want a project website**
 
-This guide provides instructions for taking proctored exams in courses offered by the UB Math Department. The setup of the exam requires students to use two devices:
+  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
 
-* a computer, to access the exam
-* a smartphone or tablet equipped with a camera to access an exam Zoom meeting.
+  Choose the repository name `<whatever you want>`.
 
-Math Department staff members proctor the exams via your smartphone/tablet camera.
+### Activate Github Pages on your repository
 
+Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
 
+### That's it
 
-# Software installation and setup
+Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
 
-## Zoom app
+## Customization Guide
 
-In order to join a proctored exam meeting you will need to have the **Zoom app** installed on your smartphone or tablet.
-This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US){:target="_blank" rel="noopener"}
-and [iOS](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307){:target="_blank" rel="noopener"} devices.
+### Modify the configuration
 
-To access exam Zoom meetings you need to be signed into Zoom
-with your UB account. If you are signed in with another account, you can follow these steps to switch to your UB account:
+You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
 
-* In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the bottom).
-* Click Sign In and then choose **SSO** where it says "SIGN IN WITH"
-* Type ```buffalo``` where it says Enter your company domain.
-* On the next screen log in using your UB username and password (Duo will be required for this step).
+### Change your theme
 
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9){:target="_blank" rel="noopener"}
-demonstrating the above steps.
+This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
 
+You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
 
-## Microsoft Office Lens
+But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
 
-At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
-Install the Microsoft Office Lens scanning app on your smartphone or tablet. The app is available for both  Android and iOS devices.
-If needed, refer to the online instructions on how to use Office Lens on Android and iOS.
-Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple pages.
-Here is a short video demonstrating the use of Office Lens.
+* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
+* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
+* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
+* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
 
+That's it, you now have a totally different appearance for you website.
 
-## Gradescope
+### Modify the content
 
-Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
-Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
-Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope.
-Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
-demonstrating the process of uploading your work to Gradescope and matching pages with questions.
+You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
 
+Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
 
-## The exam PIN
+### Run Jekyll on your computer to speed up testing
 
-To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
-Prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
-If you can’t find it, contact the course instructor. For each Math course you are taking this semester, you will use the same PIN for all exams.  
+Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
 
-**Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  and can make you vulnerable to dishonesty by others.**
+To do so:
 
-# Your exam workspace
+* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
+* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
+* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
+* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
 
-## Workspace setup
+Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
 
-Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
+## Known issues
 
+* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
 
-### Here is what you will need to take the exam:
+## How to contribute
 
-1. A computer with an internet connection.
-2. A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
-   Make sure that your device is fully charged or it is connected to a charger.
-3. A Gradescope account.
-4. UB student ID (or a government issued photo ID).
-5. Your exam PIN.
-6. Pen or pencil.
-7. Blank paper.
-8. Desk or table clear of any items, besides those listed above.
+Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
 
-During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
-textbooks, websites, etc) unless it is specified otherwise by the course instructor. Also, you must not wear headphones or earbuds.
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe){:target="_blank" rel="noopener"}
-demonstrating proper workspace setup.
+[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
 
+## Websites using Bootstrap 4 Github Pages
 
-## Zoom device setup
+* [My personal blog](https://nicolas-van.github.io/)
+* [the wavelet's profile](https://thewavelet.github.io/)
+* [roseblood.github.io](https://roseleblood.github.io/)
+* [colemannick.github.io](https://colemannick.github.io/)
+* [Betty and the Blushtones](http://bettyandtheblushtones.co.uk/)
+* [borislouis.github.io](https://borislouis.github.io/)
+* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
 
-<table style="border-collapse: collapse;">
-<tr>
-<td style="border:none">
-Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
-Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
+## Other Github Pages related projects
 
-<ul>
-<li> your computer screen and keyboard (and mouse if any) </li>
-<li> your face and your hands </li>
-<li> your writing surface and the papers you are writing on. </li>
-</ul>
+I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
 
-For most phones, this will require the phone to be a little more than arm's length away. You may need to arrange another support
-for the phone if your desk is not big enough - get creative!
-Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"  target="_blank">short video</a>
-about getting your zoom device positioned properly.
-</td>
-<td style="border:none">
-<img style="width:200px;" src="./assets/images/phone_setup.png">
-</td>
-</tr>
-</table>
+* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
 
-
-
-
-
-# REST
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

@@ -1,6 +1,7 @@
 language: ruby
-cache: bundler
-rvm: 2.6
-
-install: script/bootstrap
-script: script/cibuild
+rvm:
+  - 2.5
+before_install:
+  - gem update --system
+  - gem install bundler
+script: bundle exec jekyll build
