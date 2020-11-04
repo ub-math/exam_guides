@@ -117,7 +117,7 @@ Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e
 about getting your zoom device positioned properly.
 </td>
 <td>
-<img style="width:50%;" src="./assets/images/phone_setup.png">
+<img style="width:200px;" src="./assets/images/phone_setup.png">
 </td>
 </tr>
 </table>
