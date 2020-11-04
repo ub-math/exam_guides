@@ -1,83 +1,123 @@
-# CDSE Days 2019
-# Python Workshop
-
-
-##  Workshop notebook files
-
-Jupyter Notebook files used during this workshop are posted below. Each notebook
-is posted as an ipynb file (which can be downloaded and opened in Jupyter Noptebook)
-and as an html file (viewable online). I did not cover Notebook 3 during the workshop
-due to lack of time.
-
-* Notebook 1: Jupyter and Python Basics:  [ipynb](CDSE_Python_1_Intro.ipynb)  [html](CDSE_Python_1_Intro.html)
-
-* Notebook 2: Web Scrapping with Pandas and BeautifulSoup: [ipynb](CDSE_Python_2_Soup.ipynb)  [html](CDSE_Python_2_Soup.html)
-
-* Notebook 3: Computing with Numpy: [ipynb](CDSE_Python_3_Numpy.ipynb)  [html](CDSE_Python_3_Numpy.html)
-
-* Notebook 4: Analyzing Data with Pandas: [ipynb](CDSE_Python_4_Pandas.ipynb)  [html](CDSE_Python_4_Pandas.html)
-
+---
+layout: default
 ---
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-*Welcome to the Python workshop page.  Below you will find some informations about the workshop
-and how to prepare for it. I am looking forward to meeting you on April 9.*
+[Link to another page](./another-page.html).
 
-*Bernard Badzioch*
+There should be whitespace between paragraphs.
 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-##  General information
+# Header 1
 
-* This will be a hands-on workshop - we will write and execute code the entire time.
-All participants need to bring laptops. Any operating system (Windows/Mac/Linux) is fine.
-Instructions how to install software and additional files we will use are posted below.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-* I set up a [Piazza](http://piazza.com/buffalo/spring2019/cdsepython) page
-for the workshop. Please sign up so you can post question before, during, and after
-the workshop, or perhaps comment on questions posted by others.  
+## Header 2
 
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-## Software installation
+### Header 3
 
-**1)** Install the [Anaconda distribution of Python 3.7](https://www.anaconda.com/download)
-(be sure to select the 3.7 version).
-
-If you have Anaconda previously installed, make sure that it includes Python 3.6
-or 3.7, and fairly recent versions of the the Jupter Notebook and the following
-Python packages: numpy, matplotlib, bokeh, pandas, requests, beautifulsoup4. Upgrade if needed.
-If you are installing Anaconda for the first time, you don't need to worry about it, everything
-is included in the distribution.  
-
-**2)** A part of the Anaconda distribution is the Jupyter Notebook app.  It can be launched by typing:
-
-```jupyter notebook```
-
-in a terminal (Mac and Linux)  or command prompt (Windows). Once you execute
-this command, a web browser will open showing Jupyter Notebook dashboard.  Here is a short
-video which demonstrates basic functionality of the Jupyter Notebook (watching the first
-4 minutes or so will be enough for now):
-
-<div align="center">
-<iframe  max-width="100%" width="560px" height="315px" src="https://www.youtube.com/embed/BJnro9jQ3fE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br/>
-
-**3)** Launch Jupyter Notebook and open a new notebook. Copy the following code into an empty
-notebook code cell:
-
-```
-import requests
-r = requests.get("https://git.io/fhxxf").text
-with open("cdse_resources.py", 'w') as f: f.write(r)
-import cdse_resources
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 ```
 
-Execute the cell by pressing  `Shift-Enter` keys. The code will download a few files over the internet,
-so you need to be connected to the network before you execute.
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-If everything goes fine, you will see a message saying that your computer is set up
-for the workshop:
+#### Header 4
 
-![Success](images/success.png)
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-If you run into difficulties please post a message on [Piazza](http://piazza.com/buffalo/spring2019/cdsepython).
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
