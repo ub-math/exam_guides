@@ -2,6 +2,23 @@
 layout: default
 ---
 
+# Quick Links
+
+[exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) - portal for accessing exam Zoom meeings (from phone/tablet).
+[exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
+[www.gradescope.com](https://gradescope.com) - Gradescope.
+
+#2-device proctored exams
+
+This guide provides instructions for taking proctored exams in courses offered by the UB Math Department. The setup of the exam requires students to use two devices:
+
+* a computer, to access the exam
+* a smartphone or tablet equipped with a camera to access an exam Zoom meeting.
+
+Math Department staff members proctor the exams via your smartphone/tablet camera.
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
