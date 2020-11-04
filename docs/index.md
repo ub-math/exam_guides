@@ -113,7 +113,7 @@ Additionally, it must be positioned in the landscape mode and tilted so that Zoo
 
 For most phones, this will require the phone to be a little more than arm's length away. You may need to arrange another support
 for the phone if your desk is not big enough - get creative!
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c){:target="_blank" rel="noopener"}
+Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"  target="_blank">short video</a>
 about getting your zoom device positioned properly.
 </td>
 <td>
