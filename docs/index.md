@@ -7,9 +7,9 @@ layout: default
 
 # Quick links
 
-[exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) - portal for accessing exam Zoom meeings (from phone/tablet).
-[exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
-[www.gradescope.com](https://gradescope.com) - Gradescope.
+* [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) - portal for accessing exam Zoom meeings (from phone/tablet).
+* [exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
+* [www.gradescope.com](https://gradescope.com) - Gradescope.{: .notice}
 
 
 

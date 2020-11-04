@@ -3,3 +3,4 @@ description: A guide to taking online exams in UB mathematics courses
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+markdown: kramdown
