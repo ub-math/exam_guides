@@ -99,7 +99,7 @@ demonstrating proper workspace setup.
 
 ## Zoom device setup
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border:none">
 <tr>
 <td>
 Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
