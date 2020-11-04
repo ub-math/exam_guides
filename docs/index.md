@@ -11,7 +11,8 @@ layout: default
 * [exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
 * [www.gradescope.com](https://gradescope.com) - Gradescope.
 
-**Warning** Just a test.{: .notice}
+**Warning** Just a test.
+{: .notice}
 
 
 
