@@ -11,9 +11,12 @@ layout: default
 * [exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
 * [www.gradescope.com](https://gradescope.com) - Gradescope.
 
-**Warning** Just a test.
-{: .notice}
 
+
+{% include due_dates.html
+mon_deadline = 'Monday 9/7'
+wed_deadline = 'Wednesday 9/9'
+%}
 
 
 
