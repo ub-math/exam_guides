@@ -99,9 +99,9 @@ demonstrating proper workspace setup.
 
 ## Zoom device setup
 
-<table style="border-collapse: collapse; border:none">
+<table style="border-collapse: collapse;">
 <tr>
-<td>
+<td style="border:none">
 Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
 Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
 
@@ -116,7 +116,7 @@ for the phone if your desk is not big enough - get creative!
 Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"  target="_blank">short video</a>
 about getting your zoom device positioned properly.
 </td>
-<td>
+<td style="border:none">
 <img style="width:200px;" src="./assets/images/phone_setup.png">
 </td>
 </tr>
