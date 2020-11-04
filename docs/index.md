@@ -30,8 +30,8 @@ Math Department staff members proctor the exams via your smartphone/tablet camer
 ## Zoom app
 
 In order to join a proctored exam meeting you will need to have the **Zoom app** installed on your smartphone or tablet.
-This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US)
-and [iOS](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307) devices.
+This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US){:target="_blank" rel="noopener"}
+and [iOS](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307){:target="_blank" rel="noopener"} devices.
 
 To access exam Zoom meetings you need to be signed into Zoom
 with your UB account. If you are signed in with another account, you can follow these steps to switch to your UB account:
@@ -44,6 +44,7 @@ with your UB account. If you are signed in with another account, you can follow 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9){:target="_blank" rel="noopener"}
 demonstrating the above steps.
 
+
 ## Microsoft Office Lens
 
 At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
@@ -52,13 +53,53 @@ If needed, refer to the online instructions on how to use Office Lens on Android
 Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple pages.
 Here is a short video demonstrating the use of Office Lens.
 
+
 ## Gradescope
 
 Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
-Set up your Gradescope account following the instructions in this guide to Gradescope.
-Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope. Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
-Here is a short video demonstrating the process of uploading your work to Gradescope and matching pages with questions.
+Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
+Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope.
+Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
+demonstrating the process of uploading your work to Gradescope and matching pages with questions.
 
+
+## The exam PIN
+
+To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
+Prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
+If you can’t find it, contact the course instructor. For each Math course you are taking this semester, you will use the same PIN for all exams.  
+
+**Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  and can make you vulnerable to dishonesty by others.**
+
+# Your exam workspace
+
+## Workspace setup
+
+Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
+
+
+### Here is what you will need to take the exam:
+
+1. A computer with an internet connection.
+2. A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
+   Make sure that your device is fully charged or it is connected to a charger.
+3. A Gradescope account.
+4. UB student ID (or a government issued photo ID).
+5. Your exam PIN.
+6. Pen or pencil.
+7. Blank paper.
+8. Desk or table clear of any items, besides those listed above.
+
+During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
+textbooks, websites, etc) unless it is specified otherwise by the course instructor. Also, you must not wear headphones or earbuds.
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe){:target="_blank" rel="noopener"}
+demonstrating proper workspace setup.
+
+
+
+
+# REST
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
