@@ -114,9 +114,9 @@ demonstrating proper workspace setup.
 
 <br/>
 
-#### Zoom device setup
 <div class="jumbotron">
 <div class="container" style="padding-left:0">
+    <h4>Correct camera view</h4>
     <div class="row">
         <div class="col-lg">
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
@@ -151,14 +151,11 @@ demonstrating proper workspace setup.
       </div>
     </div>
 </div>
-</div>
 
 
 <br/>
 
-
-
-#### Examples of incorrect camera views
+<h4>Examples of incorrect camera views</h4>
 <div class="card-deck">
 
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
@@ -210,6 +207,7 @@ demonstrating proper workspace setup.
     </div>
   </div>
 
+</div>
 </div>
 
 <br/>
