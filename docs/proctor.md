@@ -198,19 +198,19 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_6.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text"><span class="glyphicon glyphicon-ban-circle" style="color:red;"></span> Video oriented vertically.  To fix this, pick up the phone, wave it around a bit, and set it back down.</p>
+      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Video oriented vertically.  To fix this, pick up the phone, wave it around a bit, and set it back down.</p>
     </div>
   </div>
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text"><span class="glyphicon glyphicon-ban-circle" style="color:red;"></span> Computer screen not in the picture.</p>
+      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the picture.</p>
     </div>
   </div>
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_8.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text"><span class="glyphicon glyphicon-ban-circle" style="color:red;"></span> Headphones/earbuds are not allowed.</p>
+      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Headphones/earbuds are not allowed.</p>
     </div>
   </div>
 
