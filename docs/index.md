@@ -71,7 +71,7 @@ demonstrating the process of uploading your work to Gradescope and matching page
 
 To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
 prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
-If you can’t find it, contact the course instructor. For each Math course you are taking this semester, you will use the same PIN for all exams.  
+If you can’t find it, contact the course instructor. For each math course you are taking this semester, you will use the same PIN for all exams.  
 
 <div class="alert alert-dismissible alert-danger">
 <b>important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
