@@ -135,7 +135,6 @@ you can reorder Zoom videos by dragging them in such way that all videos coming 
 be of students whose IDs have been checked already. In this way it will be easier to keep track who still needs to be checked.
 
 **For each admitted student check their UB ID** (a government issued photo ID is acceptable as well):
-
 * Compare the photo in the ID with student's face.
 * Compare the name in the ID with the name displayed in Zoom.
 * In case of irregularities - name mismatch, no ID etc. make a note in the proctoring text channel on Discord.
@@ -143,36 +142,15 @@ be of students whose IDs have been checked already. In this way it will be easie
 
 
 <div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
-<div class="container" style="padding-left:0">
-    <div class="row">
-        <div class="col-lg">
-            <h4>Students' camera view</h4>
-            <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
-            Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
-
-            <ul>
-            <li> your computer screen and keyboard (and mouse if any) </li>
-            <li> your face and your hands </li>
-            <li> your writing surface and the papers you are writing on. </li>
-            </ul>
-
-            For most phones, this will require the phone to be a little more than arm's length away. You may need to arrange another support
-            for the phone if your desk is not big enough - get creative!
-            Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"  target="_blank">short video</a>
-            about getting your zoom device positioned properly.</p>
-      </div>
-      <div class="col-lg">
-        <img style='width:500px;' src="./assets/images/phone_setup.png" />
-      </div>
-    </div>
-</div>
+<p> As you are admitting students to the exam,  and also during the exam itself, make sure that students'
+cameras are positioned correctly. Instruct students to make adjustments as needed.</p>
 
 <br/>
 <div class="container" style="padding-left:0">
      <div class="row">
         <div class="col-lg">
         <h4>Correct camera view</h4>
-        <p>This is how that the view from a camera should look. The student,  the work surface, and the computer screen are clearly visible.</p>
+        <p>This is how that the view from a camera should look. The student, the work surface, and the computer screen are clearly visible.</p>
        </div>
        <div class="col-lg">
         <img style='width:500px;' src="./assets/images/camera_view_correct.png" />
