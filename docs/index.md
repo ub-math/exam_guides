@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Bootstrap 4 Github Pages
 ---
 
@@ -106,4 +106,3 @@ I'm a fan of Github Pages for the possibilities it offers to anyone to publish a
 
 * [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 * [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
-
