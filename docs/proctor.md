@@ -98,7 +98,7 @@ The image below shows the correct recording configuration.
 
 1. Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
 
-    <div class="alert alert-dismissible alert-danger">
+    <div class="alert alert-dismissible alert-info">
     <b>Note.</b> When you start a meeting you may see a pop-up box with the message "You have a meeting currently in-progress.
     Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the "End Other Meeting" button.
     </div>
