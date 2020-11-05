@@ -112,7 +112,7 @@ demonstrating proper workspace setup.
 <div class="container" style="padding-left:0">
     <h4>Zoom device setup</h4>
     <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg">
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
             Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
 
@@ -133,6 +133,17 @@ demonstrating proper workspace setup.
     </div>
 </div>
 
+<div class="container" style="padding-left:0">
+    <h4>Correct camera view</h4>
+    <div class="row">
+        <div class="col-lg">
+          This is how that the view from a camera should look. The student,  the work surface, and the computer screen are clearly visible
+      </div>
+      <div class="col-lg">
+        <img style='width:500px;' src="./assets/images/camera_view_correct.png" />
+      </div>
+    </div>
+</div>
 
 
 
