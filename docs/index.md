@@ -172,7 +172,7 @@ demonstrating proper workspace setup.
   <div class="card" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text"><i class="fas fa-exclamation-circle" style="color:red"></i> Camera oriented vertically, partial view of the monitor and work surface only.</p>
+      <p class="card-text"><span style="color:red;">&#9888;</span> Camera oriented vertically, partial view of the monitor and work surface only.</p>
     </div>
   </div>
   <div class="card" style="min-width: 200px; margin-bottom:20px; padding:4px;">
