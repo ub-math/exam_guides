@@ -36,6 +36,8 @@ A table with Zoom links of meetings occurring in the next 7 days is maintained [
 and the complete list of current proctoring assignments is here: [2209_exam_proctor_schedule_rev6d_public.xlsx](http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx){:target="_blank" rel="noopener"}.
 
 
+<br/>
+
 ## 2-device exam setup
 
 <div class="container" style="padding-left:0">
@@ -51,15 +53,16 @@ and the complete list of current proctoring assignments is here: [2209_exam_proc
 </div>
 
 
+<br/>
+
 ## Preparation for proctoring
 
 There are two pieces of information that you will need before an exam in order to proctor it:
 
-* A link to the exam Zoom meeting. These meetings are centrally scheduled by the Math Department
-  - proctors do not schedule these meetings.  When a meeting you are assigned to proctor is scheduled,
-  you will receive an email from Zoom informing you that you have been made an Alternative Host of the meeting.
-  You can also find the link to this meeting  here.
-* The exam password. You will need to announce this password to students, so that they can access exam questions.  
+* **A link to the exam Zoom meeting.** These meetings are centrally scheduled by the Math Department - proctors do not schedule these meetings.  
+  When a meeting you are assigned to proctor is scheduled, you will receive an email from Zoom informing you that you have been made
+  an Alternative Host of the meeting. You can also find the link to this meeting  here.
+* **The exam password.** You will need to announce this password to students, so that they can access exam questions.  
   The password should be provided to you by the instructor of the course for which you are proctoring, ahead of the exam.
 
 In addition, you should have access to the Math Department Discord Server, which will be used for communications
@@ -67,11 +70,27 @@ between proctors of various exam sessions and the course instructor during the e
 Discord server contact John Ringland, the Associate Chair (ringland@buffalo.edu). Before you proctor an exam  please also
 review the Exam Guide for Students so you are familiar how the exam is supposed to look from a student perspective.
 
+<br/>
 
 
-## Software installation and setup
+#### Zoom configuration
 
-#### Zoom app
+Most settings of exam Zoom meetings are automatically set when a meeting is scheduled.
+However, the setting for recording of the meeting must be configured in your own account in order to work correctly:
+
+1. Use the web browser interface for Zoom ([buffalo.zoom.us](https://buffalo.zoom.us){:target="_blank" rel="noopener"})
+   to log in to your UB Zoom account.
+2. In the Zoom account click on Settings and then on the **Recording** tab.
+3. Turn ***Cloud Recording*** **ON**.
+4. Make sure that the ***Record active speaker, gallery view and shared screen separately*** option is **SELECTED**.
+5. Under this option make sure that:
+   - ***Active speaker*** is **UNSELECTED**
+   - ***Gallery view*** is **SELECTED**
+   - ***Shared screen*** is **UNSELECTED**.
+The image below shows the correct recording configuration.
+
+<br/>
+
 
 In order to join a proctored exam meeting you will need to have the **Zoom app** installed on your smartphone or tablet.
 This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US){:target="_blank" rel="noopener"}
