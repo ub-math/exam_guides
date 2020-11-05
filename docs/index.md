@@ -86,7 +86,7 @@ If you can’t find it, contact the course instructor. For each Math course you 
 Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
 
 
-<div class="alert alert-dismissible alert-primary">
+<div class="alert alert-dismissible alert-info">
 <h4 class="alert-heading">Here is what you will need to take the exam:</h4>
 <ol>
 <li>A computer with an internet connection.</li>
@@ -214,7 +214,7 @@ demonstrating proper workspace setup.
    and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
    You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
 
-    <p class="text-primary"><b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
+    <p class="text-info"><b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
     This simply means that the proctor has not started the meeting yet - wait a moment and try again.</p>
 
 3. Set your Zoom device to use the front-facing (selfie) camera.
@@ -226,44 +226,34 @@ demonstrating proper workspace setup.
 
 #### 2. Follow the proctor's instructions
 
-    1. Position your Zoom device as described above in Zoom Device Setup.
-
-    2. Follow any additional instructions from the proctor.
+1. Position your Zoom device as described above in Zoom Device Setup.
+2. Follow any additional instructions from the proctor.
 
 #### 3. Access the exam questions
 
-    1. On your computer, in a web browser, access the following  URL: <a href="https://exams.math.buffalo.edu">exams.math.buffalo.edu</a>.
-
-    2. Enter your UBIT username and the exam PIN, and wait for the proctor to announce the exam password.
-
-    3. Enter the exam password, click Go to access the exam questions, and begin work on the exam.
+1. On your computer, in a web browser, access the following  URL: <a href="https://exams.math.buffalo.edu">exams.math.buffalo.edu</a>.
+2. Enter your UBIT username and the exam PIN, and wait for the proctor to announce the exam password.
+3. Enter the exam password, click Go to access the exam questions, and begin work on the exam.
 
 #### 4. Answer the exam questions
 
-    1. One-side only: write your solutions on blank sheets of paper using one side of the paper only.
-
-    2. Question numbers: clearly label your work with the corresponding question number.
-
-    3. Space between questions: leave some blank space between your work for different questions (~3cm).
-
-    4. Space for ID: leave an empty spot on each page where you will place your Photo ID when taking pictures of your work for submitting them to Gradescope.
-
-    5. One Page: for each question, write all of your answer on the same page if possible:
-
-        * If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new page.
-        * In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another page.
+1. One-side only: write your solutions on blank sheets of paper using one side of the paper only.
+2. Question numbers: clearly label your work with the corresponding question number.
+3. Space between questions: leave some blank space between your work for different questions (~3cm).
+4. Space for ID: leave an empty spot on each page where you will place your Photo ID when taking pictures of your work for submitting them to Gradescope.
+5. One Page: for each question, write all of your answer on the same page if possible:
+    * If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new page.
+    * In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another page.
 
 #### 5. Checkout
 
 Once you are finished answering the questions:
 
-    1. Make a stack of all pages of your work in preparation for showing them to the Zoom device.
-
-    2. Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.
-
-    3. Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack. Pause on each page for about 1 second, so the camera can focus.
-
-    4. When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
+1. Make a stack of all pages of your work in preparation for showing them to the Zoom device.
+2. Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.
+3. Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack.
+   Pause on each page for about 1 second, so the camera can focus.
+4. When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
 
 Here is a short video demonstrating the checkout process.
 
