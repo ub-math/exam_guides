@@ -220,111 +220,47 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
 <br/>
 
 
-## Taking the exam.
+## During the exam
 
-#### 1. Join the Zoom proctoring meeting
+#### Starting the exam.
 
-1. Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
-2. Join the Zoom meeting on your smartphone by going to the page [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
-   and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
-   You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
+* **Immediately before the exam starts** announce what the exam checkout procedure is (see below).
+* Announce the exam password. This will let the students access the exam from their computers through
+  the website [exams.math.buffalo.edu](https://exams.math.buffalo.edu) and start working on the exams.
 
-    <div class="alert alert-dismissible alert-info">
-    <b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
-    This simply means that the proctor has not started the meeting yet - wait a moment and try again.
-    </div>
+#### Once the exam has started
 
-3. Set your Zoom device to use the front-facing (selfie) camera.
+* Keep an eye on the waiting room for late-comers or students who drop out from the meeting and return.
+  Anyone entering from the waiting room needs to have their ID checked (or re-checked). If you notice
+  a student who dropped from the meeting and re-entered make a note in the Discord text channel.  
 
-4. Turn the video on, the speaker on and volume loud enough so that you can hear the proctor, but not so loud that you will be disturbed
-   by occasional verbal interactions of the proctor with other students during the exam. Turn your microphone off (you can unmute yourself
-   temporarily if you need to talk to the proctor).
+* Enforce video-on for all students throughout the exam. If a student's video is off, and they do not properly
+  respond to request(s) to turn it on, remove them from the meeting and make a record that you did it in Discord.
 
+* Be sure to keep your audio muted except when you need to speak to students.
 
-#### 2. Follow the proctor's instructions
+* If any student's video does not show everything you need to see, have them correct it.
 
-1. Position your Zoom device as described above in Zoom Device Setup.
-2. Follow any additional instructions from the proctor.
+* If a student is willfully or repeatedly not complying with your instructions, let them know that if they do not
+  comply within the next minute, they will be ejected from the meeting and get a 0 on the exam. If you do eject anyone,
+  make a note in Discord.
 
-#### 3. Access the exam questions
+* Monitor students carefully. Be on the alert for any form of cheating and actively communicate with students to correct
+  any irregularities. Pin student's video for a closer view if needed.
 
-1. On your computer, in a web browser, access the following  URL: [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}.
-2. Enter your UBIT username and the exam PIN, and wait for the proctor to announce the exam password.
-3. Enter the exam password, click Go to access the exam questions, and begin work on the exam.
+#### Red flags
 
-#### 4. Answer the exam questions
+* student is typing
+* student is scrolling a lot
+* student is looking at different documents on their computer
+* student is looking repeatedly at the Zoom camera (i.e. their phone)
+* student is looking repeatedly at any location other than computer screen or paper
+* student appears to be talking
+* student is wearing earbuds/headphones (not allowed)
+* student is using a virtual background (not allowed).
 
-* **One-side only:** write your solutions on blank sheets of paper using one side of the paper only.
-* **Question numbers:** clearly label your work with the corresponding question number.
-* **Space between questions:** leave some blank space between your work for different questions (~3cm).
-* **Space for ID:** leave an empty spot on each page where you will place your Photo ID when taking pictures of your work for submitting them to Gradescope.
-* **One Page:** for each question, write all of your answer on the same page if possible:
-    * If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new page.
-    * In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another page.
+**In case of suspicious behavior:**
 
-#### 5. Checkout
-
-Once you are finished answering the questions:
-
-1. Make a stack of all pages of your work in preparation for showing them to the Zoom device.
-2. Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.
-3. Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack.
-   Pause on each page for about 1 second, so the camera can focus.
-4. When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
-
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"} demonstrating the checkout process.
-
-
-<div class="alert alert-dismissible alert-danger">
-<b>Important.</b> The following behavior will considered an act of Academic Dishonesty with serious consequences
-(such as an F on the exam or a course failure):
-
-  <ul>
-  <li> Leaving the Zoom meeting without checking out. </li>
-  <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was subsequently altered. </li>
-  </ul>
-</div>
-
-
-#### 6. Submit your work to Gradescope
-
-Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work to Gradescope.
-Exams will not be accepted after this deadline. **Do not write or alter anything on your pages once you leave the Zoom proctored meeting.**
-
-1. Scan all the pages of your work using the Office Lens app, and convert to a **single PDF** file.
-   **Place your Photo ID on an empty section of each page, so that both your work and the ID are visible in each picture.**
-2. Upload the PDF file to Gradescope. (It may be easier if you email the file to yourself first, and then use your computer to go through the upload process.)
-3. Make sure that you match each page of your work with the corresponding question on Gradescope.
-
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
-demonstrating the process of uploading your work to Gradescope and matching pages with questions. You can also read the information
-[here](https://www.ubgradescope.info/){:target="_blank" rel="noopener"} .
-
-
-<br/>
-
-## Viewing graded exams
-
-To check your exam score, log in to Gradescope and click on a course tile. This will bring you to a page with a list of assignments for this course. Assignments which have been already graded will show your score in the Status column.
-
-1. Click on the assignment to see the score for each question.
-2. Click on each assignment question to see any comments from the grader.
-
-
-<br/>
-
-## Respondus Lockdown Browser
-
-Some instructors may choose to allow you to access the exam only via Respondus Lockdown Browser.
-If your course instructor tells you that this is the case,
-install the Respondus LockDown Browser on your computer. You need to use the installer link below,
-as it will install the version of Respondus that has been
-preconfigured to work with UBLearns.
-
-* [Installer](https://download.respondus.com/lockdown/download.php?id=231516053){:target="_blank" rel="noopener"} (this will start the installation process).
-* [Instructions from UBIT](http://www.buffalo.edu/ubit/service-guides/teaching-technology/learning-resources-for-students/ublearns/respondus.html){:target="_blank" rel="noopener"}.
-
-**Note:**  
-* Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam),
-  you need to re-install using the link above.
-* Respondus only runs on Mac OS and Windows. It cannot be used on Chrome OS or Linux distributions.
+Make a note of the issue in the text channel of Discord.
+Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
+the student that they should check their chat messages.
