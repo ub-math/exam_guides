@@ -84,7 +84,7 @@ and can make you vulnerable to dishonesty by others.
 
 #### Workspace setup
 
-Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
+Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam, you will need to concentrate!
 
 
 <div class="alert alert-dismissible alert-info">
