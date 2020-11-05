@@ -216,8 +216,10 @@ demonstrating proper workspace setup.
    and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
    You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
 
-    <p class="text-info"><b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
-    This simply means that the proctor has not started the meeting yet - wait a moment and try again.</p>
+<div class="alert alert-dismissible alert-info">
+<b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
+    This simply means that the proctor has not started the meeting yet - wait a moment and try again.
+</div>
 
 3. Set your Zoom device to use the front-facing (selfie) camera.
 
