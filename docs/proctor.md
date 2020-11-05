@@ -248,20 +248,18 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
 * Monitor students carefully. Be on the alert for any form of cheating and actively communicate with students to correct
   any irregularities. Pin student's video for a closer view if needed.
 
-#### Red flags
 
-
-<div class="alert alert-dismissible alert-info">
+<div class="alert alert-dismissible alert-danger">
 <h4>Red flags</h4>
 <ul>
-<li> student is typing <li>
-<li> student is scrolling a lot <li>
-<li> student is looking at different documents on their computer <li>
-<li> student is looking repeatedly at the Zoom camera (i.e. their phone) <li>
-<li> student is looking repeatedly at any location other than computer screen or paper <li>
-<li> student appears to be talking <li>
-<li> student is wearing earbuds/headphones (not allowed) <li>
-<li> student is using a virtual background (not allowed). <li>
+<li> student is typing </li>
+<li> student is scrolling a lot </li>
+<li> student is looking at different documents on their computer </li>
+<li> student is looking repeatedly at the Zoom camera (i.e. their phone) </li>
+<li> student is looking repeatedly at any location other than computer screen or paper </li>
+<li> student appears to be talking </li>
+<li> student is wearing earbuds/headphones (not allowed) </li>
+<li> student is using a virtual background (not allowed). </li>
 </ul>
 
 
