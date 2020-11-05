@@ -49,6 +49,24 @@ and the complete list of current proctoring assignments is here: [2209_exam_proc
 </div>
 
 
+## Preparation for proctoring
+
+There are two pieces of information that you will need before an exam in order to proctor it:
+
+* A link to the exam Zoom meeting. These meetings are centrally scheduled by the Math Department
+  - proctors do not schedule these meetings.  When a meeting you are assigned to proctor is scheduled,
+  you will receive an email from Zoom informing you that you have been made an Alternative Host of the meeting.
+  You can also find the link to this meeting  here.
+* The exam password. You will need to announce this password to students, so that they can access exam questions.  
+  The password should be provided to you by the instructor of the course for which you are proctoring, ahead of the exam.
+
+In addition, you should have access to the Math Department Discord Server, which will be used for communications
+between proctors of various exam sessions and the course instructor during the exam. If you don't have access to this
+Discord server contact John Ringland, the Associate Chair (ringland@buffalo.edu). Before you proctor an exam  please also
+review the Exam Guide for Students so you are familiar how the exam is supposed to look from a student perspective. 
+
+
+
 ## Software installation and setup
 
 #### Zoom app
