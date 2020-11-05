@@ -90,7 +90,7 @@ However, the setting for recording of the meeting must be configured in your own
 
 The image below shows the correct recording configuration.
 
-<img src="./assets/images/zoom_recording_settings.png" class="img-fluid" alt="Responsive image">
+<img class="border border-secondary" src="./assets/images/zoom_recording_settings.png" class="img-fluid" alt="Responsive image">
 
 <br/>
 
