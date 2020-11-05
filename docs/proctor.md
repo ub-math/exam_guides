@@ -87,7 +87,10 @@ However, the setting for recording of the meeting must be configured in your own
    - ***Active speaker*** is **UNSELECTED**
    - ***Gallery view*** is **SELECTED**
    - ***Shared screen*** is **UNSELECTED**.
+
 The image below shows the correct recording configuration.
+
+<img src="./assets/images/zoom_recording_settings.png" class="img-fluid" alt="Responsive image">
 
 <br/>
 
