@@ -10,25 +10,44 @@ version: "2020.11.05"
 <div class="alert alert-dismissible alert-info">
   <h4 class="alert-heading">Quick links</h4>
   <ul>
+  <li> <a href="/index.html">Math Exams Student's Guide</a> - exam instructions for students.
   <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meeings (from phone/tablet).</li>
   <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from a computer).</li>
-  <li> <a href="https://gradescope.com"> www.gradescope.com</a> - Gradescope.</li>
+  <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days.</li>
   </ul>
 </div>
 
 <br/>
 <br/>
 
-## 2-device proctored exams
+## Our goal: Remote exams with integrity
 
-This guide provides instructions for taking proctored exams in courses offered by the UB Math Department. The setup of the exam requires students to use two devices:
+With remote exams there are many opportunities for cheating. Our goal is to conduct remote exams which have integrity.  
+Respondus Monitor had been found not effective in preventing cheating.
+**2-device live-proctored exams** have the potential to be effective.
 
-* a computer, to access the exam
-* a smartphone or tablet equipped with a camera to access an exam Zoom meeting.
-
-Math Department staff members proctor the exams via your smartphone/tablet camera.
 
 <br/>
+
+## Proctoring assignments
+
+A table with Zoom links of meetings occurring in the next 7 days is maintained [here](http://blue.math.buffalo.edu/exams_next_7_days.html){:target="_blank" rel="noopener"},
+and the complete list of current proctoring assignments is here: [2209_exam_proctor_schedule_rev6d_public.xlsx](http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx){:target="_blank" rel="noopener"}.
+
+
+## 2-device exam setup
+
+<div class="container" style="padding-left:0">
+     <div class="row">
+        <div class="col-lg">
+        Students join exam Zoom meetings from their phone with video on while accessing exam questions through their computers.
+        Proctors monitor students by watching the video streams from students' phone cameras.
+       <div class="col-lg">
+        <img style='width:500px;' src="./assets/images/proctoring_setup.png" />
+       </div>
+    </div>
+</div>
+
 
 ## Software installation and setup
 
@@ -139,14 +158,14 @@ demonstrating proper workspace setup.
 
 <br/>
 <div class="container" style="padding-left:0">
-    <div class="row">
+     <div class="row">
         <div class="col-lg">
         <h4>Correct camera view</h4>
         <p>This is how that the view from a camera should look. The student,  the work surface, and the computer screen are clearly visible.</p>
-      </div>
-      <div class="col-lg">
+       </div>
+       <div class="col-lg">
         <img style='width:500px;' src="./assets/images/camera_view_correct.png" />
-      </div>
+       </div>
     </div>
 </div>
 
