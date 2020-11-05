@@ -279,7 +279,9 @@ the student that they should check their chat messages.</p>
   demonstration of this process.
 
 * Once a student shows all exam pages tells the student that they may leave the Zoom meeting and upload their work
-  to Gradescope.  <b>Note:</b> If there are several students waiting to be checked out, acknowledge that you see them by
+  to Gradescope.  
+
+  **Note:** If there are several students waiting to be checked out, acknowledge that you see them by
   making an announcement that they will be checked out shortly.
 
 When all students leave the Zoom meeting, close the meeting. Your  duties are finished!
