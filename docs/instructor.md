@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "UB Math Exams: Proctor's Guide"
-splash: "'assets/images/jumbo_instructor_bgd.jpg'"
+splash: "'assets/images/jumbo_proctor_bgd.jpg'"
 version: "2020.11.05"
 ---
 
@@ -11,7 +11,6 @@ version: "2020.11.05"
   <h4 class="alert-heading">Quick links</h4>
   <ul>
   <li> <a href="/exam_guides/index.html">Math Exams Student's Guide</a> - exam instructions for students.</li>
-  <li> <a href="/exam_guides/proctor.html">Math Exams Proctors's Guide</a> - exam instructions for proctors.</li>
   <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meeings (from phone/tablet).</li>
   <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from a computer).</li>
   <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days</a>.</li>
@@ -21,20 +20,6 @@ version: "2020.11.05"
 
 <br/>
 <br/>
-
-## Introduction
-
-This document describes procedures for administering exams remotely. These procedures are  meant to enforce academic integrity
-and curtail rampant cheating that majority of our instructors experienced during the online part of the spring 2020 semester.
-
-**Here are the  main features of this systems:**
-
-* Live proctoring of exams in relatively small groups of up to 30 students. All groups are taking the exam in parallel during
-  the designated exam time. Each group is supervised by a proctor selected from among Math Department teaching assistants.
-* Using students’ smartphones as video cameras during exams. This allows for positioning cameras in a way that provides a much better  
-  view of each student and his/her work environment than it is possible with webcams built into computers.
-* Using an exam server for distribution of  exams to students.  The exam server can individualize exams (e.g. by watermarking them)
-  and can provide access for each student to his/her copy of the exam.
 
 ## Our goal: remote exams with integrity
 
