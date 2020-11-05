@@ -55,8 +55,8 @@ demonstrating the above steps.
 #### Microsoft Office Lens
 
 At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
-Install the Microsoft Office Lens scanning app on your smartphone or tablet. The app is available for both  Android and iOS devices.
-If needed, refer to the online instructions on how to use Office Lens on Android and iOS.
+Install the **Microsoft Office Lens** scanning app on your smartphone or tablet. The app is available for both  [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens){:target="_blank" rel="noopener"} and [iOS](https://apps.apple.com/us/app/office-lens/id975925059){:target="_blank" rel="noopener"} devices.
+If needed, refer to the online instructions on how to use Office Lens on [Android](https://support.office.com/en-us/article/microsoft-office-lens-for-android-ec124207-0049-4201-afaf-b5874a8e6f2b){:target="_blank" rel="noopener"} and [iOS](https://support.microsoft.com/en-us/office/microsoft-office-lens-for-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b?ui=en-us&rs=en-us&ad=us){:target="_blank" rel="noopener"}.
 Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple pages.
 Here is a short video demonstrating the use of Office Lens.
 
