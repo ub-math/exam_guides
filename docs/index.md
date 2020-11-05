@@ -268,7 +268,7 @@ Here is a short video demonstrating the checkout process.
 
   <ul>
   <li> Leaving the Zoom meeting without checking out. </li>
-  <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was subsequently altered </li>
+  <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was subsequently altered. </li>
   </ul>
 </div>
 
