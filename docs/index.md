@@ -267,7 +267,7 @@ Here is a short video demonstrating the checkout process.
 
   <ul>
   <li>leave the Zoom meeting without checking out or </li>
-  <li> upload to Gradescope any page that was not shown to the Zoom Device or was altered </li>
+  <li> upload to Gradescope any page that was not shown to the Zoom Device or was subsequently altered </li>
   </ul>
 this will be considered an act of Academic Dishonesty with serious consequences (such as an F on the exam or a course failure).
 </div>
