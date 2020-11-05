@@ -114,8 +114,8 @@ demonstrating proper workspace setup.
 
 <br/>
 
+#### Zoom device setup<
 <div class="container" style="padding-left:0">
-    <h4>Zoom device setup</h4>
     <div class="row">
         <div class="col-lg">
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
@@ -153,7 +153,9 @@ demonstrating proper workspace setup.
 
 <br/>
 
-<h4>Examples of incorrect camera views</h4>
+
+
+#### Examples of incorrect camera views
 <div class="card-deck">
 
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
@@ -215,7 +217,7 @@ demonstrating proper workspace setup.
 #### 1. Join the Zoom proctoring meeting
 
 1. Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
-2. Join the Zoom meeting on your smartphone by going to the page <a href="https://exams.math.buffalo.edu/zoom">exams.math.buffalo.edu/zoom</a>
+2. Join the Zoom meeting on your smartphone by going to the page [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
    and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
    You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
 
