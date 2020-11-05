@@ -94,7 +94,7 @@ The image below shows the correct recording configuration.
 
 <br/>
 
-#### Starting a proctoring meeting
+## Starting a proctoring meeting
 
 1. Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
 
@@ -110,7 +110,7 @@ The image below shows the correct recording configuration.
      * Share screen - **UNCHECKED**
      * Chat - **CHECKED**
      * Rename Themselves - **UNCHECKED**
-   - [Chat  → …  → Participant can chat](assets/images/zoom_chat.png) **with host only**
+   - [Chat  → …  → Participant can chat](assets/images/zoom_chat.png): **with host only**
    - [Video settings](assets/images/zoom_video.png):
      * Always display participant name on their video - **CHECKED**
      * Hide non-video participants  - **UNCHECKED**  <span class="text-danger"> - <b>this is critical!</b></span>
@@ -128,89 +128,25 @@ The image below shows the correct recording configuration.
 <br/>
 
 
-In order to join a proctored exam meeting you will need to have the **Zoom app** installed on your smartphone or tablet.
-This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US){:target="_blank" rel="noopener"}
-and [iOS](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307){:target="_blank" rel="noopener"} devices.
+## Admitting students to the meeting
 
-To access exam Zoom meetings you need to be signed into Zoom
-with your UB account. If you are signed in with another account, you can follow these steps to switch to your UB account:
+**Admit students from the waiting room in small groups.** If you are using a Windows or a Mac computer,
+you can reorder Zoom videos by dragging them in such way that all videos coming before your own will
+be of students whose IDs have been checked already. In this way it will be easier to keep track who still needs to be checked.
 
-* In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the bottom).
-* Click Sign In and then choose **SSO** where it says *SIGN IN WITH*.
-* Type ```buffalo``` where it says *Enter your company domain*.
-* On the next screen log in using your UB username and password (Duo will be required for this step).
+**For each admitted student check their UB ID** (a government issued photo ID is acceptable as well):
 
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9){:target="_blank" rel="noopener"}
-demonstrating the above steps.
+* Compare the photo in the ID with student's face.
+* Compare the name in the ID with the name displayed in Zoom.
+* In case of irregularities - name mismatch, no ID etc. make a note in the proctoring text channel on Discord.
 
 
-#### Microsoft Office Lens
-
-At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
-Install the **Microsoft Office Lens** scanning app on your smartphone or tablet. The app is available for both  [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens){:target="_blank" rel="noopener"} and [iOS](https://apps.apple.com/us/app/office-lens/id975925059){:target="_blank" rel="noopener"} devices.
-If needed, refer to the online instructions on how to use Office Lens on [Android](https://support.office.com/en-us/article/microsoft-office-lens-for-android-ec124207-0049-4201-afaf-b5874a8e6f2b){:target="_blank" rel="noopener"} and [iOS](https://support.microsoft.com/en-us/office/microsoft-office-lens-for-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b?ui=en-us&rs=en-us&ad=us){:target="_blank" rel="noopener"}.
-Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple pages.
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a00ab5c-ff3a-4c23-bc7d-ac5b0149a8bf){:target="_blank" rel="noopener"} demonstrating the use of Office Lens.
-
-
-#### Gradescope
-
-Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
-Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
-Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope.
-Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
-demonstrating the process of uploading your work to Gradescope and matching pages with questions.
-
-
-#### The exam PIN
-
-To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
-prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
-If you can’t find it, contact the course instructor. For each math course you are taking this semester, you will use the same PIN for all exams.  
-
-<div class="alert alert-dismissible alert-danger">
-<b>important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
-and can make you vulnerable to dishonesty by others.
-</div>
-
-<br/>
-
-## Your exam workspace
-
-#### Workspace setup
-
-Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam, you will need to concentrate!
-
-
-<div class="alert alert-dismissible alert-info">
-<h4 class="alert-heading">Here is what you will need to take the exam:</h4>
-<ol>
-<li>A computer with an internet connection.</li>
-<li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
-   Make sure that your device is fully charged or it is connected to a charger.</li>
-<li>A Gradescope account.</li>
-<li>UB student ID (or a government issued photo ID).</li>
-<li>Your exam PIN.</li>
-<li>Pen or pencil.</li>
-<li>Blank paper.</li>
-<li>Desk or table clear of any items, besides those listed above.</li>
-</ol>
-</div>
-
-
-During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
-textbooks, websites, etc) unless it is specified otherwise by the course instructor. Also, you must not wear headphones or earbuds.
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe){:target="_blank" rel="noopener"}
-demonstrating proper workspace setup.
-
-<br/>
 
 <div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
 <div class="container" style="padding-left:0">
     <div class="row">
         <div class="col-lg">
-            <h4>Zoom device setup</h4>
+            <h4>Students' camera view</h4>
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
             Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
 
