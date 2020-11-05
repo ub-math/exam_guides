@@ -75,7 +75,7 @@ Prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before th
 If you can’t find it, contact the course instructor. For each Math course you are taking this semester, you will use the same PIN for all exams.  
 
 <div class="alert alert-dismissible alert-danger">
-</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
+</b>important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
 and can make you vulnerable to dishonesty by others.</p>
 </div>
 
