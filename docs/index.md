@@ -40,8 +40,8 @@ To access exam Zoom meetings you need to be signed into Zoom
 with your UB account. If you are signed in with another account, you can follow these steps to switch to your UB account:
 
 * In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the bottom).
-* Click Sign In and then choose **SSO** where it says "SIGN IN WITH"
-* Type ```buffalo``` where it says Enter your company domain.
+* Click Sign In and then choose **SSO** where it says *SIGN IN WITH*.
+* Type ```buffalo``` where it says *Enter your company domain*.
 * On the next screen log in using your UB username and password (Duo will be required for this step).
 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9){:target="_blank" rel="noopener"}
