@@ -275,7 +275,8 @@ the student that they should check their chat messages.</p>
 
 * Students should use the Raise Hand feature to signal that they are ready to leave the exam. When you notice it,
   tell the student to show exam pages to the camera one by one. The student should position the camera over
-  a stack of pages and remove pages one one stopping for about 1 second for each page. Here is a short video
+  a stack of pages and remove pages one one stopping for about 1 second for each page.
+  Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"}
   demonstration of this process.
 
 * Once a student shows all exam pages tells the student that they may leave the Zoom meeting and upload their work
