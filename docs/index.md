@@ -263,8 +263,12 @@ Here is a short video demonstrating the checkout process.
 
 
 <div class="alert alert-dismissible alert-danger">
-<b>Important.</b> If you leave the Zoom meeting without checking out, or if any page you upload to Gradescope was not shown to the Zoom Device or
-was altered this will be considered an act of Academic Dishonesty with serious consequences (such as an F on the exam or a course failure).
+<b>Important.</b> If you:
+  <ul>
+  <li>leave the Zoom meeting without checking out or </li>
+  <li> upload to Gradescope any page that was not shown to the Zoom Device or was altered </li>
+  </ul>
+this will be considered an act of Academic Dishonesty with serious consequences (such as an F on the exam or a course failure).
 </div>
 
 <br/>
