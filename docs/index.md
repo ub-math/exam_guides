@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "UB Math Exams: Student's Guide"
+splash: "'assets/images/jumbo_bgd.jpg'"
 version: "2020.11.05"
 ---
 
