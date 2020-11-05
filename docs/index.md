@@ -275,3 +275,31 @@ Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a s
 3. Make sure that you match each page of your work with the corresponding question on Gradescope.
 
 Here is a short video demonstrating the process of uploading your work to Gradescope and matching pages with questions. You can also read the information here.
+
+
+<br/>
+
+## Viewing graded exams
+
+To check your exam score, log in to Gradescope and click on a course tile. This will bring you to a page with a list of assignments for this course. Assignments which have been already graded will show your score in the Status column.
+
+1. Click on the assignment to see the score for each question.
+2. Click on each assignment question to see any comments from the grader.
+
+
+<br/>
+
+## Respondus Lockdown Browser
+
+Some instructors may choose to allow you to access the exam only via Respondus Lockdown Browser. If your course instructor tells you that this is the case,
+install the Respondus LockDown Browser on your computer. You need to use the installer link below, as it will install the version of Respondus that has been
+preconfigured to work with UBLearns.
+
+* Installer (this will start the installation process)
+* Instructions from UBIT
+
+**Note.**  
+
+* Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam), you need to re-install using
+  the link above.
+* Respondus only runs on Mac OS and Windows. It cannot be used on Chrome OS or Linux distributions.
