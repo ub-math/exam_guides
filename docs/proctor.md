@@ -139,9 +139,10 @@ be of students whose IDs have been checked already. In this way it will be easie
 * Compare the name in the ID with the name displayed in Zoom.
 * In case of irregularities - name mismatch, no ID etc. make a note in the proctoring text channel on Discord.
 
-
+<br/>
 
 <div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
+<h2>Students' camera views</h2>
 <p> As you are admitting students to the exam,  and also during the exam itself, make sure that students'
 cameras are positioned correctly. Instruct students to make adjustments as needed.</p>
 
