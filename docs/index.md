@@ -193,25 +193,25 @@ demonstrating proper workspace setup.
   <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_5.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text">Work surface not visible.</p>
+      <p class="card-text">Face not visible.</p>
     </div>
   </div>
   <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_6.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text">Camera too close.</p>
+      <p class="card-text">Video oriented vertically.  To fix this, pick up the phone, wave it around a bit, and set it back down.</p>
     </div>
   </div>
   <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text">Part of the computer screen not visible.</p>
+      <p class="card-text">Computer screen not in the picture.</p>
     </div>
   </div>
   <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_8.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text">Camera oriented vertically, partial view of the monitor and work surface only.</p>
+      <p class="card-text">Headphones/earbuds are not allowed.</p>
     </div>
   </div>
 
