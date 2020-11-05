@@ -1,14 +1,17 @@
 ---
 layout: home
-title: Bootstrap 4 Github Pages
+title: "UB Math Exams: Student's Guide"
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+# Quick links
+
+* [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) - portal for accessing exam Zoom meeings (from phone/tablet).
+* [exams.math.buffalo.edu](https://exams.math.buffalo.edu) - portal for accessing exam problems (from a computer).
+* [www.gradescope.com](https://gradescope.com) - Gradescope.
+{: note}
+
+
 
 ## Setup Guide
 
