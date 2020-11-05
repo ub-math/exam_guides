@@ -104,14 +104,14 @@ The image below shows the correct recording configuration.
     </div>
 
 2. Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
-   - [Security](assets/images/zoom_security.png):  
+   - [Security](assets/images/zoom_security.png){:target="_blank" rel="noopener"}:  
      * Lock Meeting - **UNCHECKED**
      * Enable Waiting Room - **CHECKED**
      * Share screen - **UNCHECKED**
      * Chat - **CHECKED**
      * Rename Themselves - **UNCHECKED**
-   - [Chat  → …  → Participant can chat](assets/images/zoom_chat.png): **with host only**
-   - [Video settings](assets/images/zoom_video.png):
+   - [Chat  → …  → Participant can chat](assets/images/zoom_chat.png){:target="_blank" rel="noopener"}: **with host only**
+   - [Video settings](assets/images/zoom_video.png){:target="_blank" rel="noopener"}:
      * Always display participant name on their video - **CHECKED**
      * Hide non-video participants  - **UNCHECKED**  <span class="text-danger"> - <b>this is critical!</b></span>
 
