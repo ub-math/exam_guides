@@ -195,7 +195,7 @@ demonstrating proper workspace setup.
       <p class="card-text">Work surface not visible.</p>
     </div>
   </div>
-  <div class="card">
+  <div class="card" style="min-width: 200px;">
     <img class="card-img-top" src="./assets/images/incorrect_2.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Camera too close.</p>
