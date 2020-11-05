@@ -110,10 +110,10 @@ The image below shows the correct recording configuration.
      * Share screen - **UNCHECKED**
      * Chat - **CHECKED**
      * Rename Themselves - **UNCHECKED**
-   - Chat  → …  → Participant can chat with host only
+   - Chat  → …  → Participant can chat **with host only**
    - Video settings:
      * Always display participant name on their video - **CHECKED**
-     * Hide non-video participants  - **UNCHECKED**  - THIS IS CRITICAL!!!!!!!!!
+     * Hide non-video participants  - **UNCHECKED**  <span class="text-danger"> - this is critical!</span>
 
 3. Make sure that the meeting is being recorded. If not, start the recording in the cloud.
 
