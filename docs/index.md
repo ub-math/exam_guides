@@ -107,11 +107,23 @@ demonstrating proper workspace setup.
 <br/>
 
 <div class="container">
-    <h4>Zoom device setup</h4>
+    <h4>Zoom device setup</h1>
     <div class="row">
         <div class="col-md-12">
-            <img style='float:left;width:200px;height:200px; margin-right:10px;' src="img/me.jpg" />
-            <p>Lots of text here...With the four tiers of grids available you're bound to run into issues where, at certain breakpoints, your columns don't clear quite right as one is taller than the other. To fix that, use a combination of a .clearfix and o</p>
+            <img style='float:right;width:400px;height:200px; margin-left:10px;' src="./assets/images/phone_setup.png" />
+            <p>our Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
+            Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
+
+            <ul>
+            <li> your computer screen and keyboard (and mouse if any) </li>
+            <li> your face and your hands </li>
+            <li> your writing surface and the papers you are writing on. </li>
+            </ul>
+
+            For most phones, this will require the phone to be a little more than arm's length away. You may need to arrange another support
+            for the phone if your desk is not big enough - get creative!
+            Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"  target="_blank">short video</a>
+            about getting your zoom device positioned properly.</p>
         </div>
     </div>
   </div>
