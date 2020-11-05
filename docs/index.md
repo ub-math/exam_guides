@@ -8,7 +8,7 @@ title: "UB Math Exams: Student's Guide"
 <br/>
 <br/>
 
-<div class="alert alert-dismissible alert-primary">
+<div class="alert alert-dismissible alert-info">
   <h4 class="alert-heading">Quick links</h4>
   <ul>
   <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meeings (from phone/tablet).</li>
