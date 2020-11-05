@@ -156,49 +156,49 @@ demonstrating proper workspace setup.
 <h4>Examples of incorrect camera views</h4>
 <div class="card-deck">
 
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Work surface not visible.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_2.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera too close.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_3.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Part of the computer screen not visible.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera oriented vertically, partial view of the monitor and work surface only.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_5.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Face not visible.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_6.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Video oriented vertically.  To fix this, pick up the phone, wave it around a bit, and set it back down.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the picture.</p>
     </div>
   </div>
-  <div class="card bg-danger" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_8.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Headphones/earbuds are not allowed.</p>
@@ -307,8 +307,8 @@ Some instructors may choose to allow you to access the exam only via Respondus L
 install the Respondus LockDown Browser on your computer. You need to use the installer link below, as it will install the version of Respondus that has been
 preconfigured to work with UBLearns.
 
-* Installer (this will start the installation process).
-* Instructions from UBIT.
+* [Installer](https://download.respondus.com/lockdown/download.php?id=231516053){:target="_blank" rel="noopener"} (this will start the installation process).
+* [Instructions from UBIT](http://www.buffalo.edu/ubit/service-guides/teaching-technology/learning-resources-for-students/ublearns/respondus.html){:target="_blank" rel="noopener"}.
 
 **Note:**  
 * Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam), you need to re-install using
