@@ -265,6 +265,8 @@ Here is a short video demonstrating the checkout process.
 was altered this will be considered an act of Academic Dishonesty with serious consequences (such as an F on the exam or a course failure).
 </div>
 
+<br/>
+
 #### 6. Submit your work to Gradescope
 
 Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work to Gradescope. Exams will not be accepted after this deadline. Do not write or alter anything on your pages once you leave the Zoom proctored meeting.
