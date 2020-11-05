@@ -104,24 +104,26 @@ The image below shows the correct recording configuration.
     </div>
 
 2. Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
-   - Security:  
+   - [Security](assets/images/zoom_security.png):  
      * Lock Meeting - **UNCHECKED**
      * Enable Waiting Room - **CHECKED**
      * Share screen - **UNCHECKED**
      * Chat - **CHECKED**
      * Rename Themselves - **UNCHECKED**
-   - Chat  → …  → Participant can chat **with host only**
-   - Video settings:
+   - [Chat  → …  → Participant can chat](assets/images/zoom_chat.png) **with host only**
+   - [Video settings](assets/images/zoom_video.png):
      * Always display participant name on their video - **CHECKED**
-     * Hide non-video participants  - **UNCHECKED**  <span class="text-danger"> - this is critical!</span>
+     * Hide non-video participants  - **UNCHECKED**  <span class="text-danger"> - <b>this is critical!</b></span>
 
 3. Make sure that the meeting is being recorded. If not, start the recording in the cloud.
 
 4. Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
    Use Suite B if Suite A is already in use for a different exam. Post a message in the corresponding text channel that you started the meeting.
 
-   **Note.**  It is recommended that you use headphones during the exam to reduce the chance of accidentally letting students
+   <div class="alert alert-dismissible alert-info">
+   <b>Note.</b> It is recommended that you use headphones during the exam to reduce the chance of accidentally letting students
    hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
+   </div>
 
 <br/>
 
