@@ -71,11 +71,8 @@ To access the proctored Zoom meeting and the exam questions you will need the ex
 Prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
 If you can’t find it, contact the course instructor. For each Math course you are taking this semester, you will use the same PIN for all exams.  
 
-
-<div class="alert alert-dismissible alert-danger">
-<b>Important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
-  and can make you vulnerable to dishonesty by others.
-</div>
+<p class="text-danger"><b>Important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
+  and can make you vulnerable to dishonesty by others.</p>
 
 <br/>
 
@@ -101,8 +98,6 @@ Your exam workspace should be in a quiet location with no one else around. Remem
   </ol>
   </div>
 
-
-<br/>
 
 During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
 textbooks, websites, etc) unless it is specified otherwise by the course instructor. Also, you must not wear headphones or earbuds.
