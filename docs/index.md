@@ -188,6 +188,7 @@ demonstrating proper workspace setup.
       <p class="card-text">Camera oriented vertically, partial view of the monitor and work surface only.</p>
     </div>
   </div>
+  <div class="mt-3" />
 
   <div class="card" style="min-width: 200px;">
     <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
