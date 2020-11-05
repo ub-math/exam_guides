@@ -162,7 +162,7 @@ demonstrating proper workspace setup.
 <br/>
 
 <h4>Examples of incorrect camera views</h4>
-<div class="card-columns">
+<div class="card-deck">
 
   <div class="card" style="min-width: 200px;">
     <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
