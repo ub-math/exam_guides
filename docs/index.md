@@ -107,7 +107,7 @@ demonstrating proper workspace setup.
 <br/>
 
 <div class="container">
-    <h1>About Me</h1>
+    <h4>Zoom device setup</h4>
     <div class="row">
         <div class="col-md-12">
             <img style='float:left;width:200px;height:200px; margin-right:10px;' src="img/me.jpg" />
