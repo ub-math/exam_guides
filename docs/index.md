@@ -73,8 +73,8 @@ If you can’t find it, contact the course instructor. For each Math course you 
 
 
 <div class="alert alert-dismissible alert-danger">
-  <p><b>Important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
-  and can make you vulnerable to dishonesty by others.</p>
+<b>Important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
+  and can make you vulnerable to dishonesty by others.
 </div>
 
 <br/>
@@ -87,6 +87,7 @@ Your exam workspace should be in a quiet location with no one else around. Remem
 
 
   <div class="alert alert-dismissible alert-primary">
+  <h4 class="alert-heading">Here is what you will need to take the exam:</h4>
   <ol>
   <li>A computer with an internet connection.</li>
   <li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
@@ -98,7 +99,7 @@ Your exam workspace should be in a quiet location with no one else around. Remem
   <li>Blank paper.</li>
   <li>Desk or table clear of any items, besides those listed above.</li>
   </ol>
-</div>
+  </div>
 
 
 
