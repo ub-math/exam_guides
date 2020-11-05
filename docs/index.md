@@ -151,9 +151,11 @@ demonstrating proper workspace setup.
       </div>
     </div>
 </div>
+</div>
+
 
 <br/>
-<div>
+
 
 
 #### Examples of incorrect camera views
