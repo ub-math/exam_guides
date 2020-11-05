@@ -250,14 +250,26 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
 
 #### Red flags
 
-* student is typing
-* student is scrolling a lot
-* student is looking at different documents on their computer
-* student is looking repeatedly at the Zoom camera (i.e. their phone)
-* student is looking repeatedly at any location other than computer screen or paper
-* student appears to be talking
-* student is wearing earbuds/headphones (not allowed)
-* student is using a virtual background (not allowed).
+
+<div class="alert alert-dismissible alert-info">
+<h4>Red flags</h4>
+<ul>
+<li> student is typing <li>
+<li> student is scrolling a lot <li>
+<li> student is looking at different documents on their computer <li>
+<li> student is looking repeatedly at the Zoom camera (i.e. their phone) <li>
+<li> student is looking repeatedly at any location other than computer screen or paper <li>
+<li> student appears to be talking <li>
+<li> student is wearing earbuds/headphones (not allowed) <li>
+<li> student is using a virtual background (not allowed). <li>
+</ul>
+
+
+<p>In case of suspicious behavior make a note of the issue in the text channel of Discord.
+Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
+the student that they should check their chat messages.</p>
+</div>
+
 
 **In case of suspicious behavior:**
 
