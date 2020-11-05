@@ -109,7 +109,7 @@ demonstrating proper workspace setup.
 
 <br/>
 
-<div class="container">
+<div class="container" style="padding-left:0">
     <h4>Zoom device setup</h4>
     <div class="row">
         <div class="col-lg">
@@ -128,7 +128,7 @@ demonstrating proper workspace setup.
             about getting your zoom device positioned properly.</p>
       </div>
       <div class="col-lg">
-        <img style='width:400px;' src="./assets/images/phone_setup.png" />
+        <img style='width:500px;' src="./assets/images/phone_setup.png" />
       </div>
     </div>
 </div>
