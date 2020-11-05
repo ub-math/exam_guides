@@ -114,7 +114,7 @@ demonstrating proper workspace setup.
 
 <br/>
 
-<div class="jumbotron" style="padding-top:20px; padding-bottom:20px;">
+<div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
 <div class="container" style="padding-left:0">
     <div class="row">
         <div class="col-lg">
