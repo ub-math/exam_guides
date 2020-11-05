@@ -147,19 +147,6 @@ demonstrating proper workspace setup.
 </div>
 
 <br/>
-<div class="container" style="padding-left:0">
-    <h4>Examples of incorrect camera views</h4>
-    <div class="row">
-        <div class="col-lg">
-          This is how that the view from a camera should look. The student,  the work surface, and the computer screen are clearly visible
-      </div>
-      <div class="col-lg">
-        <img style='width:500px;' src="./assets/images/camera_view_correct.png" />
-      </div>
-    </div>
-</div>
-
-<br/>
 
 <h4>Examples of incorrect camera views</h4>
 <div class="card-deck">
