@@ -65,7 +65,7 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
 demonstrating the process of uploading your work to Gradescope and matching pages with questions.
 
 
-### The exam PIN
+#### The exam PIN
 
 To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
 Prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
@@ -73,8 +73,7 @@ If you can’t find it, contact the course instructor. For each Math course you 
 
 
 <div class="alert alert-dismissible alert-danger">
-  <h4 class="alert-heading">Important</h4>
-  <p>Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
+  <p><b>Important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
   and can make you vulnerable to dishonesty by others.</p>
 </div>
 
@@ -88,11 +87,21 @@ Your exam workspace should be in a quiet location with no one else around. Remem
 
 ### Here is what you will need to take the exam:
 
-<div class="alert alert-dismissible alert-danger">
-  <h4 class="alert-heading">Important</h4>
-  <p>Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
-  and can make you vulnerable to dishonesty by others.</p>
+  <h4 class="alert-heading">Here is what you will need to take the exam:</h4>
+  <ol>
+  <li>A computer with an internet connection.</li>
+  <li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
+     Make sure that your device is fully charged or it is connected to a charger.</li>
+  <li>A Gradescope account.</li>
+  <li>UB student ID (or a government issued photo ID).</li>
+  <li>Your exam PIN.</li>
+  <li>Pen or pencil.</li>
+  <li>Blank paper.</li>
+  <li>Desk or table clear of any items, besides those listed above.</li>
+  </ol>
 </div>
+
+
 
 1. A computer with an internet connection.
 2. A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
