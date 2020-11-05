@@ -21,7 +21,7 @@ version: "2020.11.05"
 <br/>
 <br/>
 
-## Our goal: Remote exams with integrity
+## Our goal: remote exams with integrity
 
 With remote exams there are many opportunities for cheating. Our goal is to conduct remote exams which have integrity.  
 Respondus Monitor had been found not effective in preventing cheating.
@@ -90,7 +90,9 @@ However, the setting for recording of the meeting must be configured in your own
 
 The image below shows the correct recording configuration.
 
-<img class="border border-secondary" src="./assets/images/zoom_recording_settings.png" class="img-fluid" alt="Responsive image">
+<span class="border border-secondary">
+<img src="./assets/images/zoom_recording_settings.png" class="img-fluid">
+</span>
 
 <br/>
 
