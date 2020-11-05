@@ -267,3 +267,19 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
 Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
 the student that they should check their chat messages.</p>
 </div>
+
+
+<br/>
+
+## Exam checkout
+
+* Students should use the Raise Hand feature to signal that they are ready to leave the exam. When you notice it,
+  tell the student to show exam pages to the camera one by one. The student should position the camera over
+  a stack of pages and remove pages one one stopping for about 1 second for each page. Here is a short video 
+  demonstration of this process.
+
+* Once a student shows all exam pages tells the student that they may leave the Zoom meeting and upload their work
+  to Gradescope.  <b>Note:<b/> If there are several students waiting to be checked out, acknowledge that you see them by
+  making an announcement that they will be checked out shortly.
+
+When all students leave the Zoom meeting, close the meeting. Your  duties are finished!
