@@ -164,25 +164,25 @@ demonstrating proper workspace setup.
 <h4>Examples of incorrect camera views</h4>
 <div class="card-deck">
 
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Work surface not visible.</p>
     </div>
   </div>
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_2.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Camera too close.</p>
     </div>
   </div>
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_3.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Part of the computer screen not visible.</p>
     </div>
   </div>
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Camera oriented vertically, partial view of the monitor and work surface only.</p>
@@ -190,25 +190,25 @@ demonstrating proper workspace setup.
   </div>
 
 
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_5.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Work surface not visible.</p>
     </div>
   </div>
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_6.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Camera too close.</p>
     </div>
   </div>
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Part of the computer screen not visible.</p>
     </div>
   </div>
-  <div class="card" style="min-width: 200px;padding-bottom:10px;">
+  <div class="card" style="min-width: 200px;margin-bottom:10px;">
     <img class="card-img-top" src="./assets/images/incorrect_8.png" alt="Card image cap">
     <div class="card-body">
       <p class="card-text">Camera oriented vertically, partial view of the monitor and work surface only.</p>
