@@ -5,9 +5,6 @@ title: "UB Math Exams: Student's Guide"
 
 
 
-
-# UB Math Exams: Student's Guide
-
 <br/>
 <br/>
 
