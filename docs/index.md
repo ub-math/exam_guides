@@ -5,11 +5,8 @@ title: "UB Math Exams: Student's Guide"
 
 
 
-<br/>
-<br/>
-
 <div class="alert alert-dismissible alert-info">
-  <h4 class="alert-heading">Quick links</h4>
+  <h4 class="alert-heading">Quick links!</h4>
   <ul>
   <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meeings (from phone/tablet).</li>
   <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from a computer).</li>
@@ -17,6 +14,8 @@ title: "UB Math Exams: Student's Guide"
   </ul>
 </div>
 
+<br/>
+<br/>
 
 ## 2-device proctored exams
 
