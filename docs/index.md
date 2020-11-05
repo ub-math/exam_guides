@@ -109,7 +109,7 @@ demonstrating proper workspace setup.
 
 <br/>
 
-
+<div class="container">
     <h4>Zoom device setup</h4>
     <div class="row">
         <div class="col-md-12">
@@ -129,7 +129,7 @@ demonstrating proper workspace setup.
             about getting your zoom device positioned properly.</p>
         </div>
     </div>
-
+</div>
 
 
 ## Setup Guide
