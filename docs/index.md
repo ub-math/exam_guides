@@ -114,7 +114,7 @@ demonstrating proper workspace setup.
 
 <br/>
 
-<div class="jumbotron">
+<div class="jumbotron" style="padding-top:0">
 <div class="container" style="padding-left:0">
     <div class="row">
         <div class="col-lg">
@@ -265,8 +265,7 @@ Once you are finished answering the questions:
    Pause on each page for about 1 second, so the camera can focus.
 4. When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
 
-Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"}  
-demonstrating the checkout process.
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"} demonstrating the checkout process.
 
 
 <div class="alert alert-dismissible alert-danger">
