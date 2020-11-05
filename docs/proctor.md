@@ -16,6 +16,7 @@ version: "2020.11.05"
   <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days.</li>
   </ul>
 </div>
+</div>
 
 <br/>
 <br/>
@@ -27,6 +28,27 @@ Respondus Monitor had been found not effective in preventing cheating.
 **2-device live-proctored exams** have the potential to be effective.
 
 
+<br/>
+
+## Proctoring assignments
+
+A table with Zoom links of meetings occurring in the next 7 days is maintained [here](http://blue.math.buffalo.edu/exams_next_7_days.html){:target="_blank" rel="noopener"},
+and the complete list of current proctoring assignments is here: [2209_exam_proctor_schedule_rev6d_public.xlsx](http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx){:target="_blank" rel="noopener"}.
+
+
+## 2-device exam setup
+
+<div class="container" style="padding-left:0">
+     <div class="row">
+        <div class="col-lg">
+        Students join exam Zoom meetings from their phone with video on while accessing exam questions through their computers.
+        Proctors monitor students by watching the video streams from students' phone cameras.
+        </div>
+        <div class="col-lg">
+        <img style='width:500px;' src="./assets/images/proctoring_setup.png" />
+       </div>
+    </div>
+</div>
 
 
 ## Preparation for proctoring
