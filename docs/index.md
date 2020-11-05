@@ -86,20 +86,20 @@ If you can’t find it, contact the course instructor. For each Math course you 
 Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
 
 
-  <div class="alert alert-dismissible alert-primary">
-  <h4 class="alert-heading">Here is what you will need to take the exam:</h4>
-  <ol>
-  <li>A computer with an internet connection.</li>
-  <li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
-     Make sure that your device is fully charged or it is connected to a charger.</li>
-  <li>A Gradescope account.</li>
-  <li>UB student ID (or a government issued photo ID).</li>
-  <li>Your exam PIN.</li>
-  <li>Pen or pencil.</li>
-  <li>Blank paper.</li>
-  <li>Desk or table clear of any items, besides those listed above.</li>
-  </ol>
-  </div>
+<div class="alert alert-dismissible alert-primary">
+<h4 class="alert-heading">Here is what you will need to take the exam:</h4>
+<ol>
+<li>A computer with an internet connection.</li>
+<li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
+   Make sure that your device is fully charged or it is connected to a charger.</li>
+<li>A Gradescope account.</li>
+<li>UB student ID (or a government issued photo ID).</li>
+<li>Your exam PIN.</li>
+<li>Pen or pencil.</li>
+<li>Blank paper.</li>
+<li>Desk or table clear of any items, besides those listed above.</li>
+</ol>
+</div>
 
 
 During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
@@ -113,7 +113,6 @@ demonstrating proper workspace setup.
     <h4>Zoom device setup</h4>
     <div class="row">
         <div class="col-md-12">
-            <img style='float:right;width:400px; margin-left:20px;' src="./assets/images/phone_setup.png" />
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
             Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
 
@@ -127,6 +126,9 @@ demonstrating proper workspace setup.
             for the phone if your desk is not big enough - get creative!
             Here is a <a href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"  target="_blank">short video</a>
             about getting your zoom device positioned properly.</p>
+        </div>
+        <div class="col-md-12">
+        <img style='float:right;width:400px; margin-left:20px;' src="./assets/images/phone_setup.png" />
         </div>
     </div>
 </div>
