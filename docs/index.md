@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "UB Math Exams: Student's Guide"
-version: "2020.11.06"
+version: "2020.11.05"
 ---
 
 
@@ -275,7 +275,6 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
   </ul>
 </div>
 
-<br/>
 
 #### 6. Submit your work to Gradescope
 
@@ -306,14 +305,16 @@ To check your exam score, log in to Gradescope and click on a course tile. This 
 
 ## Respondus Lockdown Browser
 
-Some instructors may choose to allow you to access the exam only via Respondus Lockdown Browser. If your course instructor tells you that this is the case,
-install the Respondus LockDown Browser on your computer. You need to use the installer link below, as it will install the version of Respondus that has been
+Some instructors may choose to allow you to access the exam only via Respondus Lockdown Browser. 
+If your course instructor tells you that this is the case,
+install the Respondus LockDown Browser on your computer. You need to use the installer link below, 
+as it will install the version of Respondus that has been
 preconfigured to work with UBLearns.
 
 * [Installer](https://download.respondus.com/lockdown/download.php?id=231516053){:target="_blank" rel="noopener"} (this will start the installation process).
 * [Instructions from UBIT](http://www.buffalo.edu/ubit/service-guides/teaching-technology/learning-resources-for-students/ublearns/respondus.html){:target="_blank" rel="noopener"}.
 
 **Note:**  
-* Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam), you need to re-install using
-  the link above.
+* Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam), 
+  you need to re-install using the link above.
 * Respondus only runs on Mac OS and Windows. It cannot be used on Chrome OS or Linux distributions.
