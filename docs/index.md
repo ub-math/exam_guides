@@ -24,7 +24,7 @@ This guide provides instructions for taking proctored exams in courses offered b
 
 Math Department staff members proctor the exams via your smartphone/tablet camera.
 
-
+<br/>
 
 ## Software installation and setup
 
@@ -77,6 +77,8 @@ If you can’t find it, contact the course instructor. For each Math course you 
   <p>Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
   and can make you vulnerable to dishonesty by others.</p>
 </div>
+
+<br/>
 
 ## Your exam workspace
 
