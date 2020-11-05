@@ -159,9 +159,11 @@ demonstrating proper workspace setup.
     </div>
 </div>
 
+<br/>
 
-<div class="card-deck">
 <h4>Examples of incorrect camera views</h4>
+<div class="card-deck">
+
   <div class="card">
     <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
     <div class="card-body">
