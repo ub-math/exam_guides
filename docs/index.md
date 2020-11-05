@@ -114,7 +114,8 @@ demonstrating proper workspace setup.
 
 <br/>
 
-#### Zoom device setup<
+#### Zoom device setup
+<div class="jumbotron">
 <div class="container" style="padding-left:0">
     <div class="row">
         <div class="col-lg">
@@ -152,7 +153,7 @@ demonstrating proper workspace setup.
 </div>
 
 <br/>
-
+<div>
 
 
 #### Examples of incorrect camera views
