@@ -76,7 +76,7 @@ If you can’t find it, contact the course instructor. For each Math course you 
 
 <div class="alert alert-dismissible alert-danger">
 <b>important.</b> Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
-and can make you vulnerable to dishonesty by others.</p>
+and can make you vulnerable to dishonesty by others.
 </div>
 
 <br/>
