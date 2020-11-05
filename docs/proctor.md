@@ -263,14 +263,7 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
 </ul>
 
 
-<p>In case of suspicious behavior make a note of the issue in the text channel of Discord.
+<p><b>In case of any suspicious behavior</b> make a note of the issue in the text channel of Discord.
 Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
 the student that they should check their chat messages.</p>
 </div>
-
-
-**In case of suspicious behavior:**
-
-Make a note of the issue in the text channel of Discord.
-Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
-the student that they should check their chat messages.
