@@ -3,6 +3,7 @@ layout: default
 title: "UB Math Exams: Student's Guide"
 ---
 
+# UB Math Exams: Student's Guide
 
 <div class="alert alert-dismissible alert-primary">
   <h4 class="alert-heading">Quick links</h4>
@@ -27,7 +28,7 @@ Math Department staff members proctor the exams via your smartphone/tablet camer
 
 ## Software installation and setup
 
-### Zoom app
+#### Zoom app
 
 In order to join a proctored exam meeting you will need to have the **Zoom app** installed on your smartphone or tablet.
 This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US){:target="_blank" rel="noopener"}
@@ -45,7 +46,7 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
 demonstrating the above steps.
 
 
-### Microsoft Office Lens
+#### Microsoft Office Lens
 
 At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
 Install the Microsoft Office Lens scanning app on your smartphone or tablet. The app is available for both  Android and iOS devices.
@@ -54,7 +55,7 @@ Practice using this app to create PDF files, in particular learn how to create P
 Here is a short video demonstrating the use of Office Lens.
 
 
-### Gradescope
+#### Gradescope
 
 Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
 Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
@@ -77,6 +78,29 @@ If you can’t find it, contact the course instructor. For each Math course you 
   and can make you vulnerable to dishonesty by others.</p>
 </div>
 
+## Your exam workspace
+
+### Workspace setup
+
+Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
+
+### Here is what you will need to take the exam:
+
+<div class="alert alert-dismissible alert-danger">
+  <h4 class="alert-heading">Important</h4>
+  <p>Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
+  and can make you vulnerable to dishonesty by others.</p>
+</div>
+
+1. A computer with an internet connection.
+2. A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
+   Make sure that your device is fully charged or it is connected to a charger.
+3. A Gradescope account.
+4. UB student ID (or a government issued photo ID).
+5. Your exam PIN.
+6. Pen or pencil.
+7. Blank paper.
+8. Desk or table clear of any items, besides those listed above.
 
 
 
