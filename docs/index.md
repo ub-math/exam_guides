@@ -85,9 +85,8 @@ If you can’t find it, contact the course instructor. For each Math course you 
 
 Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
 
-### Here is what you will need to take the exam:
 
-  <h4 class="alert-heading">Here is what you will need to take the exam:</h4>
+  <div class="alert alert-dismissible alert-primary">
   <ol>
   <li>A computer with an internet connection.</li>
   <li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
