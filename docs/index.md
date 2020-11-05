@@ -209,21 +209,19 @@ demonstrating proper workspace setup.
 
 #### 1. Join the Zoom proctoring meeting
 
-    1. Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
-
-    2. Join the Zoom meeting on your smartphone by going to the page <a href="https://exams.math.buffalo.edu/zoom">exams.math.buffalo.edu/zoom</a>
-    and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
-    You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before
-    the exam begins.  
+1. Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
+2. Join the Zoom meeting on your smartphone by going to the page <a href="https://exams.math.buffalo.edu/zoom">exams.math.buffalo.edu/zoom</a>
+   and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
+   You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
 
     <p class="text-primary"><b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
     This simply means that the proctor has not started the meeting yet - wait a moment and try again.</p>
 
-    3. Set your Zoom device to use the front-facing (selfie) camera.
+3. Set your Zoom device to use the front-facing (selfie) camera.
 
-    4. Turn the video on, the speaker on and volume loud enough so that you can hear the proctor, but not so loud that you will be disturbed
-    by occasional verbal interactions of the proctor with other students during the exam. Turn your microphone off (you can unmute yourself
-    temporarily if you need to talk to the proctor).
+4. Turn the video on, the speaker on and volume loud enough so that you can hear the proctor, but not so loud that you will be disturbed
+   by occasional verbal interactions of the proctor with other students during the exam. Turn your microphone off (you can unmute yourself
+   temporarily if you need to talk to the proctor).
 
 
 #### 2. Follow the proctor's instructions
@@ -282,106 +280,3 @@ Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a s
     Make sure that you match each page of your work with the corresponding question on Gradescope.
 
 Here is a short video demonstrating the process of uploading your work to Gradescope and matching pages with questions. You can also read the information here.
-
-
-<br/>
-<br/>
-<br/>
-
-
-## Setup Guide
-
-### Create a repository from this template
-
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
-
-### Choose a name for your repository
-
-Here we have two possibilities:
-
-* **You want a user or organization website**
-
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
-
-  Choose the repository name `<your username>.github.io`.
-
-* **You want a project website**
-
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
-
-  Choose the repository name `<whatever you want>`.
-
-### Activate Github Pages on your repository
-
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
-
-### That's it
-
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
-
-## Customization Guide
-
-### Modify the configuration
-
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
-
-### Change your theme
-
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
-
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
-
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
-
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
-
-That's it, you now have a totally different appearance for you website.
-
-### Modify the content
-
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
-
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
-
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-
-[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [colemannick.github.io](https://colemannick.github.io/)
-* [Betty and the Blushtones](http://bettyandtheblushtones.co.uk/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-
-## Other Github Pages related projects
-
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
-
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
