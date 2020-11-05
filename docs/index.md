@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "UB Math Exams: Student's Guide"
-version: "2020.11.05"
+version: "2020.11.06"
 ---
 
 
