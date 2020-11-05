@@ -81,7 +81,7 @@ If you can’t find it, contact the course instructor. For each Math course you 
 
 ## Your exam workspace
 
-### Workspace setup
+#### Workspace setup
 
 Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam you will need to concentrate!
 
@@ -102,17 +102,14 @@ Your exam workspace should be in a quiet location with no one else around. Remem
   </div>
 
 
+<br/>
 
-1. A computer with an internet connection.
-2. A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
-   Make sure that your device is fully charged or it is connected to a charger.
-3. A Gradescope account.
-4. UB student ID (or a government issued photo ID).
-5. Your exam PIN.
-6. Pen or pencil.
-7. Blank paper.
-8. Desk or table clear of any items, besides those listed above.
+During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
+textbooks, websites, etc) unless it is specified otherwise by the course instructor. Also, you must not wear headphones or earbuds.
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe){:target="_blank" rel="noopener"}
+demonstrating proper workspace setup.
 
+<br/>
 
 
 ## Setup Guide
