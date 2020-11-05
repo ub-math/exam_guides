@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "UB Math Exams: Student's Guide"
 ---
 
@@ -13,6 +13,69 @@ title: "UB Math Exams: Student's Guide"
   </ul>
 </div>
 
+
+## 2-device proctored exams
+
+This guide provides instructions for taking proctored exams in courses offered by the UB Math Department. The setup of the exam requires students to use two devices:
+
+* a computer, to access the exam
+* a smartphone or tablet equipped with a camera to access an exam Zoom meeting.
+
+Math Department staff members proctor the exams via your smartphone/tablet camera.
+
+
+
+## Software installation and setup
+
+### Zoom app
+
+In order to join a proctored exam meeting you will need to have the **Zoom app** installed on your smartphone or tablet.
+This app is available for both  [Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US){:target="_blank" rel="noopener"}
+and [iOS](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307){:target="_blank" rel="noopener"} devices.
+
+To access exam Zoom meetings you need to be signed into Zoom
+with your UB account. If you are signed in with another account, you can follow these steps to switch to your UB account:
+
+* In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the bottom).
+* Click Sign In and then choose **SSO** where it says "SIGN IN WITH"
+* Type ```buffalo``` where it says Enter your company domain.
+* On the next screen log in using your UB username and password (Duo will be required for this step).
+
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9){:target="_blank" rel="noopener"}
+demonstrating the above steps.
+
+
+### Microsoft Office Lens
+
+At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and save the scan as a PDF file.
+Install the Microsoft Office Lens scanning app on your smartphone or tablet. The app is available for both  Android and iOS devices.
+If needed, refer to the online instructions on how to use Office Lens on Android and iOS.
+Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple pages.
+Here is a short video demonstrating the use of Office Lens.
+
+
+### Gradescope
+
+Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
+Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
+Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope.
+Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
+Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
+demonstrating the process of uploading your work to Gradescope and matching pages with questions.
+
+
+### The exam PIN
+
+To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
+Prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
+If you can’t find it, contact the course instructor. For each Math course you are taking this semester, you will use the same PIN for all exams.  
+
+
+<div class="alert alert-dismissible alert-danger">
+  <h2 class="alert-heading">Important</h2>
+  <p>Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic Dishonesty  
+  and can make you vulnerable to dishonesty by others.</p>
+</div>
 
 
 
