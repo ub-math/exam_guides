@@ -128,7 +128,7 @@ demonstrating proper workspace setup.
             about getting your zoom device positioned properly.</p>
       </div>
       <div class="col-md-3">
-        <img style='float:right;width:400px; margin-left:20px;' src="./assets/images/phone_setup.png" />
+        <img style='width:400px;' src="./assets/images/phone_setup.png" />
       </div>
     </div>
 </div>
