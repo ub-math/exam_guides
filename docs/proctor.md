@@ -98,29 +98,29 @@ The image below shows the correct recording configuration.
 
 1. Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
 
-  <div class="alert alert-dismissible alert-danger">
-  <b>Note.</b> When you start a meeting you may see a pop-up box with the message "You have a meeting currently in-progress.
-  Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the "End Other Meeting" button.
-  </div>
+    <div class="alert alert-dismissible alert-danger">
+    <b>Note.</b> When you start a meeting you may see a pop-up box with the message "You have a meeting currently in-progress.
+    Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the "End Other Meeting" button.
+    </div>
 
 2. Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
    - Security:  
-     * Lock Meeting - UNCHECKED
-     * Enable Waiting Room - CHECKED
-     * Share screen - UNCHECKED
-     * Chat - CHECKED
-     * Rename Themselves - UNCHECKED
+     * Lock Meeting - **UNCHECKED**
+     * Enable Waiting Room - **CHECKED**
+     * Share screen - **UNCHECKED**
+     * Chat - **CHECKED**
+     * Rename Themselves - **UNCHECKED**
    - Chat  → …  → Participant can chat with host only
    - Video settings:
-     * Always display participant name on their video - CHECKED
-     * Hide non-video participants  - UNCHECKED  - THIS IS CRITICAL!!!!!!!!!
+     * Always display participant name on their video - **CHECKED**
+     * Hide non-video participants  - **UNCHECKED**  - THIS IS CRITICAL!!!!!!!!!
 
 3. Make sure that the meeting is being recorded. If not, start the recording in the cloud.
 
 4. Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
    Use Suite B if Suite A is already in use for a different exam. Post a message in the corresponding text channel that you started the meeting.
 
-   **Note:**  It is recommended that you use headphones during the exam to reduce the chance of accidentally letting students
+   **Note.**  It is recommended that you use headphones during the exam to reduce the chance of accidentally letting students
    hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
 
 <br/>
