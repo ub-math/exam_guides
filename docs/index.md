@@ -243,11 +243,11 @@ demonstrating proper workspace setup.
 
 #### 4. Answer the exam questions
 
-1. **One-side only:** write your solutions on blank sheets of paper using one side of the paper only.
-2. **Question numbers:** clearly label your work with the corresponding question number.
-3. **Space between questions:** leave some blank space between your work for different questions (~3cm).
-4. **Space for ID:** leave an empty spot on each page where you will place your Photo ID when taking pictures of your work for submitting them to Gradescope.
-5. **One Page:** for each question, write all of your answer on the same page if possible:
+* **One-side only:** write your solutions on blank sheets of paper using one side of the paper only.
+* **Question numbers:** clearly label your work with the corresponding question number.
+* **Space between questions:** leave some blank space between your work for different questions (~3cm).
+* **Space for ID:** leave an empty spot on each page where you will place your Photo ID when taking pictures of your work for submitting them to Gradescope.
+* **One Page:** for each question, write all of your answer on the same page if possible:
     * If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new page.
     * In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another page.
 
