@@ -257,16 +257,20 @@ Once you are finished answering the questions:
 
 Here is a short video demonstrating the checkout process.
 
-IMPORTANT: If you leave the Zoom meeting without checking out, or if any page you upload to Gradescope was not shown to the Zoom Device or was altered this will be considered an act of Academic Dishonesty with serious consequences (such as an F on the exam or a course failure).
+
+<div class="alert alert-dismissible alert-danger">
+<h4 class="alert-heading">Important</h4>
+If you leave the Zoom meeting without checking out, or if any page you upload to Gradescope was not shown to the Zoom Device or
+was altered this will be considered an act of Academic Dishonesty with serious consequences (such as an F on the exam or a course failure).
+</div>
+
 6. Submit your work to Gradescope
 
 Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work to Gradescope. Exams will not be accepted after this deadline. Do not write or alter anything on your pages once you leave the Zoom proctored meeting.
 
-    Scan all the pages of your work using the Office Lens app, and convert to a single PDF file.
-     Place your Photo ID on an empty section of each page, so that both your work and the ID are visible in each picture.
-
-    Upload the PDF file to Gradescope. (It may be easier if you email the file to yourself first, and then use your computer to go through the upload process.)
-
-    Make sure that you match each page of your work with the corresponding question on Gradescope.
+1. Scan all the pages of your work using the Office Lens app, and convert to a single PDF file.
+   Place your Photo ID on an empty section of each page, so that both your work and the ID are visible in each picture.
+2. Upload the PDF file to Gradescope. (It may be easier if you email the file to yourself first, and then use your computer to go through the upload process.)
+3. Make sure that you match each page of your work with the corresponding question on Gradescope.
 
 Here is a short video demonstrating the process of uploading your work to Gradescope and matching pages with questions. You can also read the information here.
