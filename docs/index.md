@@ -223,7 +223,7 @@ It can also implicate you in acts of dishonesty committed by others.
 
 #### 1. Join the Zoom proctored meeting
 
-* Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
+* Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.
 * Join the Zoom meeting on your smartphone by going to the page [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
   and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
   You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
