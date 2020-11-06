@@ -87,34 +87,14 @@ and can make you vulnerable to dishonesty by others.
 #### Workspace setup
 
 
-
-
-Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam, you will need to concentrate!
-
-
-<div class="alert alert-dismissible alert-info">
-<h4 class="alert-heading">Here is what you will need to take the exam:</h4>
-<ol>
-<li>A computer with an internet connection.</li>
-<li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed.
-   Make sure that your device is fully charged or it is connected to a charger.</li>
-<li>A Gradescope account.</li>
-<li>UB student ID (or a government issued photo ID).</li>
-<li>Your exam PIN.</li>
-<li>Pen or pencil.</li>
-<li>Blank paper.</li>
-<li>Desk or table clear of any items, besides those listed above.</li>
-</ol>
-</div>
-
 <div class="container" style="padding-left:0">
     <div class="row">
         <div class="col-lg">
         <p>Your exam workspace should be in a quiet location with no one else around. Remember: this is an exam, you will need to concentrate!</p>
 
-         <p>During the exam, you are **not allowed** to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
+         <p>During the exam, you are <b>not allowed</b> to use any calculators or consult any references (e.g. cheat sheets, formula sheets, note cards,
          textbooks, websites, etc) unless it is specified otherwise by the course instructor. Also, you must not wear headphones or earbuds.
-         Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe){:target="_blank" rel="noopener"}
+         Here is a <a target="_blank" href = "https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe">short video</a>
          demonstrating proper workspace setup. </p>
         </div>
         <div class="col-lg">
@@ -139,6 +119,8 @@ Your exam workspace should be in a quiet location with no one else around. Remem
         </div>
       </div>
  </div>
+
+
 
 <br/>
 
