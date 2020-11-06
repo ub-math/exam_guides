@@ -38,88 +38,80 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 <div class="card-deck">
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
-        <h4> Zoom app</h4>
+      <h4> Zoom app</h4>
 
-        <p>In order to join a proctored exam meeting you will need to have the <b>Zoom app</b> installed on your
-          smartphone or tablet. This app is available for both
-          <a target="_blank"
-            href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US">Android</a>
-          and <a target="_blank" href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307">iOS</a>devices.
-        </p>
+      <p>In order to join a proctored exam meeting you will need to have the <b>Zoom app</b> installed on your
+        smartphone or tablet. This app is available for both
+        <a target="_blank"
+          href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US">Android</a>
+        and <a target="_blank" href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307">iOS</a>devices.
+      </p>
 
-        <p>To access exam Zoom meetings you need to be signed into Zoom with your UB account. If you are signed in with
-          another account, you can follow these steps to switch to your UB account:
-        <ul>
-          <li>In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the
-            bottom).</li>
-          <li>Click Sign In and then choose <b>SSO</b> where it says <em>SIGN IN WITH</em>.</li>
-          <li>Type <code>buffalo</code> where it says <em>Enter your company domain</em>.</li>
-          <li>On the next screen log in using your UB username and password (Duo will be required for this step).</li>
-        </ul>
-        Here is a <a target="_blank"
-          href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9">short
-          video</a> demonstrating the above steps.
-        </p>
-      </div>
+      <p>To access exam Zoom meetings you need to be signed into Zoom with your UB account. If you are signed in with
+        another account, you can follow these steps to switch to your UB account:
+      <ul>
+        <li>In the Zoom app, sign out from the non-UB account (go to Settings > My Profile, then scroll down to the
+          bottom).</li>
+        <li>Click Sign In and then choose <b>SSO</b> where it says <em>SIGN IN WITH</em>.</li>
+        <li>Type <code>buffalo</code> where it says <em>Enter your company domain</em>.</li>
+        <li>On the next screen log in using your UB username and password (Duo will be required for this step).</li>
+      </ul>
+      Here is a <a target="_blank"
+        href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9">short
+        video</a> demonstrating the above steps.
+      </p>
     </div>
-    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-      <div class="card-body">
-        <h4>Microsoft Office Lens</h4>
+  </div>
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+    <div class="card-body">
+      <h4>Microsoft Office Lens</h4>
 
-        <p>At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and
-          save the
-          scan as a PDF file.
-          Install the <b>Microsoft Office Lens</b> scanning app on your smartphone or tablet. The app is available for
-          both
-          [Android] <a target="_blank"
-            href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens">Android</a>)
-          <a target="_blank" href="https://apps.apple.com/us/app/office-lens/id975925059">iOS</a> devices.
-          If needed, refer to the online instructions on how to use Office Lens on
-          <a target="_blank"
-            href="https://support.office.com/en-us/article/microsoft-office-lens-for-android-ec124207-0049-4201-afaf-b5874a8e6f2b">Android</a>
-          and <a target="_blank"
-            href="https://support.microsoft.com/en-us/office/microsoft-office-lens-for-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b?ui=en-us&rs=en-us&ad=us">iOS</a>.
-          Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple
-          pages.
-          Here is a <a target="_blank"
-            href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a00ab5c-ff3a-4c23-bc7d-ac5b0149a8bf">short
-            video</a>
-          demonstrating the use of Office Lens.</p>
-
-      </div>
-    </div>
-    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-      <div class="card-body">
-        <h4>Gradescope</h4>
-        <p>Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your
-          score once the
-          exam is graded).
-        <ul>
-          <li>Set up your Gradescope account following the instructions in this <a target="_blank"
-              href="https://www.ubgradescope.info">guide to
-              Gradescope</a>.</li>
-          <li>Practice uploading to Gradescope. Your course instructor will likely give you a brief assignment for
-            practice.
-            Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
-          </li>
-        </ul>
+      <p>At the conclusion of the exam you will need to scan pages with your solutions using your phone or tablet, and
+        save the
+        scan as a PDF file.
+        Install the <b>Microsoft Office Lens</b> scanning app on your smartphone or tablet. The app is available for
+        both
+        [Android] <a target="_blank"
+          href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens">Android</a>)
+        <a target="_blank" href="https://apps.apple.com/us/app/office-lens/id975925059">iOS</a> devices.
+        If needed, refer to the online instructions on how to use Office Lens on
+        <a target="_blank"
+          href="https://support.office.com/en-us/article/microsoft-office-lens-for-android-ec124207-0049-4201-afaf-b5874a8e6f2b">Android</a>
+        and <a target="_blank"
+          href="https://support.microsoft.com/en-us/office/microsoft-office-lens-for-ios-fbdca5f4-1b1b-4391-a931-dc1c2582397b?ui=en-us&rs=en-us&ad=us">iOS</a>.
+        Practice using this app to create PDF files, in particular learn how to create PDFs consisting on multiple
+        pages.
         Here is a <a target="_blank"
-          href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f">short
+          href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a00ab5c-ff3a-4c23-bc7d-ac5b0149a8bf">short
           video</a>
-        demonstrating the process of uploading your work to Gradescope and matching pages with questions.
-        </p>
+        demonstrating the use of Office Lens.</p>
 
-      </div>
+    </div>
+  </div>
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+    <div class="card-body">
+      <h4>Gradescope</h4>
+      <p>Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your
+        score once the
+        exam is graded).
+      <ul>
+        <li>Set up your Gradescope account following the instructions in this <a target="_blank"
+            href="https://www.ubgradescope.info">guide to
+            Gradescope</a>.</li>
+        <li>Practice uploading to Gradescope. Your course instructor will likely give you a brief assignment for
+          practice.
+          Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
+        </li>
+      </ul>
+      Here is a <a target="_blank"
+        href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f">short
+        video</a>
+      demonstrating the process of uploading your work to Gradescope and matching pages with questions.
+      </p>
+
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
 
 #### The exam PIN
 
