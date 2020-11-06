@@ -58,7 +58,7 @@ watermark myexam.pdf myroster.csv
 
 <br/>
 It is extremely helpful to the exam proctors if the exam question paper has a strong distinctive color. This can be achieved
-by adding a hexadecimal color specification:
+by adding a [hexadecimal color](https://htmlcolorcodes.com/){:target="_blank" rel="noopener"} specification:
 
 ```
 watermark myexam.pdf myroster.csv color=00ffff
@@ -71,7 +71,7 @@ Password: HWERXA
 ```
 
 <br/>
-To access their exam pdf, your students will go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu)
+To access their exam pdf, your students will go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}
 and enter their UBIT username, their personal exam server PIN, and the above exam password which should be kept secret until
 it is delivered to the students at the moment you want them to start work on the exam.
 
@@ -86,7 +86,7 @@ the access process for students, and removes our vulnerability to UBlearns servi
 Once the exam is completed, students will need to submit their work for grading. The recommended tool for this is Gradescope,
 an online service facilitating submission and grading of student assignments.  Since many instructors used Gradescope in the spring
 semester or are using it now, the students may be familiar with it already. Instructions on how to use Gradescope are available online
-at [www.ubgradescope.info](https://www.ubgradescope.info).   
+at [www.ubgradescope.info](https://www.ubgradescope.info){:target="_blank" rel="noopener"}.   
 
 In order to use Gradescope for collecting exams you need to:
 * create your course on Gradescope (if you have not done it already) and enroll your students in
@@ -103,32 +103,20 @@ grading are much more limited and less user friendly than what is available with
 
 
 
-
-
-## Our goal: remote exams with integrity
-
-With remote exams there are many opportunities for cheating. Our goal is to conduct remote exams which have integrity.  
-Respondus Monitor had been found not effective in preventing cheating.
-**2-device live-proctored exams** have the potential to be effective.
-
-
-<br/>
-
-## Proctoring assignments
-
-A table with Zoom links of meetings occurring in the next 7 days is maintained [here](http://blue.math.buffalo.edu/exams_next_7_days.html){:target="_blank" rel="noopener"},
-and the complete list of current proctoring assignments is here: [2209_exam_proctor_schedule_rev6d_public.xlsx](http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx){:target="_blank" rel="noopener"}.
-
-
-<br/>
-
-## 2-device exam setup
+## Proctoring setup
 
 <div class="container" style="padding-left:0">
      <div class="row">
         <div class="col-lg">
-        Students join exam Zoom meetings from their phone with video on while accessing exam questions through their computers.
-        Proctors monitor students by watching the video streams from students' phone cameras.
+        <p>During an exam students will be proctored via a Zoom meeting which they  join using the Zoom app on their phone.
+        This setup offers a better view of student environment than the one provided by a camera built into their computer.</p>
+
+        <p>For proctoring purposes, your class will be split into groups of no more than 30 students. Each group will take the exam
+        in a separate Zoom meeting, with all meetings running in parallel at the same time.  Each group has a TA assigned as the proctor.
+        A table of meetings occurring in the next 7 days, with the Zoom links, is maintained
+        <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>). The complete current list of proctoring
+        assignments is available here: <a href="http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev4b.xlsx">2209_exam_proctor_schedule_rev4b.xlsx</a>
+        (sort by whichever columns are relevant to you).
         </div>
         <div class="col-lg">
         <img style='width:500px;' src="./assets/images/proctoring_setup.png" />
