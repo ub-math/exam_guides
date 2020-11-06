@@ -308,7 +308,7 @@ Exams will not be accepted after this deadline. **Do not write or alter anything
 * Make sure that you match each page of your work with the corresponding question on Gradescope.
 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
-demonstrating the process of uploading your work to Gradescope and matching pages with questions. You can also read the information
+demonstrating the process of uploading your work to Gradescope and matching pages with questions. Gradescope information is also available
 [here](https://www.ubgradescope.info/){:target="_blank" rel="noopener"} .
 
 
