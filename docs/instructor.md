@@ -140,7 +140,7 @@ grading are much more limited and less user friendly than what is available with
   -  join the exam Zoom meeting from their phone or tablet using the [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) webpage.
   - access the exam using their computers using the [exams.math.buffalo.edu](https://exams.math.buffalo.edu) webpage. The exam password for this
     webpage will be provided to them at the beginning of the exam.   
-* Refer students to the Student’s Guide for detailed instructions.
+* Refer students to the [Student’s Guide](index.md) for detailed instructions.
 
     <div class="alert alert-dismissible alert-info">
     <h5>Important:</h5>
