@@ -263,8 +263,6 @@ and can make you vulnerable to dishonesty by others.
 
 #### 5. Checkout
 
-Once you are finished answering the questions:
-
 * Make a stack of all pages of your work in preparation for showing them to the Zoom device.
 * Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.
 * Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack.
@@ -272,7 +270,6 @@ Once you are finished answering the questions:
 * When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"} demonstrating the checkout process.
-
 
 <div class="alert alert-dismissible alert-danger">
 <b>Important.</b> The following behavior will considered an act of Academic Dishonesty with serious consequences
@@ -282,6 +279,41 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
   <li> Leaving the Zoom meeting without checking out. </li>
   <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was subsequently altered. </li>
   </ul>
+</div>
+
+
+
+
+
+
+<div class="container" style="padding-left:0">
+    <div class="row">
+        <div class="col-lg">
+          Once you are finished answering the questions:
+
+          <ul>
+            <li>Make a stack of all pages of your work in preparation for showing them to the Zoom device.</li>
+            <li>Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.</li>
+            <li>Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack
+                Pause on each page for about 1 second, so the camera can focus.</li>
+            <li>When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.</li>
+          </ul>
+
+          Here is a <a href target="_blank" href = https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da">short video</a>
+          demonstrating the checkout process.
+        </div>
+      <div class="col-lg" style="padding-right:0px;">
+        <div class="alert alert-dismissible alert-danger">
+        <b>Important.</b> The following behavior will considered an act of Academic Dishonesty with serious consequences
+        (such as an F on the exam or a course failure):
+
+          <ul>
+          <li> Leaving the Zoom meeting without checking out. </li>
+          <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was subsequently altered. </li>
+          </ul>
+        </div>
+     </div>
+  </div>
 </div>
 
 
