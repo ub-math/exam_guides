@@ -211,7 +211,7 @@ demonstrating proper workspace setup.
 <br/>
 
 
-## Taking the exam.
+## Taking the exam
 
 #### 1. Join the Zoom proctoring meeting
 
@@ -306,9 +306,9 @@ To check your exam score, log in to Gradescope and click on a course tile. This 
 
 ## Respondus Lockdown Browser
 
-Some instructors may choose to allow you to access the exam only via Respondus Lockdown Browser. 
+Some instructors may choose to allow you to access the exam only via Respondus Lockdown Browser.
 If your course instructor tells you that this is the case,
-install the Respondus LockDown Browser on your computer. You need to use the installer link below, 
+install the Respondus LockDown Browser on your computer. You need to use the installer link below,
 as it will install the version of Respondus that has been
 preconfigured to work with UBLearns.
 
@@ -316,6 +316,6 @@ preconfigured to work with UBLearns.
 * [Instructions from UBIT](http://www.buffalo.edu/ubit/service-guides/teaching-technology/learning-resources-for-students/ublearns/respondus.html){:target="_blank" rel="noopener"}.
 
 **Note:**  
-* Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam), 
+* Even if you have installed Respondus on your computer in the past (possibly for the ALEKS exam),
   you need to re-install using the link above.
 * Respondus only runs on Mac OS and Windows. It cannot be used on Chrome OS or Linux distributions.
