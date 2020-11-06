@@ -26,7 +26,7 @@ This guide provides instructions for taking proctored exams in courses offered b
 * a computer, to access the exam
 * a smartphone or tablet equipped with a camera to access an exam Zoom meeting.
 
-Math Department staff members proctor the exams via your smartphone/tablet camera.
+Math Department staff members proctor the exams via students' smartphone/tablet cameras.
 
 <br/>
 
@@ -62,9 +62,11 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
 #### Gradescope
 
 Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
-Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
-Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practicing uploading to Gradescope.
-Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
+
+* Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
+* Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practice.
+  Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
+
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
 demonstrating the process of uploading your work to Gradescope and matching pages with questions.
 
