@@ -37,7 +37,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 
 <br />
 <div class="card-deck">
-  <div class="card" style="min-width: 300px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
       <h4> Zoom app</h4>
 
@@ -63,7 +63,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       </p>
     </div>
   </div>
-  <div class="card" style="min-width: 300px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
       <h4>Microsoft Office Lens</h4>
 
@@ -88,7 +88,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 
     </div>
   </div>
-  <div class="card" style="min-width: 300px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
       <h4>Gradescope</h4>
       <p>Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your
