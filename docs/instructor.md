@@ -36,6 +36,73 @@ and curtail rampant cheating that majority of our instructors experienced during
 * Using an exam server for distribution of  exams to students.  The exam server can individualize exams (e.g. by watermarking them)
   and can provide access for each student to his/her copy of the exam.
 
+
+## Exam Preparation
+
+#### Exam server
+
+Benefits of using the Exam Server include logging exam access times, watermarking exams, and coloring of exams for easier proctoring.  
+An account on the server has been created for every instructor. You log in with your UB username and password. A complete user's guide
+is here: [Exam Server User's Guide](http://blue.math.buffalo.edu/nsm_exam_server.html).
+
+The two ingredients needed to build an exam are:
+* your exam pdf (or tex or docx)
+* your class roster with PINs that was generated for you by the Associate Chair
+
+With a VPN connection, upload these two files to your exams folder on the server, `yogiberra.sens.buffalo.edu`. Then log in, navigate to your exams
+folder and run the watermark script:
+
+```
+watermark myexam.pdf myroster.csv
+```
+
+It is extremely helpful to the exam proctors if the exam question paper has a strong distinctive color. This can be achieved
+by adding a hexadecimal color specification:
+
+```
+watermark myexam.pdf myroster.csv color=00ffff
+```
+
+Save and keep secret the exam password that is generated, which will look something like this:
+
+```
+Password: HWERXA
+```
+
+To access their exam pdf, your students will go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu)
+and enter their UBIT username, their personal exam server PIN, and the above exam password which should be kept secret until
+it is delivered to the students at the moment you want them to start work on the exam.
+
+#### UBlearns and Respondus eliminated
+
+Live proctoring eliminates the need for Respondus Lockdown Browser and Monitor, which in turn entirely eliminates the need
+to use UBlearns for the administration of exams. This greatly simplifies both the preparation process for instructors and
+the access process for students, and removes our vulnerability to UBlearns service outages - which have been frequent recently.
+
+#### Gradescope
+
+Once the exam is completed, students will need to submit their work for grading. The recommended tool for this is Gradescope,
+an online service facilitating submission and grading of student assignments.  Since many instructors used Gradescope in the spring
+semester or are using it now, the students may be familiar with it already. Instructions on how to use Gradescope are available online
+at [www.ubgradescope.info](https://www.ubgradescope.info).   
+
+In order to use Gradescope for collecting exams you need to:
+* create your course on Gradescope (if you have not done it already) and enroll your students in
+  the course by uploading a csv course roster;
+* create a Gradescope assignment for the exam;
+* instruct students that they need to submit their work to Gradescope when the exam is over.
+
+If you have not used Gradescope in your course before, it is useful to create a practice assignment before an exam, so students
+can get some experience with the Gradescope submission process.
+
+It is possible to use UBLearns, instead of Gradescope, to collect exams, but tools provided by UBLearns for exam collection and
+grading are much more limited and less user friendly than what is available with Gradescope.
+
+
+
+
+
+
 ## Our goal: remote exams with integrity
 
 With remote exams there are many opportunities for cheating. Our goal is to conduct remote exams which have integrity.  
