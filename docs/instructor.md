@@ -148,7 +148,10 @@ grading are much more limited and less user friendly than what is available with
     the meeting from their smartphone days in advance of the exam via <a href="https://exams.math.buffalo.edu/zoom">https://exams.math.buffalo.edu/zoom</a>.
     Prior to the exam, they will see the meeting information and a message that the host has not yet started the meeting.</li>
 
-    <li>Tell the students that when they will try to join the exam Zoom meeting they may see the message <b>The host has another meeting in progress</b>.
+    <li>Tell the students that when they will try to join the exam Zoom meeting they may see the message
+      <blockquote class="blockquote">
+        The host has another meeting in progress.
+      </blockquote>
     This simply means that the proctor has not started the meeting yet - they should wait a few seconds and try again. </li>
     </ol>
     </div>
