@@ -36,9 +36,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 ## Software installation and setup
 
 <div class="card-deck">
-  <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
+  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
-      <div class="alert alert-dismissible alert-info">
         <h4> Zoom app</h4>
 
         <p>In order to join a proctored exam meeting you will need to have the <b>Zoom app</b> installed on your
@@ -63,7 +62,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         </p>
       </div>
     </div>
-    <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
+    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
       <div class="card-body">
         <h4>Microsoft Office Lens</h4>
 
@@ -89,7 +88,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 
       </div>
     </div>
-    <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
+    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
       <div class="card-body">
         <h4>Gradescope</h4>
         <p>Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your
