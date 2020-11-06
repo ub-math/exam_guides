@@ -82,10 +82,8 @@ and can make you vulnerable to dishonesty by others.
 
 <br/>
 
+
 ## Your exam workspace
-
-#### Workspace setup
-
 
 <div class="container" style="padding-left:0">
     <div class="row">
@@ -127,7 +125,7 @@ and can make you vulnerable to dishonesty by others.
 <div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
 <div class="container" style="padding-left:0">
     <div class="row">
-        <div class="col-lg">
+        <div class="col-lg" style="padding-right: 0px;">
             <h4>Zoom device setup</h4>
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
             Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
