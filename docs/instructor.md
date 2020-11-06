@@ -56,19 +56,21 @@ folder and run the watermark script:
 watermark myexam.pdf myroster.csv
 ```
 
+<br/>
 It is extremely helpful to the exam proctors if the exam question paper has a strong distinctive color. This can be achieved
 by adding a hexadecimal color specification:
 
 ```
 watermark myexam.pdf myroster.csv color=00ffff
 ```
-
+<br/>
 Save and keep secret the exam password that is generated, which will look something like this:
 
 ```
 Password: HWERXA
 ```
 
+<br/>
 To access their exam pdf, your students will go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu)
 and enter their UBIT username, their personal exam server PIN, and the above exam password which should be kept secret until
 it is delivered to the students at the moment you want them to start work on the exam.
