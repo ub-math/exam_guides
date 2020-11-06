@@ -35,6 +35,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 
 ## Software installation and setup
 
+<br />
 <div class="card-deck">
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
