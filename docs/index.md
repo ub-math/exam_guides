@@ -312,7 +312,7 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
      </div>
   </div>
   <div class="row">
-    Here is a <a target="_blank" href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da">short video</a>
+    Here is a <a target="_blank" href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da"> short video </a>
     demonstrating the checkout process.
   </div>
 </div>
