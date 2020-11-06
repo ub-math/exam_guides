@@ -64,7 +64,7 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
 Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your score once the exam is graded).
 
 * Set up your Gradescope account following the instructions in this [guide to Gradescope](https://www.ubgradescope.info/){:target="_blank" rel="noopener"}.
-* Practice uploading to Gradescope. Your instructor will likely give you a brief assignment for practice.
+* Practice uploading to Gradescope. Your course instructor will likely give you a brief assignment for practice.
   Make sure you match each page of the file you upload to Gradescope with the appropriate question number.
 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
@@ -74,7 +74,7 @@ demonstrating the process of uploading your work to Gradescope and matching page
 #### The exam PIN
 
 To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an email from
-prof. John Ringland (ringland@buffalo.edu) on September 10. A few days before the exam make sure that you have the PIN.
+prof. John Ringland (ringland@buffalo.edu) which was sent on September 10. A few days before the exam make sure that you have the PIN.
 If you can’t find it, contact the course instructor. For each math course you are taking this semester, you will use the same PIN for all exams.  
 
 <div class="alert alert-dismissible alert-danger">
