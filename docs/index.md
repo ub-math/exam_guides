@@ -145,6 +145,7 @@ It can also implicate you in acts of dishonesty committed by others.
         <img style='width:500px;' src="./assets/images/phone_setup.png" />
       </div>
     </div>
+    <br/>
 
     <div class="row">
         <div class="col-lg">
