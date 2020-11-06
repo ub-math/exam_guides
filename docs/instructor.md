@@ -141,16 +141,17 @@ grading are much more limited and less user friendly than what is available with
 * Refer students to the Student’s Guide for detailed instructions.
 
 <div class="alert alert-dismissible alert-info">
-<h6>Important:</h6>
+<h5>Important:</h5>
 <ol>
 <li>The exam Zoom meetings are set up so that only UB-authenticated users can join them. This may create problems for students
 who have been using non-UB Zoom accounts. In order to avoid such issues at exam time, encourage your students to try joining
-the meeting from their smartphone days in advance of the exam via [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom).
+the meeting from their smartphone days in advance of the exam via <a href="https://exams.math.buffalo.edu/zoom">https://exams.math.buffalo.edu/zoom</a>.
 Prior to the exam, they will see the meeting information and a message that the host has not yet started the meeting.</li>
 
 <li>Tell the students that when they will try to join the exam Zoom meeting they may see the message "The host has another meeting in progress.".
 This simply means that the proctor has not started the meeting yet - they should wait a few seconds and try again. </li>
 </ol>
+</div>
 
 
 * Write your exam questions document, generate a pdf, and create the watermarked copies for your students using the watermark
