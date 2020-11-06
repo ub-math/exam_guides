@@ -295,6 +295,8 @@ and can make you vulnerable to dishonesty by others.
 </div>
 
 
+<br/>
+
 #### 6. Submit your work to Gradescope
 
 Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work to Gradescope.
