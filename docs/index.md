@@ -169,7 +169,7 @@ and can make you vulnerable to dishonesty by others.
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
     <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
     <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#10006;</span> Work surface not visible.</p>
+      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Work surface not visible.</p>
     </div>
   </div>
   <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
