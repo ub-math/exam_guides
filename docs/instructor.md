@@ -230,7 +230,6 @@ To create such a chart:
   ```
   chart examfolder
   ```
-  <br/>
 
   The chart in SVG format will be generated in the exam folder and a URL to it will be provided. See exam server guide for more details and options.
   If you need help with this, contact John Ringland.
