@@ -37,6 +37,8 @@ and curtail rampant cheating that majority of our instructors experienced during
   and can provide access for each student to his/her copy of the exam.
 
 
+<br/>
+
 ## Exam Preparation
 
 #### Exam server
@@ -233,6 +235,8 @@ To create such a chart:
   The chart in SVG format will be generated in the exam folder and a URL to it will be provided. See exam server guide for more details and options.
   If you need help with this, contact John Ringland.
 
+
+<br/>
 
 ## Grading
 
