@@ -95,7 +95,7 @@ and can make you vulnerable to dishonesty by others.
          Here is a <a target="_blank" href = "https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e79dfaad-6f77-4f01-8b14-ac51003e3efe">short video</a>
          demonstrating proper workspace setup. </p>
         </div>
-        <div class="col-lg">
+        <div class="col-lg" style="padding-right: 0px;">
 
         <div class="alert alert-dismissible alert-info">
         <h5 class="alert-heading">Here is what you will need to take the exam:</h5>
@@ -125,7 +125,7 @@ and can make you vulnerable to dishonesty by others.
 <div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
 <div class="container" style="padding-left:0">
     <div class="row">
-        <div class="col-lg" style="padding-right: 0px;">
+        <div class="col-lg">
             <h4>Zoom device setup</h4>
             <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is facing towards you).
             Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view of:
@@ -148,7 +148,7 @@ and can make you vulnerable to dishonesty by others.
 </div>
 
 <br/>
-<div class="container" style="padding-left:0">
+<div class="container">
     <div class="row">
         <div class="col-lg">
         <h4>Correct camera view</h4>
