@@ -215,33 +215,33 @@ demonstrating proper workspace setup.
 
 #### 1. Join the Zoom proctoring meeting
 
-1. Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
-2. Join the Zoom meeting on your smartphone by going to the page [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
-   and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
-   You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
+* Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
+* Join the Zoom meeting on your smartphone by going to the page [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
+  and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom account.
+  You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.  
 
     <div class="alert alert-dismissible alert-info">
     <b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
     This simply means that the proctor has not started the meeting yet - wait a moment and try again.
     </div>
 
-3. Set your Zoom device to use the front-facing (selfie) camera.
+* Set your Zoom device to use the front-facing (selfie) camera.
 
-4. Turn the video on, the speaker on and volume loud enough so that you can hear the proctor, but not so loud that you will be disturbed
-   by occasional verbal interactions of the proctor with other students during the exam. Turn your microphone off (you can unmute yourself
-   temporarily if you need to talk to the proctor).
+* Turn the video on, the speaker on and volume loud enough so that you can hear the proctor, but not so loud that you will be disturbed
+  by occasional verbal interactions of the proctor with other students during the exam. Turn your microphone off (you can unmute yourself
+  temporarily if you need to talk to the proctor).
 
 
 #### 2. Follow the proctor's instructions
 
-1. Position your Zoom device as described above in Zoom Device Setup.
-2. Follow any additional instructions from the proctor.
+* Position your Zoom device as described above in Zoom Device Setup.
+* Follow any additional instructions from the proctor.
 
 #### 3. Access the exam questions
 
-1. On your computer, in a web browser, access the following  URL: [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}.
-2. Enter your UBIT username and the exam PIN, and wait for the proctor to announce the exam password.
-3. Enter the exam password, click Go to access the exam questions, and begin work on the exam.
+* On your computer, in a web browser, access the following  URL: [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}.
+* Enter your UBIT username and the exam PIN, and wait for the proctor to announce the exam password.
+* Enter the exam password, click Go to access the exam questions, and begin work on the exam.
 
 #### 4. Answer the exam questions
 
@@ -257,11 +257,11 @@ demonstrating proper workspace setup.
 
 Once you are finished answering the questions:
 
-1. Make a stack of all pages of your work in preparation for showing them to the Zoom device.
-2. Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.
-3. Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack.
-   Pause on each page for about 1 second, so the camera can focus.
-4. When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
+* Make a stack of all pages of your work in preparation for showing them to the Zoom device.
+* Use the raise hand feature to let the proctor know that you are ready to leave the exam, and wait for the proctor to call upon you.
+* Move your Zoom device directly over your stack of pages, and repeatedly remove the top page until you've shown the whole stack.
+  Pause on each page for about 1 second, so the camera can focus.
+* When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.
 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"} demonstrating the checkout process.
 
@@ -282,10 +282,10 @@ Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
 Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work to Gradescope.
 Exams will not be accepted after this deadline. **Do not write or alter anything on your pages once you leave the Zoom proctored meeting.**
 
-1. Scan all the pages of your work using the Office Lens app, and convert to a **single PDF** file.
-   **Place your Photo ID on an empty section of each page, so that both your work and the ID are visible in each picture.**
-2. Upload the PDF file to Gradescope. (It may be easier if you email the file to yourself first, and then use your computer to go through the upload process.)
-3. Make sure that you match each page of your work with the corresponding question on Gradescope.
+* Scan all the pages of your work using the Office Lens app, and convert to a **single PDF** file.
+  **Place your Photo ID on an empty section of each page, so that both your work and the ID are visible in each picture.**
+* Upload the PDF file to Gradescope. (It may be easier if you email the file to yourself first, and then use your computer to go through the upload process.)
+* Make sure that you match each page of your work with the corresponding question on Gradescope.
 
 Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank" rel="noopener"}
 demonstrating the process of uploading your work to Gradescope and matching pages with questions. You can also read the information
@@ -298,8 +298,8 @@ demonstrating the process of uploading your work to Gradescope and matching page
 
 To check your exam score, log in to Gradescope and click on a course tile. This will bring you to a page with a list of assignments for this course. Assignments which have been already graded will show your score in the Status column.
 
-1. Click on the assignment to see the score for each question.
-2. Click on each assignment question to see any comments from the grader.
+* Click on the assignment to see the score for each question.
+* Click on each assignment question to see any comments from the grader.
 
 
 <br/>
