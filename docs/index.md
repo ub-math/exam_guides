@@ -221,7 +221,7 @@ It can also implicate you in acts of dishonesty committed by others.
 
 ## Taking the exam
 
-#### 1. Join the Zoom proctoring meeting
+#### 1. Join the Zoom proctored meeting
 
 * Prepare your UB student ID - you will need to show it to the proctor when you get admitted to the exam Zoom meeting.</p>
 * Join the Zoom meeting on your smartphone by going to the page [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
