@@ -225,7 +225,7 @@ cameras are positioned correctly. Instruct students to make adjustments as neede
 #### Starting the exam
 
 * **Immediately before the exam starts** announce what the exam checkout procedure is (see below).
-* Announce the exam password. This will let the students access the exam from their computers through
+* **Announce the exam password.** This will let the students access the exam from their computers through
   the website [exams.math.buffalo.edu](https://exams.math.buffalo.edu) and start working on the exams.
 
 #### Once the exam has started
