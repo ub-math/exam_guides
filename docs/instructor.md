@@ -101,7 +101,7 @@ It is possible to use UBLearns, instead of Gradescope, to collect exams, but too
 grading are much more limited and less user friendly than what is available with Gradescope.
 
 
-
+<br/>
 
 ## Proctoring setup
 
@@ -127,234 +127,114 @@ grading are much more limited and less user friendly than what is available with
 
 <br/>
 
-## Preparation for proctoring
 
-There are two pieces of information that you will need before an exam in order to proctor it:
+## Before the exam
 
-* **A link to the exam Zoom meeting.** These meetings are centrally scheduled by the Math Department - proctors do not schedule these meetings.  
-  When a meeting you are assigned to proctor is scheduled, you will receive an email from Zoom informing you that you have been made
-  an Alternative Host of the meeting. You can also find the link to this meeting  here.
-* **The exam password.** You will need to announce this password to students, so that they can access exam questions.  
-  The password should be provided to you by the instructor of the course for which you are proctoring, ahead of the exam.
+#### Well before the exam:
 
-In addition, you should have access to the Math Department Discord Server, which will be used for communications
-between proctors of various exam sessions and the course instructor during the exam. If you don't have access to this
-Discord server contact John Ringland, the Associate Chair (ringland@buffalo.edu). Before you proctor an exam  please also
-review the Exam Guide for Students so you are familiar how the exam is supposed to look from a student perspective.
+* Explain to students the proctoring setup, in particular that they will need to use Zoom on their smartphones during the exam,
+  and that they will need their exam server PIN to access both the Zoom meeting and the exam problems. Make sure that students
+  understand that they need to:
+  -  join the exam Zoom meeting from their phone or tablet using the [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) webpage.
+  - access the exam using their computers using the [exams.math.buffalo.edu](https://exams.math.buffalo.edu) webpage. The exam password for this
+    webpage will be provided to them at the beginning of the exam.   
+* Refer students to the Student’s Guide for detailed instructions.
 
-<br/>
+<div class="alert alert-dismissible alert-info">
+<h6>Important:</h6>
+<ol>
+<li>The exam Zoom meetings are set up so that only UB-authenticated users can join them. This may create problems for students
+who have been using non-UB Zoom accounts. In order to avoid such issues at exam time, encourage your students to try joining
+the meeting from their smartphone days in advance of the exam via [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom).
+Prior to the exam, they will see the meeting information and a message that the host has not yet started the meeting.</li>
 
-
-#### Zoom configuration
-
-Most settings of exam Zoom meetings are automatically set when a meeting is scheduled.
-However, the setting for recording of the meeting must be configured in your own account in order to work correctly:
-
-1. Use the web browser interface for Zoom ([buffalo.zoom.us](https://buffalo.zoom.us){:target="_blank" rel="noopener"})
-   to log in to your UB Zoom account.
-2. In the Zoom account click on Settings and then on the **Recording** tab.
-3. Turn ***Cloud Recording*** **ON**.
-4. Make sure that the ***Record active speaker, gallery view and shared screen separately*** option is **SELECTED**.
-5. Under this option make sure that:
-   - ***Active speaker*** is **UNSELECTED**
-   - ***Gallery view*** is **SELECTED**
-   - ***Shared screen*** is **UNSELECTED**.
-
-The image below shows the correct recording configuration.
-
-<img style="border: 1px solid;" class="img-fluid" src="./assets/images/zoom_recording_settings.png">
-
-<br/>
-
-## Starting a proctoring meeting
-
-1. Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
-
-    <div class="alert alert-dismissible alert-info">
-    <b>Note.</b> When you start a meeting you may see a pop-up box with the message "You have a meeting currently in-progress.
-    Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the "End Other Meeting" button.
-    </div>
-
-2. Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
-   - [Security](assets/images/zoom_security.png){:target="_blank" rel="noopener"}:  
-     * Lock Meeting - **UNCHECKED**
-     * Enable Waiting Room - **CHECKED**
-     * Share screen - **UNCHECKED**
-     * Chat - **CHECKED**
-     * Rename Themselves - **UNCHECKED**
-   - [Chat  → …  → Participant can chat](assets/images/zoom_chat.png){:target="_blank" rel="noopener"}: **with host only**
-   - [Video settings](assets/images/zoom_video.png){:target="_blank" rel="noopener"}:
-     * Always display participant name on their video - **CHECKED**
-     * Hide non-video participants  - **UNCHECKED**  <span class="text-danger"> - <b>this is critical!</b></span>
-
-3. Make sure that the meeting is being recorded. If not, start the recording in the cloud.
-
-4. Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
-   Use Suite B if Suite A is already in use for a different exam. Post a message in the corresponding text channel that you started the meeting.
-
-   <div class="alert alert-dismissible alert-info">
-   <b>Note.</b> It is recommended that you use headphones during the exam to reduce the chance of accidentally letting students
-   hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
-   </div>
-
-<br/>
+<li>Tell the students that when they will try to join the exam Zoom meeting they may see the message "The host has another meeting in progress.".
+This simply means that the proctor has not started the meeting yet - they should wait a few seconds and try again. </li>
+</ol>
 
 
-## Admitting students to the meeting
+* Write your exam questions document, generate a pdf, and create the watermarked copies for your students using the watermark
+  script on the  exam server. Make a note of the **exam password**. The password needs to be communicated to the proctors of all
+  sessions so that it can be announced to the students at the moment the exam is to begin.
+* When the proctoring meeting is scheduled by the Department, each proctor will receive an email from Zoom that she or he has been
+  made an Alternative Host of the meeting. Detailed information for proctors on how to run a proctored meeting are specified in the
+  [Proctor’s Guide](proctor.md). Information about all upcoming meetings is maintained [here](http://blue.math.buffalo.edu/exams_next_7_days.html).
 
-**Admit students from the waiting room in small groups.** If you are using a Windows or a Mac computer,
-you can reorder Zoom videos by dragging them in such way that all videos coming before your own will
-be of students whose IDs have been checked already. In this way it will be easier to keep track who still needs to be checked.
 
-**For each admitted student check their UB ID** (a government issued photo ID is acceptable as well):
-* Compare the photo in the ID with student's face.
-* Compare the name in the ID with the name displayed in Zoom.
-* In case of irregularities - name mismatch, no ID etc. make a note in the proctoring text channel on Discord.
+#### The evening before the exam:
 
-<br/>
-
-<div class="jumbotron" style="padding-top:40px; padding-bottom:20px;">
-<h2>Students' camera views</h2>
-<p> As you are admitting students to the exam,  and also during the exam itself, make sure that students'
-cameras are positioned correctly. Instruct students to make adjustments as needed.</p>
-
-<br/>
-<div class="container" style="padding-left:0">
-     <div class="row">
-        <div class="col-lg">
-        <h4>Correct camera view</h4>
-        <p>This is how that the view from a camera should look. The student, the work surface, and the computer screen are clearly visible.</p>
-       </div>
-       <div class="col-lg">
-        <img style='width:500px;' src="./assets/images/camera_view_correct.png" />
-       </div>
-    </div>
-</div>
+* Make sure that your exam is deployed on the exam server and that the portal page URL has been published to your students. You can use
+  data (UBIT username and PIN) of one of the students in your course to test accessing the exam from the page
+  [exams.math.buffalo.edu](https://exams.math.buffalo.edu). Also, make sure that the Gradescope assignment for students' submissions is ready.
+* Remind all your proctors about the exam and ask them to be present on proctoring voice channels on the Math Department Discord server
+  during the exam. In this way they will be able to communicate with other proctors and with you without the need for you to join their zoom
+  meetings. Proctors should wear headphones, to reduce the chance of Discord communications being unintentionally heard by students in the Zoom
+  meeting. Impress on your proctors that the responsibility for preventing cheating rests on them, and they should perform their duties actively
+  and react promptly to any and all perceived improper activity.
 
 
 <br/>
-
-<h4>Examples of incorrect camera views</h4>
-<div class="card-deck">
-
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_1.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Work surface not visible.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_2.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera too close.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_3.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Part of the computer screen not visible.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera oriented vertically, partial view of the monitor and work surface only.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_5.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Face not visible.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_6.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Video oriented vertically.  To fix this, pick up the phone, wave it around a bit, and set it back down.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the picture.</p>
-    </div>
-  </div>
-  <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-    <img class="card-img-top" src="./assets/images/incorrect_8.png" alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Headphones/earbuds are not allowed.</p>
-    </div>
-  </div>
-
-</div>
-</div>
-
-<br/>
-
 
 ## During the exam
 
-#### Starting the exam
+#### 15 minutes before the exam is to begin:
 
-* **Immediately before the exam starts** announce what the exam checkout procedure is (see below).
-* Announce the exam password. This will let the students access the exam from their computers through
-  the website [exams.math.buffalo.edu](https://exams.math.buffalo.edu) and start working on the exams.
+* Establish communication with each proctor on Discord and make sure he/she has started the Zoom meeting and has started to admit students.
+  Make sure all the proctors have the exam password, and tell them to announce it to the students at the exam start time.
 
-#### Once the exam has started
+#### Later:
 
-* Keep an eye on the waiting room for late-comers or students who drop out from the meeting and return.
-  Anyone entering from the waiting room needs to have their ID checked (or re-checked). If you notice
-  a student who dropped from the meeting and re-entered make a note in the Discord text channel.  
-
-* Enforce video-on for all students throughout the exam. If a student's video is off, and they do not properly
-  respond to request(s) to turn it on, remove them from the meeting and make a record that you did it in Discord.
-
-* Be sure to keep your audio muted except when you need to speak to students.
-
-* If any student's video does not show everything you need to see, have them correct it.
-
-* If a student is willfully or repeatedly not complying with your instructions, let them know that if they do not
-  comply within the next minute, they will be ejected from the meeting and get a 0 on the exam. If you do eject anyone,
-  make a note in Discord.
-
-* Monitor students carefully. Be on the alert for any form of cheating and actively communicate with students to correct
-  any irregularities. Pin student's video for a closer view if needed.
-
-
-<div class="alert alert-dismissible alert-danger">
-<h4>Red flags</h4>
-<ul>
-<li> student is typing </li>
-<li> student is scrolling a lot </li>
-<li> student is looking at different documents on their computer </li>
-<li> student is looking repeatedly at the Zoom camera (i.e. their phone) </li>
-<li> student is looking repeatedly at any location other than computer screen or paper </li>
-<li> student appears to be talking </li>
-<li> student is wearing earbuds/headphones (not allowed) </li>
-<li> student is using a virtual background (not allowed). </li>
-</ul>
-
-
-<p><b>In case of any suspicious behavior</b> make a note of the issue in the text channel of Discord.
-Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
-the student that they should check their chat messages.</p>
-</div>
+* Be present in proctoring channels of the Math Department Discord server to communicate with proctors and answer their questions.
+  You may also visit the Zoom meetings to check how the exam is going.
 
 
 <br/>
 
-## Exam checkout
+## After the exam
 
-* Students should use the Raise Hand feature to signal that they are ready to leave the exam. When you notice it,
-  tell the student to show exam pages to the camera one by one. The student should position the camera over
-  a stack of pages and remove pages one one stopping for about 1 second for each page.
-  Here is a [short video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da){:target="_blank" rel="noopener"}
-  demonstration of this process.
+#### Gather exam data
 
-* Once a student shows all exam pages tells the student that they may leave the Zoom meeting and upload their work
-  to Gradescope.  
+Various pieces of data generated during the exam - video recordings, exam server access times, Zoom attendance records,
+times of Gradescope submissions etc. - can be used to detect irregularities which may indicate cheating. For example,
+this data can flag students who leave a proctored Zoom meeting after a few minutes, complete the exam in an unproctored setting
+and then submit their work to Gradescope.
 
-  **Note:** If there are several students waiting to be checked out, acknowledge that you see them by
-  making an announcement that they will be checked out shortly.
+* The Associate Chair will send you a link to the Gallery View video recordings from each proctoring session, and the Zoom Meeting
+  Report csv files that contain a record of every joining and leaving.
+* The times when students submitted their work to Gradescope can be obtained as follows:
+  - Go to your course in Gradescope.
+  - On the course dashboard select the assignment with exam submissions.
+  - On the assignment page click on the “Review Grades” link from the menu on the left hand side.
+  - On the page with grades review click on the Download Grades button at the bottom of the page and select the “Download CSV” option.
 
-When all students leave the Zoom meeting, close the meeting. Your  duties are finished!
+    The CSV file you will obtain in this way will contain information with the submission time for each student. Noten that you can get this
+    file even before you start grading the exam. This will not interfere in any way with your grading process.
+
+#### Generate a time chart
+
+Knowing when students joined and left a proctoring session, accessed the exam questions, and submitted their work, is critical
+for detecting cheating. If you use the Exam Server, Zoom live-proctoring, and Gradescope, all of this information can be easily
+brought together in a [chart like this](https://exams.nsm.buffalo.edu/ringland/timechart_sample_anonymized.svg) that allows rapid detection
+of anomalies. Line segments denote presence in the Zoom meeting, blue (or magenta) squares are accesses to exam server (should not be outside
+Zoom meeting), and green (or red) dots are Gradescope submissions.
+
+To create such a chart:
+
+* Upload your Gradescope gradesheet (pre-grading version is fine) and the Zoom meeting reports (`participants_blah.csv`) to the folder containing
+  the student exam pdfs on the Exam Server.
+* Run the timechart script:
+
+  ```
+  chart examfolder
+  ```
+  <br/>
+
+  The chart in SVG format will be generated in the exam folder and a URL to it will be provided. See exam server guide for more details and options.
+  If you need help with this, contact John Ringland.
+
+
+## Grading
+
+Grade the collected exams in the way you prefer. Gradescope allows for exportable logging of submission times, rapid paging through submissions
+for each problem separately, simultaneous grading by several graders, reusable rubrics, automated score computations, and provides an easy way to
+return graded exams to students.
