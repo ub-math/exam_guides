@@ -276,6 +276,9 @@ and can make you vulnerable to dishonesty by others.
                 Pause on each page for about 1 second, so the camera can focus.</li>
             <li>When you have completed this procedure,  leave the Zoom meeting and proceed to Step 6.</li>
           </ul>
+
+          Here is a <a target="_blank" href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da"> short video </a>
+          demonstrating the checkout process.
         </div>
       <div class="col-lg" style="padding-right:0px;">
         <div class="alert alert-dismissible alert-danger">
@@ -288,10 +291,6 @@ and can make you vulnerable to dishonesty by others.
           </ul>
         </div>
      </div>
-  </div>
-  <div class="row">
-    Here is a <a target="_blank" href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-4c76-9049-ac5b00e8a2da"> short video </a>
-    demonstrating the checkout process.
   </div>
 </div>
 
