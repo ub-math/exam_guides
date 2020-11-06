@@ -58,7 +58,7 @@ watermark myexam.pdf myroster.csv
 
 <br/>
 It is extremely helpful to the exam proctors if the exam question paper has a strong distinctive color. This can be achieved
-by adding a [hexadecimal color](https://htmlcolorcodes.com/){:target="_blank" rel="noopener"} specification:
+by adding a [hexadecimal color specification](https://htmlcolorcodes.com/){:target="_blank" rel="noopener"}:
 
 ```
 watermark myexam.pdf myroster.csv color=00ffff
@@ -116,7 +116,7 @@ grading are much more limited and less user friendly than what is available with
         A table of meetings occurring in the next 7 days, with the Zoom links, is maintained
         <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>). The complete current list of proctoring
         assignments is available here: <a href="http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev4b.xlsx">2209_exam_proctor_schedule_rev4b.xlsx</a>
-        (sort by whichever columns are relevant to you).
+        (sort by whichever columns are relevant to you).</p>
         </div>
         <div class="col-lg">
         <img style='width:500px;' src="./assets/images/proctoring_setup.png" />
