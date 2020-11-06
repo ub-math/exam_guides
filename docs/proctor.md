@@ -10,7 +10,7 @@ version: "2020.11.05"
 <div class="alert alert-dismissible alert-info">
   <h4 class="alert-heading">Quick links</h4>
   <ul>
-  <li> <a href="/exam_guides/index.html">Math Exams Student's Guide</a> - exam instructions for students.</li>
+  <li> <a href="/index.html">Math Exams Student's Guide</a> - exam instructions for students.</li>
   <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meeings (from phone/tablet).</li>
   <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from a computer).</li>
   <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days</a>.</li>
