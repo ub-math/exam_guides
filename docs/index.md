@@ -284,7 +284,7 @@ and can make you vulnerable to dishonesty by others.
         <div class="alert alert-dismissible alert-danger">
         <b>Important.</b> The following behavior will considered an act of Academic Dishonesty with serious consequences
         (such as an F on the exam or a course failure):
-
+          <br/>
           <ul>
           <li> Leaving the Zoom meeting without checking out. </li>
           <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was subsequently altered. </li>
