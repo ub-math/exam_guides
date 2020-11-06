@@ -43,8 +43,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       <p>In order to join a proctored exam meeting you will need to have the <b>Zoom app</b> installed on your
         smartphone or tablet. This app is available for both
         <a target="_blank"
-          href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US">Android</a>
-        and <a target="_blank" href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307">iOS</a>devices.
+          href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US">Android </a>
+        and <a target="_blank" href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307">iOS </a> devices.
       </p>
 
       <p>To access exam Zoom meetings you need to be signed into Zoom with your UB account. If you are signed in with
@@ -70,10 +70,9 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         save the
         scan as a PDF file.
         Install the <b>Microsoft Office Lens</b> scanning app on your smartphone or tablet. The app is available for
-        both
-        [Android] <a target="_blank"
-          href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens">Android</a>)
-        <a target="_blank" href="https://apps.apple.com/us/app/office-lens/id975925059">iOS</a> devices.
+        both <a target="_blank"
+          href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens">Android </a> and
+        <a target="_blank" href="https://apps.apple.com/us/app/office-lens/id975925059">iOS </a> devices.
         If needed, refer to the online instructions on how to use Office Lens on
         <a target="_blank"
           href="https://support.office.com/en-us/article/microsoft-office-lens-for-android-ec124207-0049-4201-afaf-b5874a8e6f2b">Android</a>
@@ -112,6 +111,9 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
     </div>
   </div>
 </div>
+
+
+<br/>
 
 #### The exam PIN
 
