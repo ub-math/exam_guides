@@ -360,6 +360,7 @@ work for submitting them to Gradescope.
 <div class="container" style="padding-left:0">
   <div class="row">
     <div class="col-lg">
+    <p>
       Once you are finished answering the questions:
 
       <ul>
@@ -378,6 +379,7 @@ work for submitting them to Gradescope.
         short
         video </a>
       demonstrating the checkout process.
+      </p>
     </div>
     <div class="col-lg" style="padding-right:0px;">
       <div class="alert alert-dismissible alert-danger">
