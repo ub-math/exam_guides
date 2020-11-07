@@ -383,8 +383,9 @@ work for submitting them to Gradescope.
     </div>
     <div class="col-lg" style="padding-right:0px;">
       <div class="alert alert-dismissible alert-danger">
-        <b>Important.</b> The following behavior will considered an act of Academic Dishonesty with serious
-        consequences
+        <h5 class="alert-heading">Important</h5> 
+        <p>
+        The following behavior will considered an act of Academic Dishonesty with serious consequences
         (such as an F on the exam or a course failure):
         <br />
         <ul>
@@ -392,6 +393,7 @@ work for submitting them to Gradescope.
           <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was
             subsequently altered. </li>
         </ul>
+        </p>
       </div>
     </div>
   </div>
