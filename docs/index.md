@@ -126,8 +126,9 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       make
       sure that you have the PIN. If you can’t find it, contact the course instructor. For each math course you are
       taking this
-      semester, you will use the same PIN for all exams. 
+      semester, you will use the same PIN for all exams.
     </div>
+
     <div class="col-lg" style="padding-right: 0px;">
       <div class="alert alert-dismissible alert-danger">
         <h5 class="alert-heading">Important:</h5>
@@ -160,8 +161,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
           video</a>
         demonstrating proper workspace setup. </p>
     </div>
-    <div class="col-lg" style="padding-right: 0px;">
 
+    <div class="col-lg" style="padding-right: 0px;">
       <div class="alert alert-dismissible alert-info">
         <h5 class="alert-heading">Here is what you will need to take the exam:</h5>
         <ol>
@@ -346,10 +347,8 @@ temporarily if you need to talk to the proctor).
 * **Space for ID:** leave an empty spot on each page where you will place your Photo ID when taking pictures of your
 work for submitting them to Gradescope.
 * **One Page:** for each question, write all of your answer on the same page if possible:
-* If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new
-page.
-* In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another
-page.
+  -  If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new page.
+  - In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another page.
 
 #### 5. Checkout
 
