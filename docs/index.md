@@ -128,7 +128,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       taking this
       semester, you will use the same PIN for all exams.
     </div>
-
+    <br />
     <div class="col-lg" style="padding-right: 0px;">
       <div class="alert alert-dismissible alert-danger">
         <h5 class="alert-heading">Important:</h5>
