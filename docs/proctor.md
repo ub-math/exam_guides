@@ -30,7 +30,7 @@ Respondus Monitor had been found not effective in preventing cheating.
 **2-device live-proctored exams** have the potential to be effective.
 
 
-<br />
+<br/>
 
 ## Proctoring assignments
 
@@ -289,17 +289,16 @@ the website [exams.math.buffalo.edu](https://exams.math.buffalo.edu) and start w
           <li> student is wearing earbuds/headphones (not allowed) </li>
           <li> student is using a virtual background (not allowed). </li>
         </ul>
+        <br/>
+        <p><b>In case of any suspicious behavior</b> make a note of the issue in the text channel of Discord.
+          Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
+          the student that they should check their chat messages.</p>
       </div>
     </div>
   </div>
-
-
-  <p><b>In case of any suspicious behavior</b> make a note of the issue in the text channel of Discord.
-    Communicate with the student either verbally or in the Zoom chat - as appropriate. In case of text chat, inform
-    the student that they should check their chat messages.</p>
 </div>
 
-<br />
+<br/>
 
 ## Exam checkout
 
