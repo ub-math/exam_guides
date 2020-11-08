@@ -106,6 +106,9 @@ The image below shows the correct recording configuration.
 
 ## Starting a proctoring meeting
 
+
+
+
 * Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
 
 * Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
@@ -119,6 +122,7 @@ The image below shows the correct recording configuration.
   - [Video settings](assets/images/zoom_video.png){:target="_blank" rel="noopener"}:
     * Always display participant name on their video - **CHECKED**
     * Hide non-video participants - **UNCHECKED** <span class="text-danger"> - <b>this is critical!</b></span>
+<br/>
 
 *  Make sure that the meeting is being recorded. If not, start the recording in the cloud.
 
