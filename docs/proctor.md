@@ -108,19 +108,6 @@ The image below shows the correct recording configuration.
 
 * Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
 
-<div class="alert alert-dismissible alert-info">
-  <b>Note.</b> 
-  
-  <p>1. When you start a meeting you may see a pop-up box with the message "You have a meeting currently
-  in-progress.
-  Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the
-  "End Other Meeting" button.
-  </p>
-  <p>It is recommended that you use headphones during the exam to reduce the chance of accidentally letting
-  students hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
-  </p>
-</div>
-
 * Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
   - [Security](assets/images/zoom_security.png){:target="_blank" rel="noopener"}:
     * Lock Meeting - **UNCHECKED**
@@ -138,6 +125,20 @@ The image below shows the correct recording configuration.
 * Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
 Use Suite B if Suite A is already in use for a different exam. Post a message in the corresponding text channel that you
 started the meeting.
+
+<div class="alert alert-dismissible alert-info">
+  <b>Note.</b> 
+  
+  <p>1. When you start a meeting you may see a pop-up box with the message "You have a meeting currently
+  in-progress.
+  Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the
+  "End Other Meeting" button.
+  </p>
+  <p>2. It is recommended that you use headphones during the exam to reduce the chance of accidentally letting
+  students hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
+  </p>
+</div>
+
 
 <br />
 
