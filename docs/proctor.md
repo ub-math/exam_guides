@@ -113,15 +113,15 @@ The image below shows the correct recording configuration.
 
 * Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
   - [Security](assets/images/zoom_security.png){:target="_blank" rel="noopener"}:
-    * Lock Meeting - **UNCHECKED**
-    * Enable Waiting Room - **CHECKED**
-    * Share screen - **UNCHECKED**
-    * Chat - **CHECKED**
-    * Rename Themselves - **UNCHECKED**
-  - [Chat → … → Participant can chat](assets/images/zoom_chat.png){:target="_blank" rel="noopener"}: **with host only**
+    * Lock Meeting - <b class="text-danger">UNCHECKED</b>
+    * Enable Waiting Room - <b class="text-success">CHECKED</b>
+    * Share screen - <b class="text-danger">UNCHECKED</b>
+    * Chat - <b class="text-success">CHECKED</b>
+    * Rename Themselves -<b class="text-danger">UNCHECKED</b>
+  - [Chat → … → Participant can chat](assets/images/zoom_chat.png){:target="_blank" rel="noopener"}: <b class="text-danger">with host only</b>
   - [Video settings](assets/images/zoom_video.png){:target="_blank" rel="noopener"}:
-    * Always display participant name on their video - **CHECKED**
-    * Hide non-video participants - **UNCHECKED** <span class="text-danger"> - <b>this is critical!</b></span>
+    * Always display participant name on their video - <b class="text-success">CHECKED</b>
+    * Hide non-video participants - <b class="text-danger">UNCHECKED</b> <span class="text-danger"> - <b>this is critical!</b></span>
 <br/>
 
 *  Make sure that the meeting is being recorded. If not, start the recording in the cloud.
