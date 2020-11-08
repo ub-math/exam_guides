@@ -283,7 +283,7 @@ the website [exams.math.buffalo.edu](https://exams.math.buffalo.edu) and start w
     </div>
     <div class="col-lg">
       <div class="alert alert-dismissible alert-danger">
-        <h4>Red flags</h4>
+        <h5>Red flags</h5>
         <ul>
           <li> student is typing </li>
           <li> student is scrolling a lot </li>
