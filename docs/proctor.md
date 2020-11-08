@@ -131,8 +131,8 @@ Use Suite B if Suite A is already in use for a different exam. Post a message in
 started the meeting.
 
 <div class="alert alert-dismissible alert-info">
-  <b>Note.</b> 
-  
+  <b>Note.</b>
+
   <p>1. When you start a meeting you may see a pop-up box with the message "You have a meeting currently
   in-progress.
   Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the
@@ -283,7 +283,7 @@ the website [exams.math.buffalo.edu](https://exams.math.buffalo.edu) and start w
     </div>
     <div class="col-lg">
       <div class="alert alert-dismissible alert-danger">
-        <h5>Red flags</h5>
+        <h5>Red flags:</h5>
         <ul>
           <li> student is typing </li>
           <li> student is scrolling a lot </li>
