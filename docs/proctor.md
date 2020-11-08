@@ -106,38 +106,38 @@ The image below shows the correct recording configuration.
 
 ## Starting a proctoring meeting
 
-1. Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
+* Start the Zoom meeting at least 15 minutes prior to the start of the exam (20 if possible).
 
 <div class="alert alert-dismissible alert-info">
-  <b>Note.</b> When you start a meeting you may see a pop-up box with the message "You have a meeting currently
+  <b>Note.</b> 
+  
+  <p>1. When you start a meeting you may see a pop-up box with the message "You have a meeting currently
   in-progress.
   Please end it to start a new meeting". This message is due to the way exam Zoom meetings are scheduled. Click on the
   "End Other Meeting" button.
+  </p>
+  <p>It is recommended that you use headphones during the exam to reduce the chance of accidentally letting
+  students hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
+  </p>
 </div>
 
-2. Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
-- [Security](assets/images/zoom_security.png){:target="_blank" rel="noopener"}:
-* Lock Meeting - **UNCHECKED**
-* Enable Waiting Room - **CHECKED**
-* Share screen - **UNCHECKED**
-* Chat - **CHECKED**
-* Rename Themselves - **UNCHECKED**
-- [Chat → … → Participant can chat](assets/images/zoom_chat.png){:target="_blank" rel="noopener"}: **with host only**
-- [Video settings](assets/images/zoom_video.png){:target="_blank" rel="noopener"}:
-* Always display participant name on their video - **CHECKED**
-* Hide non-video participants - **UNCHECKED** <span class="text-danger"> - <b>this is critical!</b></span>
+* Once you start the meeting confirm that meeting settings are correct and adjust them if needed:
+  - [Security](assets/images/zoom_security.png){:target="_blank" rel="noopener"}:
+    * Lock Meeting - **UNCHECKED**
+    * Enable Waiting Room - **CHECKED**
+    * Share screen - **UNCHECKED**
+    * Chat - **CHECKED**
+    * Rename Themselves - **UNCHECKED**
+  - [Chat → … → Participant can chat](assets/images/zoom_chat.png){:target="_blank" rel="noopener"}: **with host only**
+  - [Video settings](assets/images/zoom_video.png){:target="_blank" rel="noopener"}:
+    * Always display participant name on their video - **CHECKED**
+    * Hide non-video participants - **UNCHECKED** <span class="text-danger"> - <b>this is critical!</b></span>
 
-3. Make sure that the meeting is being recorded. If not, start the recording in the cloud.
+*  Make sure that the meeting is being recorded. If not, start the recording in the cloud.
 
-4. Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
+* Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
 Use Suite B if Suite A is already in use for a different exam. Post a message in the corresponding text channel that you
 started the meeting.
-
-<div class="alert alert-dismissible alert-info">
-  <b>Note.</b> It is recommended that you use headphones during the exam to reduce the chance of accidentally letting
-  students
-  hear Discord communication. Keep yourself muted in Zoom except when you are deliberately talking to students.
-</div>
 
 <br />
 
