@@ -117,7 +117,7 @@ grading are much more limited and less user friendly than what is available with
         in a separate Zoom meeting, with all meetings running in parallel at the same time.  Each group has a TA assigned as the proctor.
         A table of meetings occurring in the next 7 days, with the Zoom links, is maintained
         <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>). The complete current list of proctoring
-        assignments is available here: <a href="http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev4b.xlsx">2209_exam_proctor_schedule_rev4b.xlsx</a>
+        assignments is available here: <a href="http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx">2209_exam_proctor_schedule_rev6d_public.xlsx</a>
         (sort by whichever columns are relevant to you).</p>
         </div>
         <div class="col-lg">
