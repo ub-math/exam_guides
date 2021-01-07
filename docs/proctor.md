@@ -168,6 +168,36 @@ checked.
 
   <br />
   <div class="container" style="padding-left:0">
+  <div class="row">
+      <div class="col-lg">
+        <h4>Zoom device setup</h4>
+        <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is
+          facing
+          towards you). The device must be positioned in the landscape mode and placed about 4 ft (120 cm) away 
+          from your work area and about 10 inches (20 cm) above the work surface. It must receive a clear view
+          of:
+
+        <ul>
+          <li> your computer screen and keyboard (and mouse if any) </li>
+          <li> your face and your hands </li>
+          <li> your entire writing surface and the papers you are writing on. </li>
+        </ul>
+
+        For most phones, this will require the phone to be a little more than arm's length away. You may need to
+        arrange
+        another support
+        for the phone if your desk is not big enough - get creative!
+        Here is a <a
+          href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"
+          target="_blank">short video</a>
+        about getting your zoom device positioned properly.</p>
+      </div>
+      <div class="col-lg">
+        <img style='width:500px;' src="./assets/images/phone_setup.png" />
+      </div>
+    </div>
+    <br />
+    
     <div class="row">
       <div class="col-lg">
         <h4>Correct camera view</h4>
