@@ -204,10 +204,6 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
           <li> your entire writing surface and the papers you are writing on. </li>
         </ul>
 
-        For most phones, this will require the phone to be a little more than arm's length away. You may need to
-        arrange
-        another support
-        for the phone if your desk is not big enough - get creative!
         Here is a <a
           href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e9ae623-b962-4c9a-a2cb-ac5b0149db4c"
           target="_blank">short video</a>
