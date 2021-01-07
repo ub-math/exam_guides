@@ -222,9 +222,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
     <div class="row">
       <div class="col-lg">
         <h4>Correct camera view</h4>
-        <p>This is how that the view from a camera should look. The student, the work surface, and the computer
-          screen
-          are clearly visible.</p>
+        <p>This is how that the view from a camera should look. The student, the entire work surface, and the computer
+          screen are clearly visible.</p>
       </div>
       <div class="col-lg">
         <img style='width:500px;' src="./assets/images/camera_view_correct.png" />
