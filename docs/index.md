@@ -194,8 +194,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         <h4>Zoom device setup</h4>
         <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is
           facing
-          towards you).
-          Additionally, it must be positioned in the landscape mode and tilted so that Zoom receives a clear view
+          towards you). The device must be positioned in the landscape mode and placed about 4 ft (120 cm) away 
+          from your work area and about 10 inches (20 cm) above the work surface. It must receive a clear view
           of:
 
         <ul>
