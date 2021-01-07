@@ -201,7 +201,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         <ul>
           <li> your computer screen and keyboard (and mouse if any) </li>
           <li> your face and your hands </li>
-          <li> your writing surface and the papers you are writing on. </li>
+          <li> your entire writing surface and the papers you are writing on. </li>
         </ul>
 
         For most phones, this will require the phone to be a little more than arm's length away. You may need to
