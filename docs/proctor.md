@@ -126,9 +126,8 @@ The image below shows the correct recording configuration.
 
 *  Make sure that the meeting is being recorded. If not, start the recording in the cloud.
 
-* Go to the Proctoring Room in the Math Dept Discord Server whose number corresponds to your meeting number.
-Use Suite B if Suite A is already in use for a different exam. Post a message in the corresponding text channel that you
-started the meeting.
+* In the Math Dept Discord Server go to the proctoring suite corresponding to your exam and join one of the voice channels
+  so that your presence is visible. Post a message in the text channel of the proctoring suite that you started the meeting.
 
 <div class="alert alert-dismissible alert-info">
   <b>Note.</b>
