@@ -84,7 +84,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         Here is a <a target="_blank"
           href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a00ab5c-ff3a-4c23-bc7d-ac5b0149a8bf">short
           video</a>
-        demonstrating the use of Office Lens.</p>
+        demonstrating the use of Office Lens.
+      </p>
 
     </div>
   </div>
@@ -122,14 +123,15 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
   <div class="row">
 
     <div class="col-lg">
-    <p>
-      To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in an
-      email from prof. John Ringland (ringland@buffalo.edu) which was sent on September 10. A few days before the exam
-      make
-      sure that you have the PIN. If you can’t find it, contact the course instructor. For each math course you are
-      taking this
-      semester, you will use the same PIN for all exams.
-    </p>
+      <p>
+        To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in
+        an
+        email from prof. John Ringland (ringland@buffalo.edu) which was sent on September 10. A few days before the exam
+        make
+        sure that you have the PIN. If you can’t find it, contact the course instructor. For each math course you are
+        taking this
+        semester, you will use the same PIN for all exams.
+      </p>
     </div>
     <br />
     <div class="col-lg" style="padding-right: 0px;">
@@ -171,7 +173,8 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         <h5 class="alert-heading">Here is what you will need to take the exam:</h5>
         <ol>
           <li>A computer with an internet connection.</li>
-          <li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed. Make sure that your device is fully charged or it is connected to a charger.</li>
+          <li>A smartphone or tablet with an internet connection, and with Zoom and Office Lens apps installed. Make
+            sure that your device is fully charged or it is connected to a charger.</li>
           <li>A Gradescope account.</li>
           <li>UB student ID (or a government issued photo ID).</li>
           <li>Your exam PIN.</li>
@@ -194,7 +197,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         <h4>Zoom device setup</h4>
         <p>Your Zoom device must use the front-facing (selfie) camera for the Zoom meeting (so that the screen is
           facing
-          towards you). The device must be positioned in the landscape mode and placed about 4 ft (120 cm) away 
+          towards you). The device must be positioned in the landscape mode and placed about 4 ft (120 cm) away
           from your work area and about 10 inches (20 cm) above the work surface. It must receive a clear view
           of:
 
@@ -231,6 +234,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
   <br />
 
   <h4>Examples of incorrect camera views</h4>
+  <p>Most of the issues illustrated below can be fixed by placing the camera further away from you.</p>
   <div class="card-deck">
 
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
@@ -253,17 +257,17 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-      <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
-      <div class="card-body">
-        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera oriented vertically,
-          partial
-          view of the monitor and work surface only.</p>
-      </div>
-    </div>
-    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
       <img class="card-img-top" src="./assets/images/incorrect_5.png" alt="Card image cap">
       <div class="card-body">
         <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Face not visible.</p>
+      </div>
+    </div>
+    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+      <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
+      <div class="card-body">
+        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the
+          picture.
+        </p>
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
@@ -275,11 +279,11 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-      <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
+      <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
       <div class="card-body">
-        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the
-          picture.
-        </p>
+        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera oriented vertically,
+          partial
+          view of the monitor and work surface only.</p>
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
@@ -346,8 +350,10 @@ temporarily if you need to talk to the proctor).
 * **Space for ID:** leave an empty spot on each page where you will place your Photo ID when taking pictures of your
 work for submitting them to Gradescope.
 * **One Page:** for each question, write all of your answer on the same page if possible:
-  -  If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new page.
-  - In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another page.
+- If you are unsure your solution will fit in the remaining space on the current page, start the problem on a new
+page.
+- In the case where multiple pages of work are needed, clearly indicate that your solution is continued on another
+page.
 
 #### 5. Checkout
 
@@ -355,8 +361,8 @@ work for submitting them to Gradescope.
 <div class="container" style="padding-left:0">
   <div class="row">
     <div class="col-lg">
-    <p>
-      Once you are finished answering the questions:
+      <p>
+        Once you are finished answering the questions:
 
       <ul>
         <li>Make a stack of all pages of your work in preparation for showing them to the Zoom device.</li>
@@ -378,11 +384,11 @@ work for submitting them to Gradescope.
     </div>
     <div class="col-lg" style="padding-right:0px;">
       <div class="alert alert-dismissible alert-danger">
-        <h5 class="alert-heading">Important</h5> 
+        <h5 class="alert-heading">Important</h5>
         <p>
-        The following behavior will considered an act of Academic Dishonesty with serious consequences
-        (such as an F on the exam or a course failure):
-        <br />
+          The following behavior will considered an act of Academic Dishonesty with serious consequences
+          (such as an F on the exam or a course failure):
+          <br />
         <ul>
           <li> Leaving the Zoom meeting without checking out. </li>
           <li> Uploading to Gradescope any page that was not shown to the Zoom Device during checkout or was

@@ -206,6 +206,7 @@ checked.
   <br />
 
   <h4>Examples of incorrect camera views</h4>
+  <p>Most of the issues illustrated below can be fixed if the student places the camera further away from themselves.</p>
   <div class="card-deck">
 
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
@@ -228,36 +229,40 @@ checked.
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-      <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
-      <div class="card-body">
-        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera oriented vertically, partial
-          view of the monitor and work surface only.</p>
-      </div>
-    </div>
-    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
       <img class="card-img-top" src="./assets/images/incorrect_5.png" alt="Card image cap">
       <div class="card-body">
         <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Face not visible.</p>
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
+      <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
+      <div class="card-body">
+        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the
+          picture.
+        </p>
+      </div>
+    </div>
+    <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
       <img class="card-img-top" src="./assets/images/incorrect_6.png" alt="Card image cap">
       <div class="card-body">
-        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Video oriented vertically. To fix
+        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Video oriented vertically. To
+          fix
           this, pick up the phone, wave it around a bit, and set it back down.</p>
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
-      <img class="card-img-top" src="./assets/images/incorrect_7.png" alt="Card image cap">
+      <img class="card-img-top" src="./assets/images/incorrect_4.png" alt="Card image cap">
       <div class="card-body">
-        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Computer screen not in the picture.
-        </p>
+        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Camera oriented vertically,
+          partial
+          view of the monitor and work surface only.</p>
       </div>
     </div>
     <div class="card bg-light" style="min-width: 200px; margin-bottom:20px; padding:4px;">
       <img class="card-img-top" src="./assets/images/incorrect_8.png" alt="Card image cap">
       <div class="card-body">
-        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Headphones/earbuds are not allowed.
+        <p class="card-text"><span style="color:red;font-weight:600;">&#9888;</span> Headphones/earbuds are not
+          allowed.
         </p>
       </div>
     </div>
