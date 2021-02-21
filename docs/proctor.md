@@ -37,7 +37,7 @@ Respondus Monitor had been found not effective in preventing cheating.
 A table with Zoom links of meetings occurring in the next 7 days is maintained
 [here](http://blue.math.buffalo.edu/exams_next_7_days.html){:target="_blank" rel="noopener"},
 and the complete list of current proctoring assignments is here:
-[2209_exam_proctor_schedule_rev6d_public.xlsx](http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx){:target="_blank"
+[ http://blue.math.buffalo.edu/2211_exam_proctor_schedule_rev6.xlsx](http://blue.math.buffalo.edu/2211_exam_proctor_schedule_rev6.xlsx){:target="_blank"
 rel="noopener"}.
 
 
