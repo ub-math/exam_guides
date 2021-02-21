@@ -137,7 +137,7 @@ The director of AR Jennifer Morely [jmorley@buffalo.edu](mailto:jmorley@buffalo.
 her with details of such students at least one week in advance of the exam.
 
 Please do not ask your own proctors to stay late to accommodate students needing extra time. If you wish to provide 
-extra-time proctoring yourself, please notify the Assoc. Chair [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and 
+extra-time proctoring yourself, please notify the Associate Chair [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and 
 you can be made an Alternative Host of one of your zoom sessions. 
 
 
