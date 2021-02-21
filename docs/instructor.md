@@ -11,8 +11,8 @@ version: "2020.11.05"
   <h4 class="alert-heading">Quick links</h4>
   <ul>
   <li> <a href="/index.html">Math Exams Student's Guide</a> - exam instructions for students.</li>
-  <li> <a href="/proctor.html">Math Exams Proctors's Guide</a> - exam instructions for proctors.</li>
-  <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meeings (from phone/tablet).</li>
+  <li> <a href="/proctor.html">Math Exams Proctor's Guide</a> - exam instructions for proctors.</li>
+  <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meetings (from phone/tablet).</li>
   <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from a computer).</li>
   <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days</a>.</li>
   </ul>
@@ -43,16 +43,17 @@ and curtail rampant cheating that majority of our instructors experienced during
 
 #### Exam server
 
-Benefits of using the Exam Server include logging exam access times, watermarking exams, and coloring of exams for easier proctoring.  
-An account on the server has been created for every instructor. You log in with your UB username and password. A complete user's guide
-is here: [Exam Server User's Guide](http://blue.math.buffalo.edu/nsm_exam_server.html).
+Benefits of using the Exam Server include logging exam access times, watermarking exams, and coloring of exams for easier proctoring.
+If you would like Department staff to build your exam on the server for you, you can email PDF of the exam to the Associate Chair 
+at [ringland@buffalo.edu](mailto:ringland@buffalo.edu). If you are doing it yourself, a complete user’s guide to the exam server is
+available here: [Exam Server User's Guide](http://blue.math.buffalo.edu/nsm_exam_server.html).
 
 The two ingredients needed to build an exam are:
 * your exam pdf (or tex or docx)
 * your class roster with PINs that was generated for you by the Associate Chair
 
-With a VPN connection, upload these two files to your exams folder on the server, `yogiberra.sens.buffalo.edu`. Then log in, navigate to your exams
-folder and run the watermark script:
+With a VPN connection, upload these two files to your exams folder on the server, `yogiberra.sens.buffalo.edu`. Then log in to this 
+server, navigate to your exams folder and run the watermark script:
 
 ```
 watermark myexam.pdf myroster.csv
@@ -96,8 +97,8 @@ In order to use Gradescope for collecting exams you need to:
 * create a Gradescope assignment for the exam;
 * instruct students that they need to submit their work to Gradescope when the exam is over.
 
-If you have not used Gradescope in your course before, it is useful to create a practice assignment before an exam, so students
-can get some experience with the Gradescope submission process.
+If you have not used Gradescope in your course before, it is  very strongly recommended to create a practice assignment before an exam, 
+so students can get some experience with the Gradescope submission process.
 
 It is possible to use UBLearns, instead of Gradescope, to collect exams, but tools provided by UBLearns for exam collection and
 grading are much more limited and less user friendly than what is available with Gradescope.
@@ -117,7 +118,7 @@ grading are much more limited and less user friendly than what is available with
         in a separate Zoom meeting, with all meetings running in parallel at the same time.  Each group has a TA assigned as the proctor.
         A table of meetings occurring in the next 7 days, with the Zoom links, is maintained
         <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>). The complete current list of proctoring
-        assignments is available here: <a href="http://blue.math.buffalo.edu/2209_exam_proctor_schedule_rev6d_public.xlsx">2209_exam_proctor_schedule_rev6d_public.xlsx</a>
+        assignments is available here: <a href=" http://blue.math.buffalo.edu/2211_exam_proctor_schedule_rev6.xlsx">2211_exam_proctor_schedule_rev6.xlsx</a>
         (sort by whichever columns are relevant to you).</p>
         </div>
         <div class="col-lg">
@@ -128,6 +129,17 @@ grading are much more limited and less user friendly than what is available with
 
 
 <br/>
+
+### Students needing special accommodations
+
+Students requiring accommodations such as extra time can be proctored by the Accessibility Resources (AR) office. 
+The director of AR Jennifer Morely [jmorley@buffalo.edu](mailto:jmorley@buffalo.edu) asks that instructors provide
+her with details of such students at least one week in advance of the exam.
+
+Please do not ask your own proctors to stay late to accommodate students needing extra time. If you wish to provide 
+extra-time proctoring yourself, please notify the Assoc. Chair [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and 
+you can be made an Alternative Host of one of your zoom sessions. 
+
 
 
 ## Before the exam
