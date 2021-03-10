@@ -44,7 +44,7 @@ and curtail rampant cheating that majority of our instructors experienced during
 #### Exam server
 
 Benefits of using the Exam Server include logging exam access times, watermarking exams, and coloring of exams for easier proctoring.
-If you would like Department staff to build your exam on the server for you, you can email PDF of the exam to the Associate Chair 
+If you would like Department staff to build your exam on the server for you, you can email PDF of the exam to the Associate Chair
 at [ringland@buffalo.edu](mailto:ringland@buffalo.edu). If you are doing it yourself, a complete user’s guide to the exam server is
 available here: [Exam Server User's Guide](http://blue.math.buffalo.edu/nsm_exam_server.html).
 
@@ -52,7 +52,7 @@ The two ingredients needed to build an exam are:
 * your exam pdf (or tex or docx)
 * your class roster with PINs that was generated for you by the Associate Chair
 
-With a VPN connection, upload these two files to your exams folder on the server, `yogiberra.sens.buffalo.edu`. Then log in to this 
+With a VPN connection, upload these two files to your exams folder on the server, `yogiberra.sens.buffalo.edu`. Then log in to this
 server, navigate to your exams folder and run the watermark script:
 
 ```
@@ -89,7 +89,7 @@ the access process for students, and removes our vulnerability to UBlearns servi
 Once the exam is completed, students will need to submit their work for grading. The recommended tool for this is Gradescope,
 an online service facilitating submission and grading of student assignments.  Since many instructors used Gradescope in the spring
 semester or are using it now, the students may be familiar with it already. Instructions on how to use Gradescope are available online
-at [www.ubgradescope.info](https://www.ubgradescope.info){:target="_blank" rel="noopener"}.   
+at [gradescope.ubmath.info](https://gradescope.ubmath.info){:target="_blank" rel="noopener"}.   
 
 In order to use Gradescope for collecting exams you need to:
 * create your course on Gradescope (if you have not done it already) and enroll your students in
@@ -97,7 +97,7 @@ In order to use Gradescope for collecting exams you need to:
 * create a Gradescope assignment for the exam;
 * instruct students that they need to submit their work to Gradescope when the exam is over.
 
-If you have not used Gradescope in your course before, it is  very strongly recommended to create a practice assignment before an exam, 
+If you have not used Gradescope in your course before, it is  very strongly recommended to create a practice assignment before an exam,
 so students can get some experience with the Gradescope submission process.
 
 It is possible to use UBLearns, instead of Gradescope, to collect exams, but tools provided by UBLearns for exam collection and
@@ -132,13 +132,13 @@ grading are much more limited and less user friendly than what is available with
 
 ### Students needing special accommodations
 
-Students requiring accommodations such as extra time can be proctored by the Accessibility Resources (AR) office. 
+Students requiring accommodations such as extra time can be proctored by the Accessibility Resources (AR) office.
 The director of AR Jennifer Morely [jmorley@buffalo.edu](mailto:jmorley@buffalo.edu) asks that instructors provide
 her with details of such students at least one week in advance of the exam.
 
-Please do not ask your own proctors to stay late to accommodate students needing extra time. If you wish to provide 
-extra-time proctoring yourself, please notify the Associate Chair [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and 
-you can be made an Alternative Host of one of your zoom sessions. 
+Please do not ask your own proctors to stay late to accommodate students needing extra time. If you wish to provide
+extra-time proctoring yourself, please notify the Associate Chair [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and
+you can be made an Alternative Host of one of your zoom sessions.
 
 
 

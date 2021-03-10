@@ -15,6 +15,7 @@ version: "2020.11.05"
     <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from
       a computer).</li>
     <li> <a href="https://gradescope.com"> www.gradescope.com</a> - Gradescope.</li>
+    <li> <a href="https://gradescope.ubmath.info"> gradescope.ubmath.info</a> - Gradescope instructions.</li>
   </ul>
 </div>
 
@@ -97,7 +98,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
         exam is graded).
       <ul>
         <li>Set up your Gradescope account following the instructions in this <a target="_blank"
-            href="https://www.ubgradescope.info">guide to
+            href="https://gradescope.ubmath.info">guide to
             Gradescope</a>.</li>
         <li>Practice uploading to Gradescope. Your course instructor will likely give you a brief assignment for
           practice.
@@ -424,7 +425,7 @@ rel="noopener"}
 demonstrating the process of uploading your work to Gradescope and matching pages with questions. Gradescope
 information
 is also available
-[here](https://www.ubgradescope.info/){:target="_blank" rel="noopener"} .
+[here](https://gradescope.ubmath.info/){:target="_blank" rel="noopener"} .
 
 
 <br />
