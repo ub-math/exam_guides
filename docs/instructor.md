@@ -44,8 +44,28 @@ and curtail rampant cheating that majority of our instructors experienced during
 #### Exam server
 
 Benefits of using the Exam Server include logging exam access times, watermarking exams, and coloring of exams for easier proctoring.
-If you would like Department staff to build your exam on the server for you, you can email PDF of the exam to the Associate Chair
-at [ringland@buffalo.edu](mailto:ringland@buffalo.edu). If you are doing it yourself, a complete user’s guide to the exam server is
+
+<div class="alert alert-dismissible alert-warning">
+<h5>New:</h5>
+<p>
+It is recommended you let Department staff build the exam for you. In that case, all you need to do is:
+<ul>
+<li>
+In advance of the exam, email your PDF to the Math Deptartment secretary Michelle Hacker
+at <a href="mailto:mahacker@buffalo.edu">mahacker@buffalo.edu</a>. For the time being, please also Cc
+<a href="mailto:ringland.buffalo.edu">ringland.buffalo.edu</a>. Michelle will send you back the exam password.
+</li>
+<li>
+After the exam (but before grading is done), download grades from Gradescope in csv format and email this file to Michelle.
+This file contains the student submission times. Michelle will create the time chart and send you the link. See below for
+more information about time charts.
+</li>
+</ul>
+That's all! You can skip the reminder of the exam preparation section.
+</p>
+</div>
+
+If you choose to build the exam yourself, a complete user’s guide to the exam server is
 available here: [Exam Server User's Guide](http://blue.math.buffalo.edu/nsm_exam_server.html).
 
 The two ingredients needed to build an exam are:
@@ -83,6 +103,16 @@ it is delivered to the students at the moment you want them to start work on the
 Live proctoring eliminates the need for Respondus Lockdown Browser and Monitor, which in turn entirely eliminates the need
 to use UBlearns for the administration of exams. This greatly simplifies both the preparation process for instructors and
 the access process for students, and removes our vulnerability to UBlearns service outages - which have been frequent recently.
+
+<div class="alert alert-dismissible alert-info">
+<h5>Important:</h5>
+<p>
+Do not place the links to the exam server (exams.math.buffalo.edu and  exams.math.buffalo.edu/zoom) on UBLearns.
+For some reason UBLearns blocks these links and students may not be able to acess the exam using them.
+Send the links to students by email ahead of the exam. If you are using a non-UBLearns course website,
+it should work fine too.
+</p>
+</div>
 
 #### Gradescope
 
@@ -214,7 +244,7 @@ times of Gradescope submissions etc. - can be used to detect irregularities whic
 this data can flag students who leave a proctored Zoom meeting after a few minutes, complete the exam in an unproctored setting
 and then submit their work to Gradescope.
 
-* The Associate Chair will send you a link to the Gallery View video recordings from each proctoring session, and the Zoom Meeting
+* The Michelle Hacker will send you a link to the Gallery View video recordings from each proctoring session, and the Zoom Meeting
   Report csv files that contain a record of every joining and leaving.
 * The times when students submitted their work to Gradescope can be obtained as follows:
   - Go to your course in Gradescope.
@@ -227,13 +257,25 @@ and then submit their work to Gradescope.
 
 #### Generate a time chart
 
+
 Knowing when students joined and left a proctoring session, accessed the exam questions, and submitted their work, is critical
 for detecting cheating. If you use the Exam Server, Zoom live-proctoring, and Gradescope, all of this information can be easily
 brought together in a [chart like this](https://exams.nsm.buffalo.edu/ringland/timechart_sample_anonymized.svg) that allows rapid detection
 of anomalies. Line segments denote presence in the Zoom meeting, blue (or magenta) squares are accesses to exam server (should not be outside
 Zoom meeting), and green (or red) dots are Gradescope submissions.
 
-To create such a chart:
+
+<div class="alert alert-dismissible alert-warning">
+<h5>New:</h5>
+<p>
+If you used the assistance of Michelle Hacker to build your exam (as it is recommended), she will also build the time chart for you.
+To facilitate it, contact her at <a href="mailto:mahacker@buffalo.edu">mahacker@buffalo.edu</a> and send her a csv file with
+with Gradescope gradesheet (you don't need to grade the exam in order to generate this file).
+the
+</p>
+</div>
+
+If you built the exam by yourself, you will need to build the timechart by yourself too. To create such a chart:
 
 * Upload your Gradescope gradesheet (pre-grading version is fine) and the Zoom meeting reports (`participants_blah.csv`) to the folder containing
   the student exam pdfs on the Exam Server.
@@ -247,6 +289,16 @@ To create such a chart:
 
   The chart in SVG format will be generated in the exam folder and a URL to it will be provided. See exam server guide for more details and options.
   If you need help with this, contact John Ringland.
+
+
+#### Review exam data
+
+It is strongly recommended that you carefully examine the exam data in order to detect cheating attempts. In particular:
+
+* Review the transcripts of the chat from the Discord exam proctoring channel. Exam proctors use the chat to describe
+  irregularities encountered during the exam.
+* For students who took long time (e.g. over 10 minutes) to upload solutions to Gradescope after leaving the proctored Zoom meeting, 
+  compare their submitted solutions to the pages they showed to the camera during the exam checkout process.   
 
 
 <br/>
