@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Instructor's Guide"
 splash: "'assets/images/jumbo_instructor_bgd.png'"
-version: "2020.11.05"
+version: "2021.04.02"
 ---
 
 
@@ -62,7 +62,7 @@ This file contains the student submission times. Michelle will use it to create 
 more information about time charts.
 </li>
 </ul>
-That's all! You follow these instructions, you can skip the reminder of the exam preparation section.
+That's all! If you follow these instructions, you can skip the reminder of the exam preparation section.
 </p>
 </div>
 
@@ -297,7 +297,7 @@ If you built the exam by yourself, you will need to build the time chart by your
 
 It is strongly recommended that you carefully examine the exam data in order to detect cheating attempts. In particular:
 
-* Review the transcripts of the chat from the Math Departmen Discord server proctoring channels. Exam proctors use the chat
+* Review the transcript of the chat from the Math Department Discord server proctoring channels. Exam proctors use the chat
   to describe irregularities encountered during the exam.
 * For students who took long time (e.g. over 10 minutes) to upload solutions to Gradescope after leaving the proctored Zoom meeting,
   compare their submitted solutions to the pages they showed to the camera during the exam checkout process.   
