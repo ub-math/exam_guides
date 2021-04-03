@@ -289,8 +289,8 @@ If you built the exam by yourself, you will need to build the time chart by your
 
   <br/>
 
-  The chart in SVG format will be generated in the exam folder and a URL to it will be provided. See exam server guide for more details and options.
-  If you need help with this, contact John Ringland.
+The chart in SVG format will be generated in the exam folder and a URL to it will be provided. See exam server guide for more details and options.
+If you need help with this, contact John Ringland.
 
 
 #### Review exam data
