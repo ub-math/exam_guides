@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Instructor's Guide"
 splash: "'assets/images/jumbo_instructor_bgd.png'"
-version: "2021.04.02"
+version: "2021.04.03"
 ---
 
 
@@ -279,8 +279,8 @@ the time chart.
 
 If you built the exam by yourself, you will need to build the time chart by yourself too. To create such a chart:
 
-* Upload a csv file with the exam Gradescope gradesheet (pre-grading version is fine) and the Zoom meeting reports
-(`participants_blah.csv`) to the folder containing the student exam pdfs on the Exam Server.
+* Upload a csv file with the exam Gradescope gradesheet (pre-grading version is fine) to the folder containing the student
+  exam pdfs on the Exam Server.
 * Run the time chart script:
 
   ```
