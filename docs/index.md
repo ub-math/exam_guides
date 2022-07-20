@@ -127,11 +127,9 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
       <p>
         To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in
         an
-        email from prof. John Ringland (ringland@buffalo.edu) which was sent on February 9. A few days before the exam
-        make
-        sure that you have the PIN. If you can’t find it, contact the course instructor. For each math course you are
-        taking this
-        semester, you will use the same PIN for all exams.
+        email from the Math Department Associate Chair, prof. Bernard Badzioch (badzioch@buffalo.edu).
+        A few days before the exam make sure that you have the PIN. If you can’t find it, contact the course instructor.
+        For each math course you are taking this semester, you will use the same PIN for all exams.
       </p>
     </div>
     <br />
