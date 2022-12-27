@@ -104,7 +104,7 @@ The image below shows the correct recording configuration.
 
 <br />
 
-## Starting a proctoring meeting
+## Starting a proctoring meeting
 
 
 
@@ -174,21 +174,21 @@ checked.
           facing towards them). The device must be positioned in the landscape mode and placed about 4 ft (120 cm) away
           from your work area and about 10 inches (20 cm) above the work surface. It must receive a clear view
           of:
-  
+
         <ul>
           <li> the computer screen and keyboard (and mouse if any) </li>
           <li> student's face and and hands </li>
           <li> student's entire writing surface. </li>
         </ul>
         </p>
-  
+
       </div>
       <div class="col-lg">
         <img style='width:500px;' src="./assets/images/phone_setup.png" />
       </div>
     </div>
     <br />
-  
+
     <div class="row">
       <div class="col-lg">
         <h4>Correct camera view</h4>
@@ -342,7 +342,7 @@ rel="noopener"}
 demonstration of this process.
 
 * Once a student shows all exam pages tells the student that they may leave the Zoom meeting and upload their work
-to Gradescope.
+to Gradescope, UBLearns or use a different submission method specified by the course instructor.
 
 **Note:** If there are several students waiting to be checked out, acknowledge that you see them by
 making an announcement that they will be checked out shortly.

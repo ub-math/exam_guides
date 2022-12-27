@@ -93,6 +93,10 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
   <div class="card bg-light" style="min-width: 300px; margin-bottom:20px; padding:4px;">
     <div class="card-body">
       <h4>Gradescope</h4>
+      <p class="font-italic">In your course the instructor may choose a different way of submitting exams
+      that Gradescope (e.g. using UBLearns). In such case, ignore the instrtuctions below and follow the
+      instructions provided by the course instructor.</p>
+
       <p>Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your
         score once the
         exam is graded).
@@ -402,10 +406,11 @@ page.
 
 <br />
 
-#### 6. Submit your work to Gradescope
+#### 6. Submit your work
 
-Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work to
-Gradescope.
+Once you exit the Zoom Proctoring Session you will have 10 minutes to upload a single PDF file of your work.
+For submitting your solutions you will use Gradescope, UBLearns or a different method that will be explained
+by the course instructor prior to the exam.
 Exams will not be accepted after this deadline. **Do not write or alter anything on your pages once you leave the
 Zoom
 proctored meeting.**
@@ -413,9 +418,9 @@ proctored meeting.**
 * Scan all the pages of your work using the Office Lens app, and convert to a **single PDF** file.
 **Place your Photo ID on an empty section of each page, so that both your work and the ID are visible in each
 picture.**
-* Upload the PDF file to Gradescope. (It may be easier if you email the file to yourself first, and then use your
+* Upload the PDF file to Gradescope, UBLearns etc.. (It may be easier if you email the file to yourself first, and then use your
 computer to go through the upload process.)
-* Make sure that you match each page of your work with the corresponding question on Gradescope.
+* If your course is using Gradescope, make sure that you match each page of your work with the corresponding question on Gradescope.
 
 Here is a [short
 video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1150706c-3572-452e-b34f-ac5b0149af2f){:target="_blank"
@@ -430,12 +435,15 @@ is also available
 
 ## Viewing graded exams
 
-To check your exam score, log in to Gradescope and click on a course tile. This will bring you to a page with a list
-of
+If your course using Gradescope for exam submissions, to check your exam score, log in to Gradescope and click on
+a course tile. This will bring you to a page with a list of
 assignments for this course. Assignments which have been already graded will show your score in the Status column.
 
 * Click on the assignment to see the score for each question.
 * Click on each assignment question to see any comments from the grader.
+
+If you are not using Gradescope in your course, the course instructor will let you know how you will able to access
+your graded exam.
 
 
 <br />

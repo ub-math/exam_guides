@@ -31,7 +31,7 @@ and curtail rampant cheating that majority of our instructors experienced during
 
 * Live proctoring of exams in relatively small groups of up to 30 students. All groups are taking the exam in parallel during
   the designated exam time. Each group is supervised by a proctor selected from among Math Department teaching assistants.
-* Using students’ smartphones as video cameras during exams. This allows for positioning cameras in a way that provides a much better  
+* Using students’ smartphones as video cameras during exams. This allows for positioning cameras in a way that provides a much better
   view of each student and his/her work environment than it is possible with webcams built into computers.
 * Using an exam server for distribution of  exams to students.  The exam server can individualize exams (e.g. by watermarking them)
   and can provide access for each student to his/her copy of the exam.
@@ -99,13 +99,6 @@ To access their exam pdf, your students will go to [exams.math.buffalo.edu](http
 and enter their UBIT username, their personal exam server PIN, and the above exam password which should be kept secret until
 it is delivered to the students at the moment you want them to start work on the exam.
 
-#### UBlearns and Respondus eliminated
-
-Live proctoring eliminates the need for Respondus Lockdown Browser and Monitor, which in turn entirely eliminates the need
-to use UBlearns for the administration of exams. This greatly simplifies both the preparation process for instructors and
-the access process for students, and removes our vulnerability to UBlearns service outages - which have been frequent recently.
-
-<div class="alert alert-dismissible alert-info">
 <h5>Important:</h5>
 <p>
 Do not place the links to the exam server (<a href="https://exams.math.buffalo.edu" target="_blank">exams.math.buffalo.edu</a>
@@ -118,10 +111,14 @@ posting links there should work fine.
 
 #### Gradescope
 
+<p class="font-italic">Note: UB no longer has a Gradescope lincense. If you set up your course
+on Gradescope, it may still work but there is no guarantee that it will. You may want to use some
+other tools (e.g. UBLearns) to collect and grade the exams.</p>
+
 Once the exam is completed, students will need to submit their work for grading. The recommended tool for this is Gradescope,
 an online service facilitating submission and grading of student assignments.  Since many instructors used Gradescope in the spring
 semester or are using it now, the students may be familiar with it already. Instructions on how to use Gradescope are available online
-at [gradescope.ubmath.info](https://gradescope.ubmath.info){:target="_blank" rel="noopener"}.   
+at [gradescope.ubmath.info](https://gradescope.ubmath.info){:target="_blank" rel="noopener"}.
 
 In order to use Gradescope for collecting exams you need to:
 * create your course on Gradescope (if you have not done it already) and enroll your students in
@@ -183,7 +180,7 @@ you can be made an Alternative Host of one of your zoom sessions.
   understand that they need to:
   -  join the exam Zoom meeting from their phone or tablet using the [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) webpage.
   - access the exam using their computers using the [exams.math.buffalo.edu](https://exams.math.buffalo.edu) webpage. The exam password for this
-    webpage will be provided to them at the beginning of the exam.   
+    webpage will be provided to them at the beginning of the exam.
 * Refer students to the [Student’s Guide](index.md) for detailed instructions.
 
     <div class="alert alert-dismissible alert-info">
@@ -273,7 +270,7 @@ outside Zoom meeting), and green (or red) dots are Gradescope submissions.
 If you used the assistance of Michelle Hacker to build your exam (as it is recommended), she will also build the time chart for you.
 To facilitate it, contact her at <a href="mailto:mahacker@buffalo.edu">mahacker@buffalo.edu</a> and send her a csv file with
 with the Gradescope gradesheet (you don't need to grade the exam in order to generate this file). She will then send you a link to
-the time chart.  
+the time chart.
 </p>
 </div>
 
@@ -300,7 +297,7 @@ It is strongly recommended that you carefully examine the exam data in order to 
 * Review the transcript of the chat from the Math Department Discord server proctoring channels. Exam proctors use the chat
   to describe irregularities encountered during the exam.
 * For students who took long time (e.g. over 10 minutes) to upload solutions to Gradescope after leaving the proctored Zoom meeting,
-  compare their submitted solutions to the pages they showed to the camera during the exam checkout process.   
+  compare their submitted solutions to the pages they showed to the camera during the exam checkout process.
 
 
 <br/>
