@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Student's Guide"
 splash: "'assets/images/jumbo_bgd.jpg'"
-version: "2020.11.05"
+version: "2022.12.27"
 ---
 
 
@@ -435,14 +435,14 @@ is also available
 
 ## Viewing graded exams
 
-If your course using Gradescope for exam submissions, to check your exam score, log in to Gradescope and click on
+If your course uses Gradescope for exam submissions, to check your exam score, log in to Gradescope and click on
 a course tile. This will bring you to a page with a list of
 assignments for this course. Assignments which have been already graded will show your score in the Status column.
 
 * Click on the assignment to see the score for each question.
 * Click on each assignment question to see any comments from the grader.
 
-If you are not using Gradescope in your course, the course instructor will let you know how you will able to access
+If your course does not use Gradescope, the course instructor will let you know how to access
 your graded exam.
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Instructor's Guide"
 splash: "'assets/images/jumbo_instructor_bgd.png'"
-version: "2021.04.03"
+version: "2022.12.27"
 ---
 
 
@@ -57,7 +57,8 @@ at <a href="mailto:mahacker@buffalo.edu">mahacker@buffalo.edu</a>. For the time 
 the exam password.
 </li>
 <li>
-After the exam (but before grading is done), download gradesheet from Gradescope in the csv format and email this file to Michelle.
+If your course is using Gradescope for collection student submissions, after the exam (but before grading is done),
+download gradesheet from Gradescope in the csv format and email this file to Michelle.
 This file contains the student submission times. Michelle will use it to create a time chart and send you the link. See below for
 more information about time charts.
 </li>
@@ -107,18 +108,16 @@ For some reason UBLearns blocks these links and students may not be able to aces
 Send the links to students by email ahead of the exam. If you are using a non-UBLearns course website,
 posting links there should work fine.
 </p>
-</div>
 
-#### Gradescope
+#### Exam submissions
 
-<p class="font-italic">Note: UB no longer has a Gradescope lincense. If you set up your course
+<p class="font-italic"><b>Note.</b> UB no longer has a Gradescope lincense. If you set up your course
 on Gradescope, it may still work but there is no guarantee that it will. You may want to use some
 other tools (e.g. UBLearns) to collect and grade the exams.</p>
 
-Once the exam is completed, students will need to submit their work for grading. The recommended tool for this is Gradescope,
-an online service facilitating submission and grading of student assignments.  Since many instructors used Gradescope in the spring
-semester or are using it now, the students may be familiar with it already. Instructions on how to use Gradescope are available online
-at [gradescope.ubmath.info](https://gradescope.ubmath.info){:target="_blank" rel="noopener"}.
+Once the exam is completed, students will need to submit their work for grading. Gradescope is
+an online service facilitating submission and grading of student assignments.  Instructions on how to use
+Gradescope are available online at [gradescope.ubmath.info](https://gradescope.ubmath.info){:target="_blank" rel="noopener"}.
 
 In order to use Gradescope for collecting exams you need to:
 * create your course on Gradescope (if you have not done it already) and enroll your students in
@@ -126,11 +125,11 @@ In order to use Gradescope for collecting exams you need to:
 * create a Gradescope assignment for the exam;
 * instruct students that they need to submit their work to Gradescope when the exam is over.
 
-If you have not used Gradescope in your course before, it is  very strongly recommended to create a practice assignment before an exam,
-so students can get some experience with the Gradescope submission process.
-
 It is possible to use UBLearns, instead of Gradescope, to collect exams, but tools provided by UBLearns for exam collection and
-grading are much more limited and less user friendly than what is available with Gradescope.
+grading are more limited and less user friendly than what is available with Gradescope.
+
+Regardless which tool you choose to use for exam submissions, it is very strongly recommended to create a practice assignment
+before the first exam, so students can get some experience with the submission process.
 
 
 <br/>

@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Proctor's Guide"
 splash: "'assets/images/jumbo_proctor_bgd.jpg'"
-version: "2020.11.05"
+version: "2022.12.27"
 ---
 
 
@@ -81,6 +81,13 @@ Discord server contact John Ringland, the Associate Chair (ringland@buffalo.edu)
 review the Exam Guide for Students so you are familiar how the exam is supposed to look from a student perspective.
 
 <br />
+
+### Exam submissions
+
+After the exam students will need to to submit their solutions using a method selected by the course instructor
+(Gradescope, UBLearns etc.). The course instructor will explain the submission procedure to students prior to the exam.
+However, make sure to ask the instructor what is this procedure, so you can answer students' questions regarding it
+if needed.
 
 
 #### Zoom configuration
@@ -341,7 +348,7 @@ video](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1665fd0d-3d0a-
 rel="noopener"}
 demonstration of this process.
 
-* Once a student shows all exam pages tells the student that they may leave the Zoom meeting and upload their work
+* Once a student shows all exam pagesm, tell the student that they may leave the Zoom meeting and upload their work
 to Gradescope, UBLearns or use a different submission method specified by the course instructor.
 
 **Note:** If there are several students waiting to be checked out, acknowledge that you see them by
