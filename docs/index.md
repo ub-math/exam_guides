@@ -94,7 +94,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
     <div class="card-body">
       <h4>Gradescope</h4>
       <p class="font-italic">In your course the instructor may choose a different way of submitting exams
-      that Gradescope (e.g. using UBLearns). In such case, ignore the instrtuctions below and follow the
+      that Gradescope (e.g. using UBLearns). In such case, ignore the instructions below and follow the
       instructions provided by the course instructor.</p>
 
       <p>Gradescope is where you will be submitting the exam for grading, (and also where you will go to see your
