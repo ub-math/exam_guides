@@ -61,7 +61,7 @@ This file contains the student submission times. Michelle will use it to create 
 more information about time charts.
 </li>
 </ul>
-That's all! If you follow these instructions, you can skip the reminder of the exam preparation section.
+If you follow these instructions, you can skip the reminder of the exam preparation section.
 </p>
 </div>
 
@@ -143,9 +143,7 @@ before the first exam, so students can get some experience with the submission p
         <p>For proctoring purposes, your class will be split into groups of no more than 30 students. Each group will take the exam
         in a separate Zoom meeting, with all meetings running in parallel at the same time.  Each group has a TA assigned as the proctor.
         A table of meetings occurring in the next 7 days, with the Zoom links, is maintained
-        <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>). The complete current list of proctoring
-        assignments is available here: <a href=" http://blue.math.buffalo.edu/2211_exam_proctor_schedule_rev6.xlsx">2211_exam_proctor_schedule_rev6.xlsx</a>
-        (sort by whichever columns are relevant to you).</p>
+        <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>.</p>
         </div>
         <div class="col-lg">
         <img style='width:500px;' src="./assets/images/proctoring_setup.png" />
