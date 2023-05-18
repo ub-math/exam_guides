@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Instructor's Guide"
 splash: "'assets/images/jumbo_instructor_bgd.png'"
-version: "2022.12.27"
+version: "2023.05.18"
 ---
 
 
@@ -25,7 +25,7 @@ version: "2022.12.27"
 ## Introduction
 
 This document describes procedures for administering exams remotely. These procedures are  meant to enforce academic integrity
-and curtail rampant cheating that majority of our instructors experienced during the online part of the spring 2020 semester.
+and curtail cheating.
 
 **Here are the  main features of this systems:**
 
@@ -46,14 +46,12 @@ and curtail rampant cheating that majority of our instructors experienced during
 Benefits of using the Exam Server include logging exam access times, watermarking exams, and coloring of exams for easier proctoring.
 
 <div class="alert alert-dismissible alert-warning">
-<h5>New:</h5>
 <p>
 It is recommended you let the Math Department staff build the exam for you. All you need to do is:
 <ul>
 <li>
 In advance of the exam, email exam PDF file to the Math Department secretary Michelle Hacker
-at <a href="mailto:mahacker@buffalo.edu">mahacker@buffalo.edu</a>. For the time being, please also copy
-<a href="mailto:ringland.buffalo.edu">ringland.buffalo.edu</a> on the email. Michelle will send you back
+at <a href="mailto:mahacker@buffalo.edu">mahacker@buffalo.edu</a>. Michelle will send you back
 the exam password.
 </li>
 <li>
@@ -72,7 +70,7 @@ available here: [Exam Server User's Guide](http://blue.math.buffalo.edu/nsm_exam
 
 The two ingredients needed to build an exam are:
 * your exam pdf (or tex or docx)
-* your class roster with PINs that was generated for you by the Associate Chair
+* your class roster that was generated for you by the Associate Chair
 
 With a VPN connection, upload these two files to your exams folder on the server, `yogiberra.sens.buffalo.edu`. Then log in to this
 server, navigate to your exams folder and run the watermark script:
@@ -97,7 +95,7 @@ Password: HWERXA
 
 <br/>
 To access their exam pdf, your students will go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}
-and enter their UBIT username, their personal exam server PIN, and the above exam password which should be kept secret until
+and enter their UBIT username and password, and the above exam password. The exam password should be kept secret until
 it is delivered to the students at the moment you want them to start work on the exam.
 
 <h5>Important:</h5>
@@ -175,9 +173,9 @@ you can be made an Alternative Host of one of your zoom sessions.
 #### Well before the exam:
 
 * Explain to students the proctoring setup, in particular that they will need to use Zoom on their smartphones during the exam,
-  and that they will need their exam server PIN to access both the Zoom meeting and the exam problems. Make sure that students
+  and that they will need their UBIT username and password to access both the Zoom meeting and the exam problems. Make sure that students
   understand that they need to:
-  -  join the exam Zoom meeting from their phone or tablet using the [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) webpage.
+  - join the exam Zoom meeting from their phone or tablet using the [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) webpage.
   - access the exam using their computers using the [exams.math.buffalo.edu](https://exams.math.buffalo.edu) webpage. The exam password for this
     webpage will be provided to them at the beginning of the exam.
 * Refer students to the [Student’s Guide](index.md) for detailed instructions.
@@ -206,9 +204,8 @@ you can be made an Alternative Host of one of your zoom sessions.
 
 #### The evening before the exam:
 
-* Make sure that your exam is deployed on the exam server and that the portal page URL has been published to your students. You can use
-  data (UBIT username and PIN) of one of the students in your course to test accessing the exam from the page
-  [exams.math.buffalo.edu](https://exams.math.buffalo.edu). Also, make sure that the Gradescope assignment for students' submissions is ready.
+* Make sure that your exam is deployed on the exam server and that the portal page URL has been published to your students.
+  Also, make sure that the Gradescope assignment for students' submissions is ready.
 * Remind all your proctors about the exam and ask them to be present on proctoring voice channels on the Math Department Discord server
   during the exam. In this way they will be able to communicate with other proctors and with you without the need for you to join their zoom
   meetings. Proctors should wear headphones, to reduce the chance of Discord communications being unintentionally heard by students in the Zoom

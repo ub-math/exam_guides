@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Student's Guide"
 splash: "'assets/images/jumbo_bgd.jpg'"
-version: "2022.12.27"
+version: "2023.05.18"
 ---
 
 
@@ -56,7 +56,7 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
           bottom).</li>
         <li>Click Sign In and then choose <b>SSO</b> where it says <em>SIGN IN WITH</em>.</li>
         <li>Type <code>buffalo</code> where it says <em>Enter your company domain</em>.</li>
-        <li>On the next screen log in using your UB username and password (Duo will be required for this step).</li>
+        <li>On the next screen log in using your UB username and password.</li>
       </ul>
       Here is a <a target="_blank"
         href="https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d26e3813-f3d1-4ed7-bae5-ac50012bc2e9">short
@@ -122,33 +122,6 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 
 <br />
 
-## The exam PIN
-
-<div class="container" style="padding-left:0">
-  <div class="row">
-
-    <div class="col-lg">
-      <p>
-        To access the proctored Zoom meeting and the exam questions you will need the exam PIN. You received the PIN in
-        an
-        email from the Math Department Associate Chair, prof. Bernard Badzioch (badzioch@buffalo.edu).
-        A few days before the exam make sure that you have the PIN. If you can’t find it, contact the course instructor.
-        For each math course you are taking this semester, you will use the same PIN for all exams.
-      </p>
-    </div>
-    <br />
-    <div class="col-lg" style="padding-right: 0px;">
-      <div class="alert alert-dismissible alert-danger">
-        <h5 class="alert-heading">Important:</h5>
-        Keep the exam PIN private. Sharing it with other persons will be considered as an act of Academic
-        Dishonesty.
-        It can also implicate you in acts of dishonesty committed by others.
-      </div>
-    </div>
-
-  </div>
-</div>
-<br />
 
 
 ## Your exam workspace
@@ -180,7 +153,6 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
             sure that your device is fully charged or it is connected to a charger.</li>
           <li>A Gradescope account.</li>
           <li>UB student ID (or a government issued photo ID).</li>
-          <li>Your exam PIN.</li>
           <li>Pen or pencil.</li>
           <li>Blank paper.</li>
           <li>Desk or table clear of any items, besides those listed above.</li>
@@ -312,10 +284,10 @@ Math Department staff members proctor the exams via students' smartphone/tablet 
 meeting.
 * Join the Zoom meeting on your smartphone by going to the page
 [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom){:target="_blank" rel="noopener"}
-and entering your UBIT name and your personal PIN for the course. You need to be signed into Zoom using your UB Zoom
-account.
-You should be in the Zoom meeting about 10 minutes prior to the start of the exam, so the proctor can check you in
-before the exam begins.
+You will be asked to enter your UBIT username and password. On the follwing page, click the button
+"Click here to go to the assigned meeting", which will launch a Zoom meeting. Note that you will need to be
+signed into Zoom using your UB Zoom account to join the exam Zoom meeting. You should be in the Zoom meeting about
+10 minutes prior to the start of the exam, so the proctor can check you in before the exam begins.
 
 <div class="alert alert-dismissible alert-info">
   <b>Note.</b> When you try to join the meeting you may see the message "The host has another meeting in progress.".
@@ -325,12 +297,8 @@ before the exam begins.
 * Set your Zoom device to use the front-facing (selfie) camera.
 
 * Turn the video on, the speaker on and volume loud enough so that you can hear the proctor, but not so loud that
-you
-will be disturbed
-by occasional verbal interactions of the proctor with other students during the exam. Turn your microphone off (you
-can
-unmute yourself
-temporarily if you need to talk to the proctor).
+you will be disturbed by occasional verbal interactions of the proctor with other students during the exam.
+Turn your microphone off (you can unmute yourself temporarily if you need to talk to the proctor).
 
 
 #### 2. Follow the proctor's instructions
@@ -341,8 +309,9 @@ temporarily if you need to talk to the proctor).
 #### 3. Access the exam questions
 
 * On your computer, in a web browser, access the following URL:
-[exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}.
-* Enter your UBIT username and the exam PIN, and wait for the proctor to announce the exam password.
+[exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}. You will need to
+enter your UBIT username and password to access this page.
+* Wait for the proctor to announce the exam password.
 * Enter the exam password, click Go to access the exam questions, and begin work on the exam.
 
 #### 4. Answer the exam questions

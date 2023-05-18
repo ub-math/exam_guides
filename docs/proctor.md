@@ -2,7 +2,7 @@
 layout: default
 title: "UB Math Exams: Proctor's Guide"
 splash: "'assets/images/jumbo_proctor_bgd.jpg'"
-version: "2022.12.27"
+version: "2023.05.18"
 ---
 
 
@@ -26,9 +26,6 @@ version: "2022.12.27"
 ## Our goal: remote exams with integrity
 
 With remote exams there are many opportunities for cheating. Our goal is to conduct remote exams which have integrity.
-Respondus Monitor had been found not effective in preventing cheating.
-**2-device live-proctored exams** have the potential to be effective.
-
 
 <br/>
 
