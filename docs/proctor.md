@@ -34,7 +34,7 @@ With remote exams there are many opportunities for cheating. Our goal is to cond
 A table with Zoom links of meetings occurring in the next 7 days is maintained
 [here](http://blue.math.buffalo.edu/exams_next_7_days.html){:target="_blank" rel="noopener"},
 and the complete list of current proctoring assignments is here:
-[ http://blue.math.buffalo.edu/2211_exam_proctor_schedule_rev6.xlsx](http://blue.math.buffalo.edu/2211_exam_proctor_schedule_rev6.xlsx){:target="_blank"
+[https://bit.ly/3MynWt0](https://bit.ly/3MynWt0){:target="_blank"
 rel="noopener"}.
 
 
