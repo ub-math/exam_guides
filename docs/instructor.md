@@ -98,6 +98,9 @@ To access their exam pdf, your students will go to [exams.math.buffalo.edu](http
 and enter their UBIT username and password, and the above exam password. The exam password should be kept secret until
 it is delivered to the students at the moment you want them to start work on the exam.
 
+To verify that the exam is accessible on the exam server, go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}, log in using your own UBIT credentials, and then enter the exam password. You will have the same view of the
+exam as a student would.
+
 <h5>Important:</h5>
 <p>
 Do not place the links to the exam server (<a href="https://exams.math.buffalo.edu" target="_blank">exams.math.buffalo.edu</a>
@@ -161,7 +164,7 @@ The director of AR Jennifer Morely [jmorley@buffalo.edu](mailto:jmorley@buffalo.
 her with details of such students at least one week in advance of the exam.
 
 Please do not ask your own proctors to stay late to accommodate students needing extra time. If you wish to provide
-extra-time proctoring yourself, please notify the Associate Chair [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and
+extra-time proctoring yourself, please notify John Ringland [ringland@buffalo.edu](mailto:ringland@buffalo.edu) and
 you can be made an Alternative Host of one of your zoom sessions.
 
 
@@ -176,6 +179,8 @@ you can be made an Alternative Host of one of your zoom sessions.
   - join the exam Zoom meeting from their phone or tablet using the [exams.math.buffalo.edu/zoom](https://exams.math.buffalo.edu/zoom) webpage.
   - access the exam using their computers using the [exams.math.buffalo.edu](https://exams.math.buffalo.edu) webpage. The exam password for this
     webpage will be provided to them at the beginning of the exam.
+* Explain to the students how they will be submitting their exams (using Gradescope, UBLearns etc.). It is good to create a sample
+  assignment that students can use before the exam to familiarize themselves with the submission process.
 * Refer students to the [Student’s Guide](index.md) for detailed instructions.
 
     <div class="alert alert-dismissible alert-info">
@@ -203,7 +208,8 @@ you can be made an Alternative Host of one of your zoom sessions.
 #### The evening before the exam:
 
 * Make sure that your exam is deployed on the exam server and that the portal page URL has been published to your students.
-  Also, make sure that the Gradescope assignment for students' submissions is ready.
+  To do this go to [exams.math.buffalo.edu](https://exams.math.buffalo.edu){:target="_blank" rel="noopener"}, log in using your own UBIT credentials, and then enter the exam password. You will have the same view of the exam as a student would.
+* Make sure that the platform the students will use to submnit their exam (Gradescope, UBLearns etc.) is ready.
 * Remind all your proctors about the exam and ask them to be present on proctoring voice channels on the Math Department Discord server
   during the exam. In this way they will be able to communicate with other proctors and with you without the need for you to join their zoom
   meetings. Proctors should wear headphones, to reduce the chance of Discord communications being unintentionally heard by students in the Zoom
@@ -249,7 +255,6 @@ and then submit their work to Gradescope.
     file even before you start grading the exam. This will not interfere in any way with your grading process.
 
 #### Generate a time chart
-
 
 Knowing when students joined and left a proctoring session, accessed the exam questions, and submitted their work, is critical
 for detecting cheating. If you use the Exam Server, Zoom live-proctoring, and Gradescope, all of this information can be easily
