@@ -67,8 +67,7 @@ There are two pieces of information that you will need before an exam in order t
 * **A link to the exam Zoom meeting.** These meetings are centrally scheduled by the Math Department - proctors do not
 schedule these meetings.
 When a meeting you are assigned to proctor is scheduled, you will receive an email from Zoom informing you that you have
-been made
-an Alternative Host of the meeting. You can also find the link to this meeting here.
+been made an Alternative Host of the meeting. You can also find the link to this meeting here.
 * **The exam password.** You will need to announce this password to students, so that they can access exam questions.
 The password should be provided to you by the instructor of the course for which you are proctoring, ahead of the exam.
 
