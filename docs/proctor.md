@@ -15,7 +15,7 @@ version: "2023.05.18"
       meeings (from phone/tablet).</li>
     <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from
       a computer).</li>
-    <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days</a>.</li>
+    <li> <a href="https://blue.math.buffalo.edu/upcoming_exams.html"> Upcoming exam meetings</a>.</li>
   </ul>
 </div>
 
@@ -31,8 +31,8 @@ With remote exams there are many opportunities for cheating. Our goal is to cond
 
 ## Proctoring assignments
 
-A table with Zoom links of meetings occurring in the next 7 days is maintained
-[here](http://blue.math.buffalo.edu/exams_next_7_days.html){:target="_blank" rel="noopener"},
+A table with Zoom links of upcoming meetings is maintained
+[here](https://blue.math.buffalo.edu/upcoming_exams.html){:target="_blank" rel="noopener"},
 and the complete list of current proctoring assignments is here:
 [https://bit.ly/3MynWt0](https://bit.ly/3MynWt0){:target="_blank"
 rel="noopener"}.

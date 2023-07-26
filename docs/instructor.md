@@ -14,7 +14,7 @@ version: "2023.05.18"
   <li> <a href="/proctor.html">Math Exams Proctor's Guide</a> - exam instructions for proctors.</li>
   <li> <a href="https://exams.math.buffalo.edu/zoom"> exams.math.buffalo.edu/zoom</a> - portal for accessing exam Zoom meetings (from phone/tablet).</li>
   <li> <a href="https://exams.math.buffalo.edu"> exams.math.buffalo.edu</a> - portal for accessing exam problems (from a computer).</li>
-  <li> <a href="http://blue.math.buffalo.edu/exams_next_7_days.html"> Exam meetings for the next 7 days</a>.</li>
+  <li> <a href="https://blue.math.buffalo.edu/upcoming_exams.html"> Upcoming exam meetings</a>.</li>
   </ul>
 </div>
 
@@ -145,8 +145,8 @@ before the first exam, so students can get some experience with the submission p
 
         <p>For proctoring purposes, your class will be split into groups of no more than 30 students. Each group will take the exam
         in a separate Zoom meeting, with all meetings running in parallel at the same time.  Each group has a TA assigned as the proctor.
-        A table of meetings occurring in the next 7 days, with the Zoom links, is maintained
-        <a href="http://blue.math.buffalo.edu/exams_next_7_days.html">here</a>.</p>
+        A table of upcoming meetings, with the Zoom links, is maintained
+        <a href="https://blue.math.buffalo.edu/upcoming_exams.html">here</a>.</p>
         </div>
         <div class="col-lg">
         <img style='width:500px;' src="./assets/images/proctoring_setup.png" />
@@ -202,7 +202,7 @@ you can be made an Alternative Host of one of your zoom sessions.
   sessions so that it can be announced to the students at the moment the exam is to begin.
 * When the proctoring meeting is scheduled by the Department, each proctor will receive an email from Zoom that she or he has been
   made an Alternative Host of the meeting. Detailed information for proctors on how to run a proctored meeting are specified in the
-  [Proctor’s Guide](proctor.md). Information about all upcoming meetings is maintained [here](http://blue.math.buffalo.edu/exams_next_7_days.html).
+  [Proctor’s Guide](proctor.md). Information about all upcoming meetings is maintained [here](https://blue.math.buffalo.edu/upcoming_exams.html).
 
 
 #### The evening before the exam:
